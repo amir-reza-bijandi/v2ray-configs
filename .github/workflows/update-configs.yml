@@ -1,20 +1,17 @@
 name: Update V2Ray Configs
 
 on:
-  # Run on every push to main
   push:
     branches: [main]
-  # Run on a schedule (every 30 minutes)
   schedule:
     - cron: "*/30 * * * *"
-  # Allow manual trigger from the Actions tab
   workflow_dispatch:
 
 jobs:
   update-configs:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # needed to commit configs.txt back
+      contents: write
 
     steps:
       - name: Checkout repository

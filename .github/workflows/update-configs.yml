@@ -1,0 +1,46 @@
+name: Update V2Ray Configs
+
+on:
+  # Run on every push to main
+  push:
+    branches: [main]
+  # Run on a schedule (every 30 minutes)
+  schedule:
+    - cron: "*/30 * * * *"
+  # Allow manual trigger from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  update-configs:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # needed to commit configs.txt back
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Install dependencies
+        run: bun install
+
+      - name: Fetch configs from Telegram
+        env:
+          TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
+          TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
+          TELEGRAM_SESSION: ${{ secrets.TELEGRAM_SESSION }}
+          CHANNEL_USERNAME: ${{ secrets.CHANNEL_USERNAME }}
+        run: bun run fetch
+
+      - name: Commit & push updated configs
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add configs.txt
+          # Only commit if the file actually changed
+          git diff --cached --quiet || git commit -m "chore: update configs [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push

@@ -1,0 +1,19 @@
+{
+  "name": "v2ray-configs",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "fetch": "bun scripts/fetch.ts",
+    "gen-session": "bun scripts/gen-session.ts"
+  },
+  "dependencies": {
+    "@mtcute/bun": "latest"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}

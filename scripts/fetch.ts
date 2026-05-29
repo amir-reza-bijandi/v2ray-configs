@@ -3,8 +3,8 @@ import * as fs from "fs";
 
 // ─── Config ──────────────────────────────────────────────────────────────────
 const CHANNEL_USERNAME = Bun.env.CHANNEL_USERNAME ?? "YOUR_CHANNEL_HERE";
-const FETCH_LIMIT = 100; // how many messages to scan (not configs)
-const MAX_CONFIGS = 100; // max configs to keep in output
+const FETCH_LIMIT = 500; // how many messages to scan (not configs)
+const MAX_CONFIGS = 500; // max configs to keep in output
 const OUTPUT_FILE = "configs.txt";
 
 // Config URI prefixes to look for

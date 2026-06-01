@@ -1,10 +1,9 @@
 # v2ray-configs
 
-Automatically fetches the latest 100 V2Ray/Xray configs from a Telegram channel every 6 hours and writes them to `configs.txt` — ready to use as a subscription URL in any compatible client (v2rayNG, Nekoray, Hiddify, etc.).
+Automatically fetches the latest 100 V2Ray/Xray configs from a Telegram channel every 30 minutes and writes them to `configs.txt` and `configs.yaml` — ready to use as a subscription URL in any compatible client (v2rayNG, Nekoray, Hiddify, FLClash, Clash Party, etc.).
 
 > [!NOTE]
 > This project was built with the assistance of Claude (Anthropic). The code, structure, and documentation were generated through an AI-assisted development session and reviewed by the author.
-
 
 ---
 
@@ -38,45 +37,57 @@ Follow the prompts (phone number + verification code). It will print a session s
 
 Go to your repo → **Settings → Secrets and variables → Actions → New repository secret** and add:
 
-| Secret name         | Value                                     |
-|---------------------|-------------------------------------------|
-| `TELEGRAM_API_ID`   | Your numeric API ID                       |
-| `TELEGRAM_API_HASH` | Your API Hash string                      |
-| `TELEGRAM_SESSION`  | The session string from step 3            |
+| Secret name         | Value                                            |
+| ------------------- | ------------------------------------------------ |
+| `TELEGRAM_API_ID`   | Your numeric API ID                              |
+| `TELEGRAM_API_HASH` | Your API Hash string                             |
+| `TELEGRAM_SESSION`  | The session string from step 3                   |
 | `CHANNEL_USERNAME`  | Channel username without `@` (e.g. `ConfigsHub`) |
 
 ### 5 — Enable Actions & trigger a first run
 
-Go to **Actions** → select *Update V2Ray Configs* → **Run workflow**.
+Go to **Actions** → select _Update V2Ray Configs_ → **Run workflow**.
 
-`configs.txt` will be committed to the repo after the first successful run.
+`configs.txt` and `configs.yaml` will be committed to the repo after the first successful run.
 
 ---
 
-## Subscription URL
+## Subscription URLs
 
-Once the Action has run, your subscription URL is:
+Once the Action has run, use these URLs in your clients:
+
+**V2Ray / Xray — v2rayNG, Nekoray, Hiddify, etc.**
 
 ```
 https://raw.githubusercontent.com/amir-reza-bijandi/v2ray-configs/main/configs.txt
 ```
 
-Paste this into your V2Ray/Xray client's subscription field.
+**Clash Meta — FLClash, Mi Clash, Clash Party, etc.**
+
+```
+https://raw.githubusercontent.com/amir-reza-bijandi/v2ray-configs/main/configs.yaml
+```
 
 ---
 
 ## Schedule
 
 The workflow runs automatically:
-- **Every 30 min** (cron: `*/30 * * * *`)
+
+- **Every 30 minutes** (via [cron-job.org](https://cron-job.org) webhook)
 - On every **push to `main`**
 - On **manual trigger** from the Actions tab
+
+> [!NOTE]
+> GitHub's built-in scheduler is unreliable for sub-hourly intervals. An external cron service (cron-job.org) is used to trigger the workflow via `workflow_dispatch` every 30 minutes for reliable execution.
 
 ---
 
 ## Supported config types
 
-The fetcher looks for URIs starting with:
+The fetcher looks for URIs starting with:  
 `vless://` · `vmess://` · `trojan://` · `ss://` · `ssr://` · `tuic://` · `hysteria://` · `hysteria2://` · `hy2://` · `wireguard://`
 
 Only messages containing `#v2ray` or a recognized URI prefix are processed.
+
+All protocols are also converted to Clash Meta format in `configs.yaml`, including TLS, Reality, WebSocket, gRPC, and obfuscation options where applicable.

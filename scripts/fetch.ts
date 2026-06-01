@@ -41,8 +41,23 @@ function isV2rayPost(text: string): boolean {
 // ─── URI → Clash Proxy Parsers ────────────────────────────────────────────────
 
 let _nameCounter = 0;
+
+function sanitizeName(raw: string): string {
+  return (
+    raw
+      // ASCII control characters
+      .replace(/[\x00-\x1F\x7F-\x9F]/g, '')
+      // Zero-width spaces, bidirectional overrides, BOM, soft-hyphen (common in Telegram)
+      .replace(/[\u00AD\u200B-\u200F\u202A-\u202E\u2060-\u2064\uFEFF]/g, '')
+      // Collapse whitespace
+      .replace(/\s+/g, ' ')
+      .trim()
+  );
+}
+
 function uniqueName(base: string): string {
-  return base ? `${base}-${++_nameCounter}` : `proxy-${++_nameCounter}`;
+  const clean = sanitizeName(base);
+  return clean ? `${clean}-${++_nameCounter}` : `proxy-${++_nameCounter}`;
 }
 
 function safeBase64(s: string): string {
@@ -266,6 +281,16 @@ function uriToClashProxy(uri: string): ClashProxy | null {
 }
 
 // ─── Clash YAML Builder ───────────────────────────────────────────────────────
+
+/** Strip control/invisible chars from any string value before writing to YAML */
+function safeYamlStr(v: unknown): string {
+  return JSON.stringify(
+    String(v)
+      .replace(/[\x00-\x1F\x7F-\x9F]/g, '')
+      .replace(/[\u00AD\u200B-\u200F\u202A-\u202E\u2060-\u2064\uFEFF]/g, ''),
+  );
+}
+
 function buildClashYaml(proxies: ClashProxy[], timestamp: string): string {
   const names = proxies.map((p) => p.name as string);
 
@@ -281,16 +306,18 @@ function buildClashYaml(proxies: ClashProxy[], timestamp: string): string {
           if (typeof v2 === 'object') {
             lines.push(`      ${k2}:`);
             for (const [k3, v3] of Object.entries(v2 as Record<string, unknown>)) {
-              lines.push(`        ${k3}: ${JSON.stringify(v3)}`);
+              lines.push(`        ${k3}: ${typeof v3 === 'string' ? safeYamlStr(v3) : JSON.stringify(v3)}`);
             }
           } else {
-            lines.push(`      ${k2}: ${JSON.stringify(v2)}`);
+            lines.push(`      ${k2}: ${typeof v2 === 'string' ? safeYamlStr(v2) : JSON.stringify(v2)}`);
           }
         }
       } else if (Array.isArray(v)) {
-        lines.push(`    ${k}: [${v.map((i) => JSON.stringify(i)).join(', ')}]`);
+        lines.push(
+          `    ${k}: [${v.map((i) => (typeof i === 'string' ? safeYamlStr(i) : JSON.stringify(i))).join(', ')}]`,
+        );
       } else {
-        lines.push(`    ${k}: ${JSON.stringify(v)}`);
+        lines.push(`    ${k}: ${typeof v === 'string' ? safeYamlStr(v) : JSON.stringify(v)}`);
       }
     }
     return '  - ' + lines.join('\n').trimStart();
@@ -323,14 +350,14 @@ proxies:
 ${proxyLines.join('\n')}
 
 proxy-groups:
-  - name: "🚀 Select"
+  - name: "Select"
     type: select
     proxies:
-      - "♻️ Auto"
+      - "Auto"
       - "DIRECT"
 ${nameList}
 
-  - name: "♻️ Auto"
+  - name: "Auto"
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
@@ -338,23 +365,23 @@ ${nameList}
     proxies:
 ${nameList}
 
-  - name: "🛡️ Fallback"
+  - name: "Fallback"
     type: fallback
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
 ${nameList}
 
-  - name: "🎯 Direct"
+  - name: "Direct"
     type: select
     proxies:
       - DIRECT
-      - "🚀 Select"
+      - "Select"
 
 rules:
   - GEOIP,IR,DIRECT
   - GEOIP,private,DIRECT
-  - MATCH,🚀 Select
+  - MATCH,Select
 `;
 }
 

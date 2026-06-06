@@ -1,8 +1,9 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-06-06T22:00:27.545Z
-# Configs: 449
+# Updated: 2026-06-06T22:07:17.066Z
+# Configs: 436
 # Source: https://t.me/ConfigsHUB2
 
+vless://36796640-99ff-4834-a43e-5336b6afe450@188.114.97.6:8443?mode=auto&path=%2Ftake&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=s3.alivpn.qzz.io&fp=chrome&type=xhttp&allowInsecure=0&sni=s3.alivpn.qzz.io#[🇨🇦]t.me/ConfigsHub
 vless://1d7e3f3d-2f9c-4f41-8529-a1566718f3b7@162.19.132.11:2035?security=none&encryption=none&headerType=none&type=tcp#[🇫🇷]t.me/ConfigsHub
 vless://ec5e0aed-c265-4f02-9142-8ec76ee50ceb@se.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=2f49bccf11150ef2#[🇸🇪]t.me/ConfigsHub
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@140.248.152.12:80?security=none&type=ws&host=en.mfa.gov.ir&path=@VPNine1@VPNine1@VPNine1@VPNine1?ED#[🏁]t.me/ConfigsHub
@@ -438,17 +439,3 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.70:8443?security=tls&enc
 vless://1de6be2d-567a-4663-b5ea-5de8afe0f496@wsxedcrfvtbgyhnnujmi.sd.noafra.ir:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&host=play.google.com&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://51223d7e-3385-431e-a1b8-3173b8970aac@188.114.97.6:443?mode=auto&path=%2Ftake&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=s4.alivpn.qzz.io&fp=chrome&type=xhttp&allowInsecure=0&sni=s4.alivpn.qzz.io#[🇨🇦]t.me/ConfigsHub
 vless://ee6ca40f-57e4-5943-8e4c-7a9b911aff44@45.89.106.4:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw&headerType=none&fp=chrome&type=tcp&sni=microsoft.com&sid=972e3378#[🇮🇳]t.me/ConfigsHub
-vless://ee6ca40f-57e4-5943-8e4c-7a9b911aff44@45.89.106.4:443?security=reality&encryption=none&pbk=EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw&headerType=none&fp=chrome&type=tcp&sni=microsoft.com&sid=972e3378#[🇮🇳]t.me/ConfigsHub
-vless://1de6be2d-567a-4663-b5ea-5de8afe0f496@wsxedcrfvtbgyhnnujmi.sd.noafra.ir:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&host=play.google.com&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
-vless://51223d7e-3385-431e-a1b8-3173b8970aac@188.114.97.6:443?mode=auto&path=%2Ftake&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=s4.alivpn.qzz.io&fp=chrome&type=xhttp&allowInsecure=0&sni=s4.alivpn.qzz.io#[🇨🇦]t.me/ConfigsHub
-vless://cb9ccb94-fde2-4d8d-be80-00b56c2c9d2f@185.143.233.5:2082?path=%2F&security=none&encryption=none&host=aliyanserver.ir&type=ws#[🇮🇷]t.me/ConfigsHub
-vless://a523ebbc-9e76-47f2-57e8-89005ceb4cbe@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn1.darafiq.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn1.darafiq.ir#[🇮🇷]t.me/ConfigsHub
-vless://ca247477-d743-41f5-adbe-fbe5dec1c3ea@65.109.185.140:27995?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#[🇫🇮]t.me/ConfigsHub
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.169:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#[🏁]t.me/ConfigsHub
-vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@146.75.117.91:80?mode=auto&path=%2FTignal&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=tignaltofansv5.global.ssl.fastly.net&type=xhttp#[🇩🇪]t.me/ConfigsHub
-vless://42026ed0-7d74-4585-8e46-0fe6aa4d665a@104.18.155.229:443?path=%2Fau-do&security=tls&encryption=none&insecure=1&host=www.genflix.co.id.r3xxe.eu.cc&type=ws&allowInsecure=1&sni=www.genflix.co.id.r3xxe.eu.cc#[🇨🇦]t.me/ConfigsHub
-vless://933e8995-3b6d-4d42-8b23-e649f0e7205f@209.46.30.149:443?path=%2Fus-gllc&security=tls&encryption=none&insecure=1&host=resources.office.com.r3xxe.eu.cc&type=ws&allowInsecure=1&sni=resources.office.com.r3xxe.eu.cc#[🏁]t.me/ConfigsHub
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1#[🇳🇱]t.me/ConfigsHub
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.51:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#[🏁]t.me/ConfigsHub
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.70:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#[🇳🇱]t.me/ConfigsHub
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#[🇫🇷]t.me/ConfigsHub

@@ -1,6 +1,6 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-06-06T07:51:16.993Z
-# Configs: 449
+# Updated: 2026-06-06T08:00:28.629Z
+# Configs: 441
 # Source: https://t.me/ConfigsHUB2
 
 trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?sni=fra34.tracker-ws.click#[🇩🇪]t.me/ConfigsHub
@@ -444,11 +444,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1T2FOQkI3ZGxLWEg=@155.133.130.93:443#[🇫�
 trojan://humanity@104.17.150.76:443?sni=www.calmloud.com&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=chrome#[🇨🇦]t.me/ConfigsHub
 vless://b49b8bce-0a58-47e8-880c-4fe12522df71@188.114.97.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fae-bo&security=tls&encryption=none&insecure=0&host=resources.office.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=resources.office.com.cyylr.eu.cc#[🇨🇦]t.me/ConfigsHub
 vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@172.67.211.74:80?security=none&type=ws&path=%2F&host=main.boobie.eu.cc#[🇨🇦]t.me/ConfigsHub
-vless://2309d24d-3ad9-48b6-8bd8-e50cfabde935@Fast.postshup.ir:8880?path=%2F%3Fed%3D2082&security=none&encryption=none&host=cdn-pro4.postshup.ir.&type=httpupgrade#[🇸🇨]t.me/ConfigsHub
-vless://b5e53ee0-f240-4db2-90e3-5f38a3eaeacf@172.67.206.5:80?security=none&type=ws&path=%2Fsm-ws-7k9q&host=semimag.ir&encryption=none#[🇨🇦]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWMjlCcGJ0a2hXWnI=@185.204.1.253:443#[🇫🇮]t.me/ConfigsHub
-ss://YWVzLTEyOC1nY206a2Z1emt3ZGc0b3ludjQ5NWF5d2M=@86.106.84.195:13262#[🇨🇭]t.me/ConfigsHub
-trojan://bpb-trojan@vless.herogoing.top:443?sni=vless.herogoing.top&type=ws&path=%2Ftr%3Fed%3D2560&fp=chrome#[🇨🇦]t.me/ConfigsHub
-vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&alpn=h2&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=cdg-1.fromblancwithlove.com#[🇫🇷]t.me/ConfigsHub
-vless://3a9d7276-bf4c-47cb-9a8a-16658d543bb1@188.114.97.6:2083?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=frir.sodogodping.ir&type=xhttp&allowInsecure=0&sni=frir.sodogodping.ir#[🇨🇦]t.me/ConfigsHub
-vless://63ec2a82-e47c-4782-a89e-9aca2baf17ef@188.114.97.6:443?security=tls&type=ws&path=%2Fid-pusat&host=quiz.int.vidio.com.ex33r.eu.cc&sni=quiz.int.vidio.com.ex33r.eu.cc&fp=chrome&encryption=none#[🇨🇦]t.me/ConfigsHub

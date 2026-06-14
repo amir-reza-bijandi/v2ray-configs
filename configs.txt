@@ -1,8 +1,10 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-06-14T12:00:31.442Z
+# Updated: 2026-06-14T12:01:22.744Z
 # Configs: 379
 # Source: https://t.me/ConfigsHUB2
 
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=%2F&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://146eb6cf-a99c-4022-85ca-022cf81502dc@195.74.93.254:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#[🇹🇷]t.me/ConfigsHub
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@www.speedtest.net:2096?path=%2Fws%3Fed&security=tls&encryption=none&insecure=0&host=com.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=872ede3847653442.hozheen.ir#[🇨🇦]t.me/ConfigsHub
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.18.4.138:2096?path=%2Fws%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=greattehran.hozheen.ir&type=ws&allowInsecure=0&sni=f53d749fda28cb85.hozheen.ir#[🇨🇦]t.me/ConfigsHub
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=%2F&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#[🇨🇦]t.me/ConfigsHub
@@ -380,5 +382,3 @@ vless://65ceef27-25bd-4912-8a14-7ccd9c005530@188.213.198.238:4050?security=none&
 vless://1fb10d77-5016-4b4a-9104-47689c9133e3@188.213.198.238:4050?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://d39664df-5bc0-4f49-9894-8f03b4150082@germany-vip.soft26.ir:8443?mode=auto&path=%2F&security=reality&encryption=none&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&fp=chrome&allowinsecure=0&type=xhttp&sni=www.yahoo.com&sid=6f3192#[🇨🇭]t.me/ConfigsHub
 vless://c4e2ea1b-c92c-43db-9d05-295e160ec1b2@82.158.120.56:719?path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&security=&encryption=none&host=play.google.com&type=ws#[🇩🇪]t.me/ConfigsHub
-vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@Chatgpt.com:8443?path=%2FV2rayNGSelllBoT---V2rayNGSelllBoT---V2rayNGSelllBoT&security=tls&encryption=none&host=nameless-sunset-62b7.jalalpoi77.workers.dev&fp=chrome&type=ws&sni=nameless-sunset-62b7.jalalpoi77.workers.dev#[🇨🇦]t.me/ConfigsHub
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.67:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn7-09.vk-cdnvideo.com#[🏁]t.me/ConfigsHub

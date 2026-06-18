@@ -1,8 +1,21 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-06-18T02:00:30.135Z
-# Configs: 437
+# Updated: 2026-06-18T02:30:25.482Z
+# Configs: 439
 # Source: https://t.me/ConfigsHUB2
 
+vless://718ff826-3d64-441c-b1ec-54a1d7394931@cell.connectingissues.ir:80?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&mode=auto&path=%2F%3Fed%3D2048&security=none&type=xhttp&x_padding_bytes=100-1000#[🇳🇴]t.me/ConfigsHub
+vless://2d0f4a5d-fe76-448f-8810-5f8b0d2cd237@173.245.59.109:443?path=%2Fv2ngfast---v2ngfast---v2ngfast---v2ngfast---v2ngfast&security=tls&encryption=none&host=mknulgfkydfkmdg.manmanbbvv.workers.dev&fp=chrome&type=ws&sni=mknulgfkydfkmdg.manmanbbvv.workers.dev#[🇨🇦]t.me/ConfigsHub
+trojan://MiTiVPN@151.101.110.219:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=mitivpn.global.ssl.fastly.net&sni=global.fastly.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#[🏁]t.me/ConfigsHub
+trojan://MiTiVPN@151.101.1.194:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=mitivpn-s2.global.ssl.fastly.net&sni=global.fastly.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
+vless://079945e0-ac40-41db-b0fc-f4decfb35687@afra.iran158.site:7443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=de.iran158.site#[🇮🇷]t.me/ConfigsHub
+vless://eea2ed69-204c-483c-bfa0-973d255f6111@afra.iran158.site:11443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=de.iran158.site#[🇮🇷]t.me/ConfigsHub
+vless://eea2ed69-204c-483c-bfa0-973d255f6111@afra.iran158.site:6443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=de.iran158.site#[🇮🇷]t.me/ConfigsHub
+vless://ac81eae5-3f36-4832-a4e3-9d1d18180c94@ips.it.mobileemdad.top:42538?security=none&encryption=none&host=ips.it.mobileemdad.top&headerType=http&type=tcp#[🇮🇹]t.me/ConfigsHub
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@gerardo.ns.cloudflare.com:80?path=%2F%3Fed%3D3000&security=&encryption=none&host=pon.antalmani.mm.am&type=ws#[🇨🇦]t.me/ConfigsHub
+ss://YWVzLTEyOC1nY206N2wzaTZlbDZoeXgweHE1ajFjOGI@68.168.209.194:17276#[🏁]t.me/ConfigsHub
+ss://YWVzLTEyOC1nY206N2wzaTZlbDZoeXgweHE1ajFjOGI@68.168.209.194:17276#[🏁]t.me/ConfigsHub
+vless://60522ab0-8679-463c-89e6-3f3dcf349939@afra.iran158.site:12443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=de.iran158.site#[🇮🇷]t.me/ConfigsHub
+vless://05533d00-c1ff-4796-95e0-6e1887ff7848@afra.iran158.site:12443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=de.iran158.site#[🇮🇷]t.me/ConfigsHub
 vless://05533d00-c1ff-4796-95e0-6e1887ff7848@afra.iran158.site:11443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=de.iran158.site#[🇮🇷]t.me/ConfigsHub
 vless://079945e0-ac40-41db-b0fc-f4decfb35687@afra.iran158.site:6443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=de.iran158.site#[🇮🇷]t.me/ConfigsHub
 vless://eea2ed69-204c-483c-bfa0-973d255f6111@afra.iran158.site:12443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=de.iran158.site#[🇮🇷]t.me/ConfigsHub
@@ -429,14 +442,3 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#[🏁]t.me/ConfigsHub
 vless://304473c5-fb8e-43d2-bf8c-9b980b9c9308@local.connectingissues.ir:80?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&mode=auto&path=%2F%3Fed%3D2048&security=none&type=xhttp&x_padding_bytes=100-1000#[🇨🇦]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206N051QjBZNW0zYU56a0tNS2xGb013a2lhanN1NkYzNmM5b2s0VktFWm5CND0=@de5.taskflowhub.org:2083#[🇩🇪]t.me/ConfigsHub
 vless://304473c5-fb8e-43d2-bf8c-9b980b9c9308@mci.connectingissues.ir:80?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&mode=auto&path=%2F%3Fed%3D2048&security=none&type=xhttp&x_padding_bytes=100-1000#[🇨🇦]t.me/ConfigsHub
-vless://304473c5-fb8e-43d2-bf8c-9b980b9c9308@cell.connectingissues.ir:80?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&mode=auto&path=%2F%3Fed%3D2048&security=none&type=xhttp&x_padding_bytes=100-1000#[🇳🇴]t.me/ConfigsHub
-vless://304473c5-fb8e-43d2-bf8c-9b980b9c9308@euro.connectingissues.ir:80?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&mode=auto&path=%2F%3Fed%3D2048&security=none&type=xhttp&x_padding_bytes=100-1000#[🇨🇦]t.me/ConfigsHub
-vless://304473c5-fb8e-43d2-bf8c-9b980b9c9308@global.connectingissues.ir:80?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&mode=auto&path=%2F%3Fed%3D2048&security=none&type=xhttp&x_padding_bytes=100-1000#[🇨🇦]t.me/ConfigsHub
-trojan://MiTiVPN@172.67.210.215:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#[🇨🇦]t.me/ConfigsHub
-vless://304473c5-fb8e-43d2-bf8c-9b980b9c9308@mci.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#[🇨🇦]t.me/ConfigsHub
-vless://2d0f4a5d-fe76-448f-8810-5f8b0d2cd237@173.245.59.109:443?path=%2Fv2ngfast---v2ngfast---v2ngfast---v2ngfast---v2ngfast&security=tls&encryption=none&host=mknulgfkydfkmdg.manmanbbvv.workers.dev&fp=chrome&type=ws&sni=mknulgfkydfkmdg.manmanbbvv.workers.dev#[🇨🇦]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNYjNPcW54QUFqTkEya2d0@20.107.209.255:443#[🇮🇪]t.me/ConfigsHub
-vless://304473c5-fb8e-43d2-bf8c-9b980b9c9308@mci.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#[🇨🇦]t.me/ConfigsHub
-vless://304473c5-fb8e-43d2-bf8c-9b980b9c9308@mci.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#[🇨🇦]t.me/ConfigsHub
-vless://304473c5-fb8e-43d2-bf8c-9b980b9c9308@mci.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#[🇨🇦]t.me/ConfigsHub
-vless://304473c5-fb8e-43d2-bf8c-9b980b9c9308@local.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#[🇨🇦]t.me/ConfigsHub

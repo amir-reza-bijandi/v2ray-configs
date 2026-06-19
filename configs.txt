@@ -1,8 +1,11 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-06-19T01:48:39.594Z
-# Configs: 422
+# Updated: 2026-06-19T02:00:33.643Z
+# Configs: 421
 # Source: https://t.me/ConfigsHUB2
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:8080#[🏁]t.me/ConfigsHub
+vless://8beb2f68-d257-483a-be64-ff4c713f1c63@65.109.199.53:52219?type=tcp&encryption=none&security=reality&pbk=cKE3i_J1asS5PgauqF-Ci8OlabLXmfUo1KaJ0Kc_rWQ&fp=chrome&sni=www.nvidia.com&sid=f8&spx=%2F&flow=xtls-rprx-vision#[🇫🇮]t.me/ConfigsHub
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.249:8880?mode=gun&security=none&encryption=none&type=grpc#[🇮🇹]t.me/ConfigsHub
 vless://0f7013e2-fa67-4978-a6e8-74833a97ebee@ip1.iranphlox.ir:443?mode=auto&path=%2F&security=tls&encryption=none&host=nl-bezah-esmho-jange-amohaa-neto-truo-bezah.leofatpro.ir&type=xhttp&sni=nl-bezah-esmho-jange-amohaa-neto-truo-bezah.leofatpro.ir#[🇨🇦]t.me/ConfigsHub
 vless://9730b276-76d7-4bd9-a7b7-18940c9cf84d@65.109.199.53:52219?type=tcp&encryption=none&security=reality&pbk=cKE3i_J1asS5PgauqF-Ci8OlabLXmfUo1KaJ0Kc_rWQ&fp=chrome&sni=www.nvidia.com&sid=f8&spx=%2F&flow=xtls-rprx-vision#[🇫🇮]t.me/ConfigsHub
 vless://45dd64ae-574a-4e35-a3e8-ff29d7493aeb@65.109.199.53:52219?type=tcp&encryption=none&security=reality&pbk=cKE3i_J1asS5PgauqF-Ci8OlabLXmfUo1KaJ0Kc_rWQ&fp=chrome&sni=www.nvidia.com&sid=f8&spx=%2F&flow=xtls-rprx-vision#[🇫🇮]t.me/ConfigsHub
@@ -421,7 +424,3 @@ vmess://eyJhZGQiOiI4OS4xNjcuODIuMTAyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vmess://eyJhZGQiOiAiODkuMTY3LjgyLjEwMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiM2FkYzNiZDYtMTM5OS00MmM0LThmZTAtZjM1YmRhZDFkMmY1IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjQ0NDMiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
 trojan://dbWncIW7T26X5bZ8BUHQqcQ64Dqojg4PA393XBcUECw%3D@89.167.82.102:2053?security=none&headerType=&type=tcp#[🇩🇪]t.me/ConfigsHub
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206OERmN2UraEtIbDgzTWpWRU1FdkpqYkZpbk9Maml6Q3hWTmIrWnVReHp5QT06ZGJXbmNJVzdUMjZYNWJaOEJVSFFxY1E2NERxb2pnNFBBMzkzWEJjVUVDdz0@89.167.82.102:48461#[🇩🇪]t.me/ConfigsHub
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206OERmN2UraEtIbDgzTWpWRU1FdkpqYkZpbk9Maml6Q3hWTmIrWnVReHp5QT06ZGJXbmNJVzdUMjZYNWJaOEJVSFFxY1E2NERxb2pnNFBBMzkzWEJjVUVDdz0@89.167.82.102:48461#[🇩🇪]t.me/ConfigsHub
-vless://3adc3bd6-1399-42c4-8fe0-f35bdad1d2f5@89.167.82.102:2052?mode=auto&path=%2FPath&security=&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=89.167.82.102&type=xhttp#[🇩🇪]t.me/ConfigsHub
-vmess://eyJhZGQiOiI4OS4xNjcuODIuMTAyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjNhZGMzYmQ2LTEzOTktNDJjNC04ZmUwLWYzNWJkYWQxZDJmNSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQ0MyIsInBzIjoiW/Cfh6nwn4eqXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-trojan://dbWncIW7T26X5bZ8BUHQqcQ64Dqojg4PA393XBcUECw%3D@89.167.82.102:2080?security=none&headerType=&type=tcp#[🇩🇪]t.me/ConfigsHub

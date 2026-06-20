@@ -1,8 +1,16 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-06-20T00:00:32.019Z
-# Configs: 435
+# Updated: 2026-06-20T00:13:39.172Z
+# Configs: 433
 # Source: https://t.me/ConfigsHUB2
 
+vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@104.18.34.140:443?path=%2FMaSTeRSeRVeR1-MaSTeRSeRVeR1-MaSTeRSeRVeR1-MaSTeRSeRVeR1-MaSTeRSeRVeR1-MaSTeRSeRVeR1&security=tls&encryption=none&host=summer-butterfly-21b6.mohsenzzx.workers.dev&fp=chrome&type=ws&sni=summer-butterfly-21b6.mohsenzzx.workers.dev#[🇨🇦]t.me/ConfigsHub
+vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.5:8443?allowInsecure=1&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#[🇸🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YmFhNGVhZDIyZGIxZDdlOGZlYTA2M2I2YWVmY2M3Mw@172.233.108.250:1083#[🇪🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHbnVHRU9lNEZzTnlHc3FMYzJKaTBG@109.107.182.229:51544#[🇫🇮]t.me/ConfigsHub
+vless://44de73bc-eb6d-429d-9c2f-ec0a6e4a6681@my.configfast.site:4013?security=none&encryption=none&host=bale.ai%2Cweb.splus.ir%2Cigap.net&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://91a82f00-b3e0-4a2c-b4a5-6993ec7a4cf1@coco.shrekpop.com:8443?mode=auto&path=%2Frandom&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=1&host=base2.forzilo.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=base2.forzilo.ir#[🇸🇨]t.me/ConfigsHub
+vless://44f7eb71-de22-4a9c-8d5a-64fb7115c82f@45.205.0.58:443?encryption=none&type=xhttp&security=tls&path=%2F&host=panel.fredomiran.com&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=panel.fredomiran.com&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=0&allowInsecure=0#[🏁]t.me/ConfigsHub
+vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@8.6.112.62:2052?encryption=none&type=xhttp&mode=auto&host=cdn4.goofymoofy.com&path=/pabloping&security=none#[🏁]t.me/ConfigsHub
 vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@8.6.112.62:2052?encryption=none&type=xhttp&mode=auto&host=cdn4.goofymoofy.com&path=/pabloping&security=none#[🏁]t.me/ConfigsHub
 vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@88.216.67.230:2052?encryption=none&type=xhttp&mode=auto&host=cdn3.goofymoofy.com&path=/pabloping&security=none#[🇨🇼]t.me/ConfigsHub
 vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@8.6.112.62:2052?encryption=none&type=xhttp&mode=auto&host=cdn4.goofymoofy.com&path=/pabloping&security=none#[🏁]t.me/ConfigsHub
@@ -428,13 +436,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyQ2dtcTY1OHZjMmVqM1NF@20.223.176.12:443#[�
 vmess://eyJhZGQiOiAiZ29kLXBtLnMyLmdhbWluZ3NlcnZpY2UuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjE4NWU1NGEzLTVmM2EtZTA5Zi1jMjNlLTY1OWI1NThjYWYxOSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjI4MCIsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 vless://6a9bc6a6-9543-4f40-b8b5-9fa31e881473@45.130.125.101:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cji.new-persian-song.ir#[🇸🇨]t.me/ConfigsHub
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.170:8443?security=tls&encryption=none&headerType=none&fp=qq&type=tcp&sni=cdn3-87.vk-cdnvideo.com#[🇩🇪]t.me/ConfigsHub
-vless://6a9bc6a6-9543-4f40-b8b5-9fa31e881473@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cji.new-persian-song.ir#[🇸🇨]t.me/ConfigsHub
-vless://8684c32b-2ffb-4b75-802a-76f90fb15cba@latviant2.life:2053?mode=gun&security=reality&encryption=none&authority=deepl.com&pbk=ZYLVtAAKXdjtyV3rLfODQiheWedxr6_ZRGX6gfGd51k&fp=chrome&type=grpc&serviceName=deepl.com&sni=deepl.com&sid=d7abeb515312dc2f#[🇵🇱]t.me/ConfigsHub
-vless://6a9bc6a6-9543-4f40-b8b5-9fa31e881473@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=sh.mojaz-persian-music.ir#[🇸🇨]t.me/ConfigsHub
-vless://6a9bc6a6-9543-4f40-b8b5-9fa31e881473@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D80&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ssd.mojaz-persian-music.ir#[🇸🇨]t.me/ConfigsHub
-vless://6a9bc6a6-9543-4f40-b8b5-9fa31e881473@45.130.125.162:443?path=%2F%3Fed%3D80&security=tls&encryption=none&insecure=0&host=ssd.mojaz-persian-music.ir&fp=chrome&type=ws&allowInsecure=0&sni=ssd.mojaz-persian-music.ir#[🇸🇨]t.me/ConfigsHub
-vless://deb79775-35dc-4376-adf0-5b4fd26c691c@104.253.74.39:8080?security=reality&encryption=none&pbk=NJrlB9wz9ctlwMOIK8Jp7Ml25j77QlFOjpha1lEktkg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4a9acf81b8773e1e#[🏁]t.me/ConfigsHub
-vless://36284b89-03c0-4ec4-9ed9-e20e19d136cf@66.33.23.103:443?mode=auto&path=%2Fapi&security=tls&alpn=http%2F1.1%2Ch2&encryption=none&insecure=0&host=relay-production-9e5f.up.railway.app&fp=chrome&type=xhttp&allowInsecure=0&sni=relay-production-9e5f.up.railway.app#[🏁]t.me/ConfigsHub
-vless://36284b89-03c0-4ec4-9ed9-e20e19d136cf@66.33.23.87:443?mode=auto&path=%2Fapi&security=tls&alpn=http%2F1.1%2Ch2&encryption=none&insecure=0&host=relay-production-9e5f.up.railway.app&fp=chrome&type=xhttp&allowInsecure=0&sni=relay-production-9e5f.up.railway.app#[🏁]t.me/ConfigsHub
-vless://36284b89-03c0-4ec4-9ed9-e20e19d136cf@66.33.23.120:443?mode=auto&path=%2Fapi&security=tls&alpn=http%2F1.1%2Ch2&encryption=none&insecure=0&host=relay-production-9e5f.up.railway.app&fp=chrome&type=xhttp&allowInsecure=0&sni=relay-production-9e5f.up.railway.app#[🏁]t.me/ConfigsHub
-vless://36284b89-03c0-4ec4-9ed9-e20e19d136cf@66.33.23.97:443?mode=auto&path=%2Fapi&security=tls&alpn=http%2F1.1%2Ch2&encryption=none&insecure=0&host=relay-production-9e5f.up.railway.app&fp=chrome&type=xhttp&allowInsecure=0&sni=relay-production-9e5f.up.railway.app#[🏁]t.me/ConfigsHub

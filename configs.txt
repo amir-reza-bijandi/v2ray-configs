@@ -1,8 +1,17 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-06-21T01:00:34.278Z
-# Configs: 335
+# Updated: 2026-06-21T01:30:23.755Z
+# Configs: 336
 # Source: https://t.me/ConfigsHUB2
 
+vless://ccd508d0-6719-4f9f-a818-d28a90f61f9b@65.109.219.2:52219?security=reality&encryption=none&pbk=cKE3i_J1asS5PgauqF-Ci8OlabLXmfUo1KaJ0Kc_rWQ&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.oracle.com&sid=f8#[🇫🇮]t.me/ConfigsHub
+vless://c2f0a8f0-36fe-4a94-824b-bca271ca642b@188.114.97.6:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=alphacdn.alphashops.shop&fp=chrome&type=ws&allowInsecure=0&sni=alphacdn.alphashops.shop#[🇨🇦]t.me/ConfigsHub
+vless://89049f79-320b-48a0-b1cf-110165cae30c@194.5.193.150:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#[🇹🇷]t.me/ConfigsHub
+vless://2d0f4a5d-fe76-448f-8810-5f8b0d2cd237@www.speedtest.net:443?path=%2FV2rayNGSelllBoT--V2rayNGSelllBoT--V2rayNGSelllBoT--V2rayNGSelllBoT--V2rayNGSelllBoT--&security=tls&encryption=none&host=kijuyjfjydhy14.mamadfkl.workers.dev&fp=chrome&type=ws&sni=kijuyjfjydhy14.mamadfkl.workers.dev#[🇨🇦]t.me/ConfigsHub
+vless://9f2ecebe-3a52-460e-80ac-74a21fffdaf7@198.41.223.119:443?path=%2FV2ngNet-V2ngNet-V2ngNet-V2ngNet-V2ngNet-V2ngNet-V2ngNet-V2ngNet-V2ngNet-V2ngNet&security=tls&encryption=none&host=licfgytggv.esmalkjj.workers.dev&fp=chrome&type=ws&sni=licfgytggv.esmalkjj.workers.dev#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#[🏁]t.me/ConfigsHub
+vless://2d0f4a5d-fe76-448f-8810-5f8b0d2cd237@www.speedtest.net:443?path=%2FV2rayNGSelllBoT--V2rayNGSelllBoT--V2rayNGSelllBoT--V2rayNGSelllBoT--V2rayNGSelllBoT--&security=tls&encryption=none&host=kijuyjfjydhy14.mamadfkl.workers.dev&fp=chrome&type=ws&sni=kijuyjfjydhy14.mamadfkl.workers.dev#[🇨🇦]t.me/ConfigsHub
+vless://f106648e-0644-40bc-974c-6edc966fe18d@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cji.new-persian-song.ir#[🇸🇨]t.me/ConfigsHub
+trojan://oJRk-2%2BNoHJ3N4frj_O2.0CzT%2BWAgdcs7b@144.31.55.35:28126?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.game-bridge.click#[🏁]t.me/ConfigsHub
 vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@104.17.113.202:443?path=%2FMaSTeRSeRVeR1---MaSTeRSeRVeR1---MaSTeRSeRVeR1---MaSTeRSeRVeR1---MaSTeRSeRVeR1---MaSTeRSeRVeR1---MaSTeRSeRVeR1---MaSTeRSeRVeR1&security=tls&encryption=none&host=bcfgdfghjf41.emilkoko.workers.dev&fp=chrome&type=ws&sni=bcfgdfghjf41.emilkoko.workers.dev#[🇨🇦]t.me/ConfigsHub
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@188.114.97.6:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#[🇨🇦]t.me/ConfigsHub
 vless://b373a1db-2f88-4d97-aca4-27c3f1c6a72d@ez-78f74e.mhdiglbi.workers.dev:443?path=%2F&security=tls&encryption=none&insecure=0&host=ez-78f74e.mhdiglbi.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-78f74e.mhdiglbi.workers.dev#[🏁]t.me/ConfigsHub
@@ -329,12 +338,4 @@ trojan://CBIO9r68xR5fRBvneMKfaw@sv5.hosttbd.ir:10005?security=none&headerType=no
 vless://07b42786-6f24-4d2d-905b-d7e34e99ad21@global.cloud-play.ir:80?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=xenoengineer.com&mode=auto&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#[🇨🇦]t.me/ConfigsHub
 vless://%40Net2ray@85.198.12.105:43116?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://2eaf3e87-edcd-479b-997e-3e693d2ec458@31.57.106.21:8080?security=reality&encryption=none&pbk=IiXOtrr72OAumtdjHDdvqxwyiInUq8_5b2wG477U40k&headerType=none&fp=chrome&type=tcp&flow=#[🇫🇮]t.me/ConfigsHub
-vless://fa1494d1-d388-49fb-8977-3797f10082f2@65.109.186.115:8080?security=reality&encryption=none&pbk=IiXOtrr72OAumtdjHDdvqxwyiInUq8_5b2wG477U40k&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=cee5cf0cb56d9912#[🇫🇮]t.me/ConfigsHub
-vless://07b42786-6f24-4d2d-905b-d7e34e99ad21@global.cloud-play.ir:80?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=xenoengineer.com&mode=auto&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#[🇨🇦]t.me/ConfigsHub
-vless://07b42786-6f24-4d2d-905b-d7e34e99ad21@local.cloud-play.ir:80?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=xenoengineer.com&mode=auto&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#[🇨🇦]t.me/ConfigsHub
-vless://07b42786-6f24-4d2d-905b-d7e34e99ad21@irancell.cloud-play.ir:80?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=xenoengineer.com&mode=auto&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#[🇳🇴]t.me/ConfigsHub
-vless://07b42786-6f24-4d2d-905b-d7e34e99ad21@mci.cloud-play.ir:80?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=xenoengineer.com&mode=auto&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#[🇨🇦]t.me/ConfigsHub
-vless://07b42786-6f24-4d2d-905b-d7e34e99ad21@euro.cloud-play.ir:80?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=xenoengineer.com&mode=auto&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#[🇨🇦]t.me/ConfigsHub
-vless://1ebd4d11-01b6-4273-8411-897e305b3def@104.21.65.231:2053?encryption=none&type=ws&security=tls&path=%2FeyJqdW5rIjoiRldIdGlLUngxZGJqUFYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&host=v2ngnet.smoke46.workers.dev&sni=V2nGnEt.SMOkE46.WORKerS.dEv&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#[🇨🇦]t.me/ConfigsHub
-vless://07b42786-6f24-4d2d-905b-d7e34e99ad21@irancell.cloud-play.ir:80?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=xenoengineer.com&mode=auto&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#[🇳🇴]t.me/ConfigsHub
 vless://fa1494d1-d388-49fb-8977-3797f10082f2@65.109.186.115:8080?security=reality&encryption=none&pbk=IiXOtrr72OAumtdjHDdvqxwyiInUq8_5b2wG477U40k&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=cee5cf0cb56d9912#[🇫🇮]t.me/ConfigsHub

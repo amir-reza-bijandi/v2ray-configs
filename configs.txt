@@ -1,8 +1,16 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-06-21T08:58:39.492Z
-# Configs: 351
+# Updated: 2026-06-21T09:00:32.319Z
+# Configs: 356
 # Source: https://t.me/ConfigsHUB2
 
+vless://fa957c2e-2eef-42e6-804b-a2a16fab0781@188.114.97.6:443?mode=packet-up&path=%2Fxn--q9jyb4c&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=us.dns.xn--q9jyb4c&fp=firefox&type=xhttp&allowInsecure=0&sni=us.dns.xn--q9jyb4c#[🇨🇦]t.me/ConfigsHub
+vmess://eyJhZGQiOiAiQmxvZzIuZWNob2xpY2Vuc2UtOTkuY29tIiwgImlkIjogImI1ZjNkOWNkLWZiODAtNGI3MS05YTVkLTNmMzc0NDYwMmM5YiIsICJuZXQiOiAidGNwIiwgInBvcnQiOiAzNjMyMiwgInBzIjogW/Cfj4FddC5tZS9Db25maWdzSHViIiwgInNjeSI6ICIiLCAidGxzIjogIm5vbmUiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+vless://a3e2f3fc-9604-4093-8d92-c4303d822fad@104.17.121.248:443?path=%2F%3Fu%3Df37c2ef95c&security=tls&encryption=none&insecure=0&host=rocket-panel-pearl-313895.nova-5e4426f8.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=rocket-panel-pearl-313895.nova-5e4426f8.workers.dev#[🇨🇦]t.me/ConfigsHub
+vless://a3e2f3fc-9604-4093-8d92-c4303d822fad@radar.cloudflare.com:443?path=%2F%3Fu%3Df37c2ef95c&security=tls&encryption=none&insecure=0&host=rocket-panel-pearl-313895.nova-5e4426f8.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=rocket-panel-pearl-313895.nova-5e4426f8.workers.dev#[🇨🇦]t.me/ConfigsHub
+vless://a3e2f3fc-9604-4093-8d92-c4303d822fad@104.17.170.119:443?path=%2F%3Fu%3Df37c2ef95c&security=tls&encryption=none&insecure=0&host=rocket-panel-pearl-313895.nova-5e4426f8.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=rocket-panel-pearl-313895.nova-5e4426f8.workers.dev#[🇨🇦]t.me/ConfigsHub
+trojan://MiTiVPN@45.131.4.118:443?path=%2Fed%3Dmitivpn&security=tls&alpn=htt40NormanV2ray%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%203#[🇮🇷]t.me/ConfigsHub
+vless://1c3927cb-6141-4473-a17d-4b290f7c6980@188.114.97.6:443?mode=packet-up&path=%2Fxn--q9jyb4c&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=fi.dns.xn--q9jyb4c&fp=firefox&type=xhttp&allowInsecure=0&sni=fi.dns.xn--q9jyb4c#[🇨🇦]t.me/ConfigsHub
+vless://fa957c2e-2eef-42e6-804b-a2a16fab0781@188.114.97.6:443?mode=packet-up&path=%2Fxn--q9jyb4c&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=us.dns.xn--q9jyb4c&fp=firefox&type=xhttp&allowInsecure=0&sni=us.dns.xn--q9jyb4c#[🇨🇦]t.me/ConfigsHub
 vless://2d0f4a5d-fe76-448f-8810-5f8b0d2cd237@www.speedtest.net:443?path=%2FV2rayNGSelllBoT--V2rayNGSelllBoT--V2rayNGSelllBoT--V2rayNGSelllBoT--V2rayNGSelllBoT--&security=tls&encryption=none&host=kijuyjfjydhy14.mamadfkl.workers.dev&fp=chrome&type=ws&sni=kijuyjfjydhy14.mamadfkl.workers.dev#[🇨🇦]t.me/ConfigsHub
 vless://9f2ecebe-3a52-460e-80ac-74a21fffdaf7@198.41.223.119:443?path=%2FV2ngNet-V2ngNet-V2ngNet-V2ngNet-V2ngNet-V2ngNet-V2ngNet-V2ngNet-V2ngNet-V2ngNet&security=tls&encryption=none&host=licfgytggv.esmalkjj.workers.dev&fp=chrome&type=ws&sni=licfgytggv.esmalkjj.workers.dev#[🇨🇦]t.me/ConfigsHub
 vmess://eyJhZGQiOiAiQmxvZzIuZWNob2xpY2Vuc2UtOTkuY29tIiwgImlkIjogImI1ZjNkOWNkLWZiODAtNGI3MS05YTVkLTNmMzc0NDYwMmM5YiIsICJuZXQiOiAidGNwIiwgInBvcnQiOiAzNjMyMiwgInBzIjogW/Cfj4FddC5tZS9Db25maWdzSHViIiwgInNjeSI6ICIiLCAidGxzIjogIm5vbmUiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
@@ -351,6 +359,3 @@ vless://6253100c-3ff4-42d9-b183-7fe46e5a9039@irancell.cloud-play.ir:80?encryptio
 vless://52333a88-607c-4484-be97-451f625e6c50@ips.it.mobileemdad.top:42538?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=ips.it.mobileemdad.top#[🇩🇪]t.me/ConfigsHub
 vless://6253100c-3ff4-42d9-b183-7fe46e5a9039@mci.cloud-play.ir:80?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=xenoengineer.com&mode=auto&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#[🇨🇦]t.me/ConfigsHub
 vless://6253100c-3ff4-42d9-b183-7fe46e5a9039@euro.cloud-play.ir:80?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=xenoengineer.com&mode=auto&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#[🇨🇦]t.me/ConfigsHub
-vless://6253100c-3ff4-42d9-b183-7fe46e5a9039@global.#[🇩🇪]t.me/ConfigsHub
-vless://FREE-4-ALL@107.189.21.7:443?security=reality&encryption=none&pbk=W6fS0Z-WJ5815eTp1KqxU27cff58RiLUOGTm4qwBHRw&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=C0DE#[🏁]t.me/ConfigsHub
-trojan://SoftNetConnect@194.5.193.150:2087?mode=gun&security=reality&authority=185.204.169.129&pbk=tDzuiaElyFXPtFP25CeCKWW5dsdC4055CnqzYcFyfB8&fp=chrome&spx=/&type=grpc&sni=www.yahoo.com&sid=96a17085678b#[🇹🇷]t.me/ConfigsHub

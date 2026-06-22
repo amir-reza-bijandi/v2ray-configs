@@ -1,6 +1,6 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-06-22T06:30:30.593Z
-# Configs: 390
+# Updated: 2026-06-22T06:31:55.087Z
+# Configs: 383
 # Source: https://t.me/ConfigsHUB2
 
 vless://00000000-0000-4000-8000-000000000000@89.22.238.213:46209?path=%2F%40Marisa_kristi&security=tls&encryption=none&insecure=0&host=g1ixej-urdn-dlqnu1ol.gespz5p7nm04ej96ia7qc9tvsktgtx.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=g1ixej-urdn-dlqnu1ol.gespz5p7nm04ej96ia7qc9tvsktgtx.workers.dev#[🇸🇪]t.me/ConfigsHub
@@ -386,10 +386,3 @@ vmess://eyJhZGQiOiJhdGlpbnMuY29tLnRyIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIs
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@ru.faygo.bot:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#[🇷🇺]t.me/ConfigsHub
 trojan://SoftNetConnect@37.156.45.237:443?mode=auto&path=%2F&security=reality&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=lnP3zaTgKpFJpC8IYOJZUuAedJghDQPowXJp5diOzQA&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=141b14d8#[🇨🇭]t.me/ConfigsHub
 vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?security=reality&encryption=none&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=15052edc8120b63d#[🇪🇸]t.me/ConfigsHub
-vless://b3eed393-e990-40a0-978c-689d40be9da4@77.74.123.132:448?security=reality&encryption=none&pbk=i3cJbIu8AN7qCD7xQTVfCN7de9RkxVohk_PGQgHqRl8&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=52a74e01683e9173#[🏁]t.me/ConfigsHub
-vless://8a53834d-435a-496c-bcc3-a66088e5b926@Riga1.ns.asriranfun.ir:45012?path=%2F&security=&encryption=none&type=httpupgrade#[🇱🇻]t.me/ConfigsHub
-vless://e1ea855f-d0c2-5ed2-a454-294bb73c0cee@104.16.72.70:8443?path=%2FZoRoVpn&security=tls&encryption=none&insecure=0&host=speedtest-chekhost-fastly.amuseftdomainroyal.com&type=ws&allowInsecure=0&sni=speedtest-chekhost-fastly.amuseftdomainroyal.com#[🇨🇦]t.me/ConfigsHub
-vless://8a53834d-435a-496c-bcc3-a66088e5b926@45.38.37.4:45012?path=%2F&security=&encryption=none&type=httpupgrade#[🏁]t.me/ConfigsHub
-vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.44:8443?security=reality&encryption=none&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=ea10cd5686751ec5#[🏁]t.me/ConfigsHub
-vless://8a53834d-435a-496c-bcc3-a66088e5b926@45.38.37.4:15482?security=&encryption=none&headerType=http&type=tcp#[🏁]t.me/ConfigsHub
-vless://8a53834d-435a-496c-bcc3-a66088e5b926@45.38.37.4:29551?path=%2F&security=&encryption=none&type=ws#[🏁]t.me/ConfigsHub

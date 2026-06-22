@@ -1,8 +1,14 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-06-22T04:00:31.993Z
-# Configs: 421
+# Updated: 2026-06-22T04:30:25.856Z
+# Configs: 424
 # Source: https://t.me/ConfigsHUB2
 
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@141.193.154.182:10000?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
+vless://546bd638-8aeb-0f83-9a31-8be7c5ce814a@ffdownload.dlc-bazigame.ir:8880?path=%2F%3Fed%3D2082&security=none&encryption=none&host=cdn-nl1.akssoldier.top&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQbi1pdnctU284T1VacjJUMW5tZjd3QHZvbmlwdmlwLnNhbWNsb3RoaW5nLnVubzoxMDgw#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQbi1pdnctU284T1VacjJUMW5tZjd3QHZvbmlwdmlwLnNhbWNsb3RoaW5nLnVubzoxMDgw#[🏁]t.me/ConfigsHub
+vless://6253100c-3ff4-42d9-b183-7fe46e5a9039@mci.cloud-play.ir:80?mode=auto&path=%2F&security=&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=xenoengineer.com&type=xhttp#[🇨🇦]t.me/ConfigsHub
+vless://6a9bc6a6-9543-4f40-b8b5-9fa31e881473@45.130.125.162:8443?encryption=none&type=xhttp&security=tls&path=%2F%3Fed%3D2053&mode=auto&sni=cji.new-persian-song.ir&alpn=h3%2Ch2&fp=chrome&insecure=0&allowInsecure=0#[🇸🇨]t.me/ConfigsHub
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=%2Fodiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&fp=chrome&type=ws&allowInsecure=0&sni=octopusss.net#[🏁]t.me/ConfigsHub
 vless://2d0f4a5d-fe76-448f-8810-5f8b0d2cd237@www.speedtest.net:443?path=%2FV2rayNGSelllBoT--V2rayNGSelllBoT--V2rayNGSelllBoT--V2rayNGSelllBoT--V2rayNGSelllBoT--&security=tls&encryption=none&host=kijuyjfjydhy14.mamadfkl.workers.dev&fp=chrome&type=ws&sni=kijuyjfjydhy14.mamadfkl.workers.dev#[🇨🇦]t.me/ConfigsHub
 trojan://MITIVPN@104.16.72.70:443?path=%2Fed%3Dmitivpn&security=tls&insecure=1&host=www.pagess.ir&fp=chrome&type=ws&allowInsecure=1&sni=pagess.ir#[🇨🇦]t.me/ConfigsHub
@@ -421,6 +427,3 @@ vless://f5ed21e1-926c-4a5c-9951-8da239c0d445@turk.nomac.ir:2026?security=reality
 vless://f5ed21e1-926c-4a5c-9951-8da239c0d445@fr.codesystem.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#[🇫🇷]t.me/ConfigsHub
 vless://f5ed21e1-926c-4a5c-9951-8da239c0d445@pl.codesystem.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#[🇵🇱]t.me/ConfigsHub
 vless://f5ed21e1-926c-4a5c-9951-8da239c0d445@tuns.textin.ir:443?path=%2Fcdn-sync&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=tuns.textin.ir&fp=chrome&type=ws&allowInsecure=0&sni=tuns.textin.ir#[🇮🇷]t.me/ConfigsHub
-vless://f5ed21e1-926c-4a5c-9951-8da239c0d445@turk.nomac.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#[🇹🇷]t.me/ConfigsHub
-vless://f5ed21e1-926c-4a5c-9951-8da239c0d445@nl.codesystem.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#[🏁]t.me/ConfigsHub
-vless://f5ed21e1-926c-4a5c-9951-8da239c0d445@nl.appcodes.ir:2026?security=reality&encryption=none&pbk=1pZz4shnro2xyuXc7MMSFseBbbuy1weo2QLclTDJ8Fo&headerType=none&fp=firefox&type=tcp&sni=yahoo.com&sid=db4a993c8bb355ba#[🏁]t.me/ConfigsHub

@@ -1,8 +1,9 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-06-23T21:00:33.703Z
+# Updated: 2026-06-23T21:01:36.977Z
 # Configs: 421
 # Source: https://t.me/ConfigsHUB2
 
+vless://c52064f6-67f3-43cd-ada7-29d3cc1623cd@k5.adamak.top:11035?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://7a9a3dc5-2278-4f3f-911b-69fe86dd431d@da.mobileemdad.top:42542?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://7a9a3dc5-2278-4f3f-911b-69fe86dd431d@ips.list.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#[🇩🇪]t.me/ConfigsHub
 vless://7a9a3dc5-2278-4f3f-911b-69fe86dd431d@ips.it.mobileemdad.top:42538?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=ips.it.mobileemdad.top#[🇮🇹]t.me/ConfigsHub
@@ -423,4 +424,3 @@ vless://f9255507-1b65-433f-bfd8-193b35e068e2@141.11.202.140:80?path=%2FTelegram%
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.80.111.140:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=&encryption=none&host=s5.868001.xyz&type=ws#[🇩🇪]t.me/ConfigsHub
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@50.62.175.140:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=&encryption=none&host=s5.868001.xyz&type=ws#[🏁]t.me/ConfigsHub
 vless://3559f1f7-7d70-46c9-82db-d2b46269300b@109.120.185.230:443?security=reality&encryption=none&pbk=1BdgrQ_esOEya01sDCBYK4MGpJgaUhssHQG-aWJkyFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dipvpn.ru#[🇫🇮]t.me/ConfigsHub
-trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#[🇩🇪]t.me/ConfigsHub

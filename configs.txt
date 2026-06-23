@@ -1,8 +1,11 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-06-23T00:00:33.204Z
-# Configs: 396
+# Updated: 2026-06-23T00:12:22.178Z
+# Configs: 387
 # Source: https://t.me/ConfigsHUB2
 
+trojan://2238e2f3-1a01-485e-8c22-24b65764c68b@172.64.152.23:443?path=%2F51.91.253.83&security=tls&insecure=0&host=gzjx.dpdns.org&type=ws&allowInsecure=0&sni=gzjx.dpdns.org#[🇨🇦]t.me/ConfigsHub
+vless://shanaam@nl.shanaam.ir:37915?security=reality&encryption=none&pbk=tJVxffhqeRW-Bv5fUooDyighEWoiHv3QndPjbT8xCGQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=a1e717ae2274#[🏁]t.me/ConfigsHub
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.130.125.158:443?path=%2Frdfgtws&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=vangoghhh.info&fp=ios&type=ws&allowInsecure=0&sni=vangoghhh.info#[🇸🇨]t.me/ConfigsHub
 vless://40bbbd28-a0bd-4eb5-afcb-04634330fa98@185.226.93.26:24740?path=%2F&security=&encryption=none&host=snapp.ir&type=ws#[🇹🇷]t.me/ConfigsHub
 vless://20fc97f0-819c-4186-9004-33e93333f821@185.147.27.105:80?security=none&encryption=none&fp=firefox&type=ws#[🇷🇺]t.me/ConfigsHub
 vless://92e41c23-4b39-464a-bbff-63ef84f317da@84.17.58.133:443?security=reality&encryption=none&pbk=3hiGU9oArRYulbhHEJa7nTfx1k0XL6ItE_xs-8Yi_Uc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=17a2a5e0#[🇮🇹]t.me/ConfigsHub
@@ -387,15 +390,3 @@ vless://c6e7823a-a3b3-42af-ae75-7882c2d6c5b3@5.45.184.133:13379?encryption=none&
 vless://e36ada23-dd64-4f1a-bb38-408f5165d759@89.167.82.102:2052?mode=auto&path=%2FPath&security=&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=89.167.82.102&type=xhttp#[🇩🇪]t.me/ConfigsHub
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.223:22231?encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&type=tcp#[🇬🇪]t.me/ConfigsHub
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.68:8443?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#[🏁]t.me/ConfigsHub
-vless://c6e7823a-a3b3-42af-ae75-7882c2d6c5b3@5.45.184.133:13379?encryption=none&path=%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN&security=none&type=ws#[🇩🇪]t.me/ConfigsHub
-vless://e3089afa-1e51-40c5-9f33-88ea664a67de@104.27.14.95:443?path=%2FeyJqdW5rIjoiWnVDTzNXbmEzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=DaYiJoon.mbs-SAteHi.WorkeRs.DeV#[🇨🇦]t.me/ConfigsHub
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@45.130.125.229:443?encryption=none&host=octopusss5.info&path=%2Fudfyfws&security=tls&sni=octopusss5.info&type=ws#[🇸🇨]t.me/ConfigsHub
-vless://a7896b5b-1c7d-4148-9429-fcdf949137bf@151.101.7.243:80?mode=auto&path=%2F&security=&encryption=none&host=kakapi.global.ssl.fastly.net&type=xhttp#[🇩🇪]t.me/ConfigsHub
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.164:8443?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#[🇫🇷]t.me/ConfigsHub
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&host=de.vpnbase.net&path=%2Fhttp&security=none&type=ws#[🇩🇪]t.me/ConfigsHub
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.88:8443?encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#[🏁]t.me/ConfigsHub
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@108.162.193.162:443?path=%2Fudfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#[🇨🇦]t.me/ConfigsHub
-vless://9fdfe33e-797d-8e29-f8fa-50a5adb38c61@panel-gfw.mahsagfw.workers.dev:443?path=%2Fsync&security=tls&encryption=none&insecure=0&host=panel-gfw.mahsagfw.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=panel-gfw.mahsagfw.workers.dev#[🏁]t.me/ConfigsHub
-vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.219.56:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=EIlnBMyH--EIasnzGPJAAFSP5WM_4FNU4ktFUQI0O00&security=reality&sid=a13edee689fca1da&sni=cdn2.swaginozip.fun&type=tcp#[🇩🇪]t.me/ConfigsHub
-trojan://humanity@86.38.214.205:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#[🇹🇷]t.me/ConfigsHub
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.67.71.247:443?encryption=none&fp=chrome&host=octopusss5.info&path=%2Fudfyfws&security=tls&sni=octopusss5.info&type=ws#[🇨🇦]t.me/ConfigsHub

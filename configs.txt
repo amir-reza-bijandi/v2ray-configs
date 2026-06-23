@@ -1,8 +1,10 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-06-23T00:12:22.178Z
-# Configs: 387
+# Updated: 2026-06-23T00:30:28.535Z
+# Configs: 384
 # Source: https://t.me/ConfigsHUB2
 
+trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=%2Fus-gllc&security=tls&host=space.byu.id.yxls.eu.cc&allowinsecure=0&type=ws&sni=space.byu.id.yxls.eu.cc#[🇨🇦]t.me/ConfigsHub
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@108.162.196.86:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#[🇨🇦]t.me/ConfigsHub
 trojan://2238e2f3-1a01-485e-8c22-24b65764c68b@172.64.152.23:443?path=%2F51.91.253.83&security=tls&insecure=0&host=gzjx.dpdns.org&type=ws&allowInsecure=0&sni=gzjx.dpdns.org#[🇨🇦]t.me/ConfigsHub
 vless://shanaam@nl.shanaam.ir:37915?security=reality&encryption=none&pbk=tJVxffhqeRW-Bv5fUooDyighEWoiHv3QndPjbT8xCGQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=a1e717ae2274#[🏁]t.me/ConfigsHub
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.130.125.158:443?path=%2Frdfgtws&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=vangoghhh.info&fp=ios&type=ws&allowInsecure=0&sni=vangoghhh.info#[🇸🇨]t.me/ConfigsHub
@@ -385,8 +387,3 @@ vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.67.71.247:443?encryption=none&f
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.165:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#[🇫🇷]t.me/ConfigsHub
 vless://ce035748-9913-40c9-9fb6-c8389f7cdcf3@104.17.148.22:2083?allowInsecure=1&encryption=none&host=yousef.varzesh.dpdns.org&path=%2F&security=tls&sni=yousef.varzesh.dpdns.org&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?encryption=none&host=SC-TheNetherlands2.09vpn.com&path=%2Fvless%2F&security=none&type=ws#[🏁]t.me/ConfigsHub
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.47.45:2083?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=wk1.f1w.de5.net&path=%2F&security=tls&sni=wk1.f1w.de5.net&type=ws#[🇨🇦]t.me/ConfigsHub
-vless://c6e7823a-a3b3-42af-ae75-7882c2d6c5b3@5.45.184.133:13379?encryption=none&path=%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN&security=none&type=ws#[🇩🇪]t.me/ConfigsHub
-vless://e36ada23-dd64-4f1a-bb38-408f5165d759@89.167.82.102:2052?mode=auto&path=%2FPath&security=&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=89.167.82.102&type=xhttp#[🇩🇪]t.me/ConfigsHub
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.223:22231?encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&type=tcp#[🇬🇪]t.me/ConfigsHub
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.68:8443?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#[🏁]t.me/ConfigsHub

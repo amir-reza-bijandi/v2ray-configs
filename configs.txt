@@ -1,8 +1,10 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-06-27T23:00:34.332Z
-# Configs: 427
+# Updated: 2026-06-27T23:07:57.864Z
+# Configs: 426
 # Source: https://t.me/ConfigsHUB2
 
+vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.244:8443?security=tls&encryption=none&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#[🇹🇷]t.me/ConfigsHub
+vless://4e9c2339-4136-4a44-b490-b13cc8ecef83@5.75.207.247:44004?type=tcp&encryption=none&security=reality&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&fp=chrome&sni=www.intel.com&sid=77b0689f&spx=%2F&flow=xtls-rprx-vision#[🇩🇪]t.me/ConfigsHub
 trojan://d14188397fc44bdf@www.speedtest.net:443?alpn=http%2F1.1&fp=chrome&host=ezaccess-project-d489e3.ez-267716.workers.dev&path=%2FeyJqdW5rIjoiNm4xb2ZCdUI3R0VQNXhuYyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&sni=EZacCEss-ProjECt-D489e3.Ez-267716.worKERs.dev&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.52:8443?security=reality&encryption=none&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&headerType=&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=ea10cd5686751ec5#[🏁]t.me/ConfigsHub
 vless://ae852d97-85f5-45cf-82a4-254eba345480@144.31.131.33:443?security=reality&encryption=none&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.cdnjst.org&sid=a120#[🇦🇱]t.me/ConfigsHub
@@ -427,6 +429,3 @@ trojan://aR9EJWEB2Jp3m6xKJK%3DCt7kLyqFSU-iDBR@92.119.35.130:443?security=tls&ins
 trojan://humanity@104.18.152.225:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#[🇨🇦]t.me/ConfigsHub
 trojan://Mitivpn@151.101.110.219:443?path=%2Fboost&security=tls&insecure=0&host=3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#[🏁]t.me/ConfigsHub
 trojan://humanity@104.16.174.71:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#[🇨🇦]t.me/ConfigsHub
-vless://e461afdd-7c8e-473e-815d-88b72960c6b1@167.82.101.251:443?path=%2F&security=tls&encryption=none&insecure=0&host=fancii.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#[🏁]t.me/ConfigsHub
-trojan://humanity@188.114.96.4:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&type=ws&allowInsecure=0&sni=www.calmloud.com#[🇨🇦]t.me/ConfigsHub
-vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.27.66.214:8443?path=%2Fdownload.php&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#[🇨🇦]t.me/ConfigsHub

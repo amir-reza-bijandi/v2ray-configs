@@ -1,8 +1,14 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-06-27T19:27:20.002Z
-# Configs: 314
+# Updated: 2026-06-27T19:30:24.808Z
+# Configs: 313
 # Source: https://t.me/ConfigsHUB2
 
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#[🇨🇦]t.me/ConfigsHub
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@213.176.77.65:443?security=reality&encryption=none&pbk=1kAsEwUWwatnjpeQ2qUwHSccFucFOKzXVICm9tC0eWA&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=25425ff6fa#[🇩🇪]t.me/ConfigsHub
+trojan://Mitivpn@151.101.110.219:443?security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=3-mitivpn.global.ssl.fastly.net&path=%2Fde%3Dmitivpn#[🏁]t.me/ConfigsHub
+trojan://Mitivpn@151.101.56.6:443?security=tls&sni=ssl.fastly.com&insecure=0&allowInsecure=0&type=ws&host=4-4-3-mitivpn.global.ssl.fastly.net&path=%2Fslowdns#[🏁]t.me/ConfigsHub
+vless://cfb5b3d3-c094-4222-99e8-53faa787c857@193.93.194.120:443?security=reality&encryption=none&pbk=dgrcO3r5wkEjcsWdEsNtgtWCe9vER6mgADXYclWXVxg&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=site.rumedia-cdn.com&sid=8de54d32a8d3fdf9#[🇨🇿]t.me/ConfigsHub
+vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?encryption=none&security=none&type=tcp#[🇸🇪]t.me/ConfigsHub
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?encryption=none&security=none&type=tcp#[🇸🇪]t.me/ConfigsHub
 vless://2c0e0bfd-bd2d-40ea-a524-a9f9aec36ea6@fastly.videobazi.com:443?mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=dutschh.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#[🏁]t.me/ConfigsHub
 vless://8477aa4b-8fb2-4b75-9e21-6b2a57f6f4cd@161.118.242.129:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=KsOXdJFQC-zahqfSmDcR4BrRK2R0o19T9SBgARXkHSU&security=reality&sid=c16b8a1f2b520040&sni=addons.mozilla.org&type=tcp#[🇸🇬]t.me/ConfigsHub
@@ -310,10 +316,3 @@ vless://390eaadf-88b9-4ae2-9284-955cbce4ac53@192.145.29.52:443?path=%2F&security
 vless://390eaadf-88b9-4ae2-9284-955cbce4ac53@192.145.29.52:443?path=%2F&security=tls&encryption=none&insecure=0&host=zeus-panel-psoqz2.saedgamedotagames.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-psoqz2.saedgamedotagames.workers.dev#[🇫🇮]t.me/ConfigsHub
 vless://ff56b54d-0bf7-47cf-a9df-ab3e39d16415@185.92.183.34:443?encryption=none&type=tcp&security=reality&headerType=none&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=K92vEoJmJ2MBhAdYpG8xAOqQXv9_DmFz1mE2hKe0jm4&sid=c6617998&spx=%2FjdYQQfDwqiMrNXK#[🇫🇮]t.me/ConfigsHub
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&headerType=http&type=tcp#[🇫🇷]t.me/ConfigsHub
-vless://2a2a24da-da1b-4988-bf33-82cf7601870f@hm.khoycityman.ir:41319?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#[🇹🇷]t.me/ConfigsHub
-vless://2a2a24da-da1b-4988-bf33-82cf7601870f@hm.khoycityman.ir:41319?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#[🇹🇷]t.me/ConfigsHub
-vless://2a2a24da-da1b-4988-bf33-82cf7601870f@hm.khoycityman.ir:443?security=reality&encryption=none&pbk=cAprase508p_Y7olUKMa-aqER9NcBqaCZ8xyvll4Xgk&headerType=none&fp=chrome&spx=%2FCXHW9vl2PReWApP&type=tcp&sni=www.yahoo.com&sid=f563cb8c#[🇹🇷]t.me/ConfigsHub
-vless://2a2a24da-da1b-4988-bf33-82cf7601870f@hm.khoycityman.ir:443?security=reality&encryption=none&pbk=cAprase508p_Y7olUKMa-aqER9NcBqaCZ8xyvll4Xgk&headerType=none&fp=chrome&spx=%2FCXHW9vl2PReWApP&type=tcp&sni=www.yahoo.com&sid=f563cb8c#[🇹🇷]t.me/ConfigsHub
-vless://2a2a24da-da1b-4988-bf33-82cf7601870f@hm.khoycityman.ir:41319?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#[🇹🇷]t.me/ConfigsHub
-vless://2a2a24da-da1b-4988-bf33-82cf7601870f@hm.khoycityman.ir:443?security=reality&encryption=none&pbk=cAprase508p_Y7olUKMa-aqER9NcBqaCZ8xyvll4Xgk&headerType=none&fp=chrome&spx=%2FCXHW9vl2PReWApP&type=tcp&sni=www.yahoo.com&sid=f563cb8c#[🇹🇷]t.me/ConfigsHub
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@144.202.83.188:443?path=%2F&security=tls&insecure=0&host=hhcm.hhxaf.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=hhcm.hhxaf.cc.cd#[🏁]t.me/ConfigsHub

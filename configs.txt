@@ -1,6 +1,6 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-06-29T17:00:35.934Z
-# Configs: 466
+# Updated: 2026-06-29T17:30:26.585Z
+# Configs: 465
 # Source: https://t.me/ConfigsHUB2
 
 vless://10a6b923-e349-4594-92bb-d81a6245aaec@104.26.0.7:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#[🇨🇦]t.me/ConfigsHub
@@ -468,4 +468,3 @@ vless://f8f64365-69ee-415f-b591-58d919520c36@wp.walking-with-death.shop:2087?Tel
 vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.143:8443?flow=xtls-rprx-vision&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=2715592069f36fe7&sni=storage.yandex.net&type=tcp#[🇭🇺]t.me/ConfigsHub
 vless://6cd0d40b-b4af-405b-a3f7-52310afbaf71@vip2.donya-vps2.ir:44689?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=YlsRco7Xwc_57qdZHv6Ta1VZDvFXrE0AABBOVUemHTk&headerType=none&fp=chrome&spx=%2Ft7ScZo5fe2wD3IC&type=tcp&sni=play.google.com&sid=c9#[🇩🇪]t.me/ConfigsHub
 vless://e8c61352-444f-4154-ba34-9d3141154a8d@141.101.115.71:8443?type=tcp&encryption=none&security=none#[🏁]t.me/ConfigsHub
-trojan://MITIVPN@164.38.155.135:443?path=%2FMiTiVPN%3DDe&security=tls&alpn=http/1.1&host=95r.ir&fp=firefox&type=ws&sni=95r.ir#[🏁]t.me/ConfigsHub

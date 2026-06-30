@@ -1,6 +1,6 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-06-30T18:30:30.940Z
-# Configs: 462
+# Updated: 2026-06-30T19:00:37.465Z
+# Configs: 460
 # Source: https://t.me/ConfigsHUB2
 
 vless://10a6b923-e349-4594-92bb-d81a6245aaec@104.26.0.7:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#[🇨🇦]t.me/ConfigsHub
@@ -463,5 +463,3 @@ vless://632ef785-c9f6-49c1-82c7-4411ba6c48be@bmi.ir.marandcity.com:443?security=
 vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.193:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&fp=firefox&security=reality&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c#[🇹🇷]t.me/ConfigsHub
 vless://5acc4610-f2d7-44c9-bbe6-c0ee6a058aac@173.245.59.191:8443?type=tcp&encryption=none&security=none#[🇨🇦]t.me/ConfigsHub
 trojan://humanity@104.16.174.36:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#[🇨🇦]t.me/ConfigsHub
-vless://5e6a66e9-a250-465d-adb5-0b7bd692f48a@199.232.142.79:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=%2Fassets&security=tls&encryption=none&insecure=1&host=oppressed-distract-uncurled-grooving-bonding-renewal.global.ssl.fastly.net&type=xhttp&allowInsecure=1&sni=speedtest.net#[🇮🇹]t.me/ConfigsHub
-vless://f8f64365-69ee-415f-b591-58d919520c36@wp.walking-with-death.shop:2087?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=qM-k-WxqBUQWzHS4qBN1Wngc-c_jvaNhPzDiw87JpT0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=c6a7dfed3c99d035#[🇩🇪]t.me/ConfigsHub

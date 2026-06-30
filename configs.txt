@@ -1,6 +1,6 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-06-30T17:00:35.103Z
-# Configs: 463
+# Updated: 2026-06-30T17:30:27.957Z
+# Configs: 462
 # Source: https://t.me/ConfigsHUB2
 
 vless://10a6b923-e349-4594-92bb-d81a6245aaec@104.26.0.7:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#[🇨🇦]t.me/ConfigsHub
@@ -465,4 +465,3 @@ vless://5acc4610-f2d7-44c9-bbe6-c0ee6a058aac@173.245.59.191:8443?type=tcp&encryp
 trojan://humanity@104.16.174.36:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#[🇨🇦]t.me/ConfigsHub
 vless://5e6a66e9-a250-465d-adb5-0b7bd692f48a@199.232.142.79:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=%2Fassets&security=tls&encryption=none&insecure=1&host=oppressed-distract-uncurled-grooving-bonding-renewal.global.ssl.fastly.net&type=xhttp&allowInsecure=1&sni=speedtest.net#[🇮🇹]t.me/ConfigsHub
 vless://f8f64365-69ee-415f-b591-58d919520c36@wp.walking-with-death.shop:2087?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=qM-k-WxqBUQWzHS4qBN1Wngc-c_jvaNhPzDiw87JpT0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=c6a7dfed3c99d035#[🇩🇪]t.me/ConfigsHub
-vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.143:8443?flow=xtls-rprx-vision&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=2715592069f36fe7&sni=storage.yandex.net&type=tcp#[🇭🇺]t.me/ConfigsHub

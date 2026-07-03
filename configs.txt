@@ -1,6 +1,6 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-07-03T07:30:35.475Z
-# Configs: 446
+# Updated: 2026-07-03T08:00:40.110Z
+# Configs: 445
 # Source: https://t.me/ConfigsHUB2
 
 vless://10a6b923-e349-4594-92bb-d81a6245aaec@104.26.0.7:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#[🇨🇦]t.me/ConfigsHub
@@ -448,4 +448,3 @@ vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D
 vless://360c46b7-afe1-4e86-bfe1-ba09b5fcd8a6@45.198.87.207:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=2715592069f36fe7&sni=storage.yandex.net&type=tcp#[🇭🇺]t.me/ConfigsHub
 trojan://humanity@45.130.125.75:443#[🇸🇨]t.me/ConfigsHub
 vless://43df00c9-f209-4773-b1cc-48e175bfb606@45.195.111.203:443?flow=xtls-rprx-vision&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=f4b4a6365558ea2e&sni=storage.yandex.net&type=tcp#[🇭🇺]t.me/ConfigsHub
-vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2FLiL%3Fed%3D2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#[🇸🇪]t.me/ConfigsHub

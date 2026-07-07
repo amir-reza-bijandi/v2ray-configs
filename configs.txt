@@ -1,6 +1,6 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-07-07T01:00:46.752Z
-# Configs: 406
+# Updated: 2026-07-07T01:30:43.562Z
+# Configs: 405
 # Source: https://t.me/ConfigsHUB2
 
 trojan://humanity@104.18.152.246:443?security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome&allowinsecure=0&type=ws&host=www.calmloud.com&path=%2Fassignment#[🇨🇦]t.me/ConfigsHub
@@ -408,4 +408,3 @@ vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.17:8443?security=reality
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.128.253:443?encryption=none&security=tls&sni=worker-little-frost-1b1c.cataben844.workers.Dev&type=ws&host=worker-little-frost-1b1c.cataben844.workers.Dev&path=%2F#[🇨🇦]t.me/ConfigsHub
 vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwgImFkZCI6ICI4LjIxNy4xMy43NCIsICJwb3J0IjogIjMxNzY5IiwgImlkIjogImNmMWFkNmM3LTU5ODctNDMxNC04MmJiLWI0Mzk5MDQwZDA0NyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAidGVzdF9uYW1lIjogIjgifQ==
 vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@m247-fi-01.live:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#[🇫🇮]t.me/ConfigsHub
-vless://40601c06-6fbf-4f48-bcff-2a8d57038e37@las.dearhossein-taktaz.ir:47922?headerType=http&host=play.google.com&security=reality&encryption=none&pbk=-smckvxfg8A2QkVqkQpI3bPMcYJ_69fAxWS7u9VhND8&sid=09&spx=%2FC42p6dEeWp6gGTf&sni=www.yahoo.com&fp=chrome&type=tcp#[🇩🇪]t.me/ConfigsHub

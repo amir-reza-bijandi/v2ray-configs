@@ -1,6 +1,6 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-07-08T09:00:53.001Z
-# Configs: 353
+# Updated: 2026-07-08T09:30:43.918Z
+# Configs: 345
 # Source: https://t.me/ConfigsHUB2
 
 trojan://humanity@104.18.152.246:443?security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome&allowinsecure=0&type=ws&host=www.calmloud.com&path=%2Fassignment#[🇨🇦]t.me/ConfigsHub
@@ -348,11 +348,3 @@ vless://f798a2c4-c51b-409d-b349-ca8455b36796@198.202.211.1:8443?path=%2Fdownload
 vless://681314c5-b3ee-41f1-a959-fa42841f5383@heie.foot8all.ir:56625?encryption=none&security=reality&type=grpc&headerType=none&mode=gun&sni=icloud.com&fp=firefox&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=b7c8604c2d6dbfd6#[🏁]t.me/ConfigsHub
 vless://40601c06-6fbf-4f48-bcff-2a8d57038e37@las.dearhossein-taktaz.ir:47922?headerType=http&host=play.google.com&security=reality&encryption=none&pbk=-smckvxfg8A2QkVqkQpI3bPMcYJ_69fAxWS7u9VhND8&sid=09&spx=%2FC42p6dEeWp6gGTf&sni=www.yahoo.com&fp=chrome&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://10a6b923-e349-4594-92bb-d81a6245aaec@104.27.66.214:443?path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#[🇨🇦]t.me/ConfigsHub
-vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.186.41:443?path=%2Fsinavm-sinavm%2F%3Fed%3D2560&security=tls&encryption=none&host=cr7.traneh.dpdns.org&type=ws&sni=cr7.traneh.dpdns.org#[🇨🇦]t.me/ConfigsHub
-vless://6bb4d50a-56f9-47d5-8ce8-d8b7fe9aa474@64.225.9.191:25023?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
-vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.17:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=e3d38cee79d4f94c#[🇹🇷]t.me/ConfigsHub
-vless://3f298aca-2412-49ac-9f20-235f0e448d31@talianaccentclouding.iranlast.com:7009?encryption=none&type=tcp&security=reality&headerType=none&sni=yahoo.com&fp=qq&insecure=1&allowInsecure=1&pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8#[🇮🇹]t.me/ConfigsHub
-vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@104.16.72.41:443?encryption=none&type=ws&security=tls&path=%2Fpoiuyws&host=amoosamiii.net&sni=amoosamiii.net&fp=chrome&insecure=0&allowInsecure=0#[🇨🇦]t.me/ConfigsHub
-vless://7943183f-5c33-4728-8d57-8f18efe6ce25@fast.motorbazan.com:443?encryption=none&type=ws&security=tls&host=sevenfeshab.global.ssl.fastly.net&sni=ssl.fastly.com&insecure=0&allowInsecure=0#[🏁]t.me/ConfigsHub
-vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?encryption=none&type=ws&security=tls&path=%2Fpoiuyws&host=amoosamiii.net&sni=amoosamiii.net&insecure=0&allowInsecure=0#[🏁]t.me/ConfigsHub
-vless://40601c06-6fbf-4f48-bcff-2a8d57038e37@las.dearhossein-taktaz.ir:47922?encryption=none&type=tcp&security=reality&headerType=http&host=play.google.com&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=-smckvxfg8A2QkVqkQpI3bPMcYJ_69fAxWS7u9VhND8&sid=09&spx=%2FC42p6dEeWp6gGTf#[🇩🇪]t.me/ConfigsHub

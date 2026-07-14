@@ -1,6 +1,6 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-07-14T17:18:28.043Z
-# Configs: 244
+# Updated: 2026-07-14T17:30:40.637Z
+# Configs: 234
 # Source: https://t.me/ConfigsHUB2
 
 trojan://humanity@104.18.152.246:443?security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome&allowinsecure=0&type=ws&host=www.calmloud.com&path=%2Fassignment#[🇨🇦]t.me/ConfigsHub
@@ -237,13 +237,3 @@ trojan://MiTiVPN@assets.fiverr.com:443?type=ws&security=tls&path=%2F---%40MiTiVP
 trojan://MiTiVPN@hyperon.site:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DSw&host=S--w-w.App-Cloud.ir&sni=sws-so-o.App-Cloud.ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
 trojan://MiTiVPN@hyperon.site:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DSw&host=S--w-w.App-Cloud.ir&sni=sws-so-o.App-Cloud.ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
 trojan://MiTiVPN@assets.fiverr.com:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DNL&host=sjus-kdid-iodp.App-Cloud.ir&sni=nl-ll-nl.App-Cloud.ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
-trojan://MiTiVPN@hyperon.site:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DNL&host=sjus-kdid-iodp.App-Cloud.ir&sni=nl-ll-nl.App-Cloud.ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
-trojan://MiTiVPN@hyperon.site:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DNL&host=sjus-kdid-iodp.App-Cloud.ir&sni=nl-ll-nl.App-Cloud.ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
-trojan://MITIVPN@assets.fiverr.com:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DUSA&host=Ussa-Si-ieo.App-Cloud.ir&sni=ksidi-isid-d.App-Cloud.ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
-trojan://MITIVPN@hyperon.site:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DUSA&host=Ussa-Si-ieo.App-Cloud.ir&sni=ksidi-isid-d.App-Cloud.ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
-trojan://MITIVPN@hyperon.site:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DUSA&host=Ussa-Si-ieo.App-Cloud.ir&sni=ksidi-isid-d.App-Cloud.ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
-vless://40601c06-6fbf-4f48-bcff-2a8d57038e37@las.dearhossein-taktaz.ir:47922?headerType=http&host=play.google.com&security=reality&encryption=none&pbk=-smckvxfg8A2QkVqkQpI3bPMcYJ_69fAxWS7u9VhND8&sid=09&spx=%2FC42p6dEeWp6gGTf&sni=www.yahoo.com&fp=chrome&type=tcp#[🇩🇪]t.me/ConfigsHub
-trojan://MITIVPN@assets.fiverr.com:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DGE&host=De-e-d.App-Cloud.ir&sni=deioej-ieid.App-Cloud.ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
-trojan://MITIVPN@hyperon.site:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DGE&host=De-e-d.App-Cloud.ir&sni=deioej-ieid.App-Cloud.ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
-trojan://MITIVPN@hyperon.site:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DGE&host=De-e-d.App-Cloud.ir&sni=deioej-ieid.App-Cloud.ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
-trojan://MiTiVPN@assets.fiverr.com:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dfl&host=fl-ll-i.App-Cloud.ir&sni=Fl-u-ueisi.App-Cloud.ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#[🇨🇦]t.me/ConfigsHub

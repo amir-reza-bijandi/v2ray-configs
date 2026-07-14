@@ -1,6 +1,6 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-07-14T15:00:47.858Z
-# Configs: 301
+# Updated: 2026-07-14T15:25:57.531Z
+# Configs: 300
 # Source: https://t.me/ConfigsHUB2
 
 trojan://humanity@104.18.152.246:443?security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome&allowinsecure=0&type=ws&host=www.calmloud.com&path=%2Fassignment#[🇨🇦]t.me/ConfigsHub
@@ -303,4 +303,3 @@ vless://40601c06-6fbf-4f48-bcff-2a8d57038e37@las.dearhossein-taktaz.ir:47922?enc
 vless://36644091-0cec-47fe-9955-97c3f424baf7@all112.allenshop66245.ir:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#[🇩🇪]t.me/ConfigsHub
 vless://40601c06-6fbf-4f48-bcff-2a8d57038e37@las.dearhossein-taktaz.ir:47922?headerType=http&host=play.google.com&security=reality&encryption=none&pbk=-smckvxfg8A2QkVqkQpI3bPMcYJ_69fAxWS7u9VhND8&sid=09&spx=%2FC42p6dEeWp6gGTf&sni=www.yahoo.com&fp=chrome&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://40601c06-6fbf-4f48-bcff-2a8d57038e37@las.dearhossein-taktaz.ir:47922?encryption=none&type=tcp&security=reality&headerType=http&host=play.google.com&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=-smckvxfg8A2QkVqkQpI3bPMcYJ_69fAxWS7u9VhND8&sid=09&spx=%2FC42p6dEeWp6gGTf#[🇩🇪]t.me/ConfigsHub
-vmess://eyJhZGQiOiJiZXN0Y2YuMDMwMTAxLnh5eiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uenVsYS51cGxhb2QtbXVzaWMuaXIuIiwiaWQiOiJmODk3NTg3MS1hN2EwLTQ5MDYtODgzNS1hMjNjMTI1OGNhMWUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJb8J+HqPCfh6ZddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9

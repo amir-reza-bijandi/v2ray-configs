@@ -1,6 +1,6 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-07-14T17:00:44.931Z
-# Configs: 247
+# Updated: 2026-07-14T17:18:28.043Z
+# Configs: 244
 # Source: https://t.me/ConfigsHUB2
 
 trojan://humanity@104.18.152.246:443?security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome&allowinsecure=0&type=ws&host=www.calmloud.com&path=%2Fassignment#[🇨🇦]t.me/ConfigsHub
@@ -247,6 +247,3 @@ trojan://MITIVPN@assets.fiverr.com:443?type=ws&security=tls&path=%2F---%40MiTiVP
 trojan://MITIVPN@hyperon.site:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DGE&host=De-e-d.App-Cloud.ir&sni=deioej-ieid.App-Cloud.ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
 trojan://MITIVPN@hyperon.site:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DGE&host=De-e-d.App-Cloud.ir&sni=deioej-ieid.App-Cloud.ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
 trojan://MiTiVPN@assets.fiverr.com:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dfl&host=fl-ll-i.App-Cloud.ir&sni=Fl-u-ueisi.App-Cloud.ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
-trojan://MiTiVPN@hyperon.site:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dfl&host=fl-ll-i.App-Cloud.ir&sni=Fl-u-ueisi.App-Cloud.ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
-trojan://MiTiVPN@hyperon.site:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dfl&host=fl-ll-i.App-Cloud.ir&sni=Fl-u-ueisi.App-Cloud.ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
-trojan://MITIVPN@nexigen.pro:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DGE&host=De-e-d.App-Cloud.ir&sni=deioej-ieid.App-Cloud.ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#[🇨🇦]t.me/ConfigsHub

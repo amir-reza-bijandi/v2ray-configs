@@ -1,8 +1,19 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-07-18T22:55:03.190Z
-# Configs: 446
+# Updated: 2026-07-18T23:00:34.071Z
+# Configs: 454
 # Source: https://t.me/ConfigsHUB
 
+vless://1a94747b-8901-4812-ba23-7eb44cc1162f@188.114.96.3:443?security=tls&sni=kingOfIRaN.Pages.DEV&type=ws&host=kIngOFIRAN.PAGes.DEv&path=%2FTelegram@Free_V2rng%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/ConfigsHub
+vless://7b912ab8-1f11-46fa-abe7-6d4bc1e45e61@188.209.153.97:36926?encryption=none&security=tls&sni=188.209.153.97&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=188.209.153.97&path=%2Ffreebox#[🇮🇷]t.me/ConfigsHub
+vless://ce26a70f-a3f1-4877-98d7-d40f89c45ab5@france.zarfena.ir:443?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=play.google.com&pbk=gNJZix6GHGuB246_yD6n0EQQY-6Vb1zXg3ipjnubawE&sid=5e0c7ed3516d6829#[🇫🇷]t.me/ConfigsHub
+vless://22117db5-c1c6-4adf-899d-44e8e0965a53@65.109.9.230:64402?headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#[🇫🇮]t.me/ConfigsHub
+vless://d6349a75-e856-4ebb-8c16-953b30bb8bde@15.237.39.249:31863?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#[🇫🇷]t.me/ConfigsHub
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.24.197.20:2095?path=%2F&security=none&encryption=none&host=cnmfangbinxing.cnmfangbinxing-q.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://2730487f-0ed5-4f04-92d5-f95f9253d4f4@172.67.135.69:443?path=ws&security=tls&encryption=none&insecure=0&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&type=ws&allowInsecure=0&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev#[🇨🇦]t.me/ConfigsHub
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.24.197.20:2095?path=%2F&security=none&encryption=none&host=cnmfangbinxing.cnmfangbinxing-q.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://4feb7818-dc02-46cd-b985-abf3fdd0cdc5@164.38.155.13:443?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=1&host=edge-4cb23bf6.pages.dev&type=ws&allowInsecure=1&sni=edge-4cb23bf6.pages.dev#[🏁]t.me/ConfigsHub
+vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@link.oneokgames.com:443?mode=gun&security=reality&encryption=none&authority=&pbk=x9m8Vxk2YlwXy8CLrHeEMDzLJWuRQ3mh6CPWA34u2yY&fp=firefox&type=grpc&serviceName=media.v1.SyncService&sni=link.oneokgames.com&sid=ad613873130544ab#[🏁]t.me/ConfigsHub
+vless://40b46f64-d8a5-4496-b86f-1d6db7d4bf39@95.179.159.222:19436?encryption=none&security=none&type=tcp@oliver#[🏁]t.me/ConfigsHub
 vless://1a94747b-8901-4812-ba23-7eb44cc1162f@188.114.96.3:443?security=tls&sni=kingOfIRaN.Pages.DEV&type=ws&host=kIngOFIRAN.PAGes.DEv&path=%2FTelegram@Free_V2rng%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/ConfigsHub
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.229:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h3&host=pages.teasalo.cloudns.org&fp=random&type=ws&sni=pages.teasalo.cloudns.org#[🇨🇦]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.11.186.0:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#[🏁]t.me/ConfigsHub
@@ -446,6 +457,3 @@ vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@188.114.97.6:443?path=%2Frsedgws%23
 vless://aa821fab-db04-43f0-b807-c25541b5e536@162.159.38.119:443?path=%2F-----MxGriD-----&security=tls&encryption=none&host=telegram.mxgrid.xyz&type=ws&sni=telegram.mxgrid.xyz#[🏁]t.me/ConfigsHub
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.42.54:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#[🇨🇦]t.me/ConfigsHub
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.147.22:443?path=%2Fodiyfws%23%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=octopusss.net&fp=chrome&type=ws&allowInsecure=0&sni=octopusss.net#[🇨🇦]t.me/ConfigsHub
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.35.37:8443?path=%2Ffp%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#[🇨🇦]t.me/ConfigsHub
-vless://d89538a6-cce4-44be-8754-8f20a495dabc@178.128.173.78:36412?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#[🏁]t.me/ConfigsHub
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.101:443?path=%2Frsedgws%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#[🇨🇦]t.me/ConfigsHub

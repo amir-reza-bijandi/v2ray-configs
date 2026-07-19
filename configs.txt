@@ -1,8 +1,19 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-07-18T23:57:35.937Z
-# Configs: 445
+# Updated: 2026-07-19T00:00:34.225Z
+# Configs: 446
 # Source: https://t.me/ConfigsHUB
 
+vless://4da71592-a833-4242-b597-2c003dd4310d@185.29.222.230:33585?security=none&type=tcp&host=chess.com&path=%2F&headerType=http#[🇮🇷]t.me/ConfigsHub
+vless://d8e9d1b5-f951-4c57-a1b5-594fbfe97836@visa.com:80?type=ws&path=%2FDaily_Configs-netmaster%3Fed%3D2048&host=www.speedtest.net.zula.ir.zara.com.nobitex.com.vigilantecollection.com.&security=none#[🇨🇦]t.me/ConfigsHub
+vless://73eed38e-09ea-4c07-aa95-c53684400d68@91.107.160.130:33819?security=&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
+vless://0b5d9516-ff4f-494b-a8fe-c53f52c4e35a@104.21.69.44:8880?security=none&type=httpupgrade&host=www.speedtest.net.ftp.debian.org.%E8%87%AA%E5%B7%B1%E4%B8%8D%E5%8E%BB%E7%9C%8B%E5%95%A5%E4%BA%8B%E6%83%85%E5%9F%BA%E6%9C%AC%E4%BA%8B%E4%BA%8B.mobilewersach.ir&path=%2FVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
+ss://bm9uZTphY2JhYmFjLWFhY2ItYmFjYS1kYWNiLWJiYWFjY2NiYWNiYQ==@127.0.0.1:1080#[🏁]t.me/ConfigsHub
+trojan://acabbca-abca-aabc-acbd-aacabcabbccb@127.0.0.1:8080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
+vless://61035d66-d7ba-4c7d-be6e-373b5d114246@66.235.200.111:8080?path=%2Fjoin---to---vistav2ray-------join---to---vistav2ray-------join---to---vistav2ray-------join---to---vistav2ray-------%3Fed%3D2048&security=none&encryption=none&host=wWw.speEdtest.net.www.zula.ir.cloudflare.com.Tescoco.cFd.&type=ws#[🏁]t.me/ConfigsHub
+trojan://abaccba-caba-cbaa-cbda-aaabcaccbcbb@127.0.0.1:8080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
+vless://c7261212-889b-4d9c-a9ec-c267c6afd937@usa.speedtun.ir:5050?encryption=none&security=reality&type=tcp&headerType=none&path=%2F%3Fed%3D2048&host=rubika.ir&sni=www.samsung.com&fp=chrome&alpn=http%2F1.1&pbk=s85XxWAH9ppjTFq3nZWanvl9gesfbjll9suZo_m9fyM&sid=20ea0b53e2b5aaaf#[🏁]t.me/ConfigsHub
+vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwgImFkZCI6ICIxMDQuMTYuNjcuMzgiLCAicG9ydCI6ICIyMDgyIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJmNTg0ZGUxNS0yMDM0LTQxNzAtYTcyMy1mNDhjMmJhZTVlMGYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2FmcmhtczE2di5iZXN0eHJheS5idXp6L2xpbmt3cyIsICJob3N0IjogInRpbGwtYnVzaC1kMjU1LmxveWFib2sxMjUud29ya2Vycy5kZXYiLCAidGxzIjogIiJ9
+vless://154c18ae-f5eb-4cfd-8429-1f582c93913b@62.238.41.102:443?encryption=none&security=tls&sni=bot.sobhanpor.ir&allowinsecure=0&type=tcp&headerType=none#[🇫🇮]t.me/ConfigsHub
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@main.oneoker.com:443?encryption=none&security=reality&sni=main.oneoker.com&fp=firefox&pbk=yiX2T6z3GavNIgnnxsoU57vgq2pdfngXAU83vhBDQlA&sid=a9b0c08836bad3c5&type=grpc&authority=&serviceName=api.v1.StreamService&mode=gun#[🏁]t.me/ConfigsHub
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@main.oneoker.com:443?encryption=none&security=reality&sni=main.oneoker.com&fp=chrome&pbk=yiX2T6z3GavNIgnnxsoU57vgq2pdfngXAU83vhBDQlA&sid=a9b0c08836bad3c5&type=grpc&authority=&serviceName=api.v1.StreamService&mode=gun#[🏁]t.me/ConfigsHub
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@tracker.oneokgames.com:443?encryption=none&security=reality&sni=tracker.oneokgames.com&fp=firefox&pbk=VTO26jBMVVnEnnHQON7k8lB3ED46_JHshPorJHHXSRU&sid=a30b344b5214d62f&type=grpc&authority=&serviceName=push.v2.FeedService&mode=gun#[🏁]t.me/ConfigsHub
@@ -438,13 +449,3 @@ vless://Telegram%3AX_RAY_VPN1@176.65.151.83:443?encryption=none&security=none&ty
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.184.27:22222?encryption=none&security=none&type=tcp&headerType=none#[🇫🇷]t.me/ConfigsHub
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.44.180:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560#[🏁]t.me/ConfigsHub
 vless://ecad47b0-249e-4f6f-adff-e3c8f02b1897@185.231.101.89:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=se.quattro-tech.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&headerType=none#[🇸🇪]t.me/ConfigsHub
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.72.20:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=t1s1.rittbo.kdns.fr&path=%2Ffp#[🇨🇦]t.me/ConfigsHub
-vless://384a72e6-8a10-4695-9ee5-c93728ef7e2a@tank.tarfiq.ir:38733?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=CXOpQI3hwCqEp5ul2SKWfdAK-PBjjzUn-eRb7bAxDgU&sid=09e78c1d381f98ed&type=grpc#[🇩🇪]t.me/ConfigsHub
-vless://a38a2076-c2bf-4786-b39d-618e669e12ce@91.107.179.104:20674?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#[🇩🇪]t.me/ConfigsHub
-vless://bacd8811-1e50-46ec-accf-06149cbdc25d@77.233.214.195:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=chrome&pbk=BEJH_omzwWCjagdtfdm9-faqD8aOnoLtc-z1ovRXyVk&sid=172e&type=tcp&headerType=none&host=deepl.com#[🏁]t.me/ConfigsHub
-vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@185.209.15.91:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=gedolam-vawset.ru&pbk=tSxNp48AuTUzqggANCWsR6v7bqlguCoVWk_YOUs36Ug&sid=0bc73dd1f045&allowinsecure=0&type=tcp&headerType=none#[🏁]t.me/ConfigsHub
-vless://55@web-production-82c39.up.railway.app:443?path=%2Fws%2F55&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=web-production-82c39.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=web-production-82c39.up.railway.app#[🏁]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.213:8080#[🏁]t.me/ConfigsHub
-trojan://JA96378052@curious-ocelot.rooster465.autos:443?allowInsecure=0&sni=curious-ocelot.rooster465.autos#[🇸🇬]t.me/ConfigsHub
-trojan://JA96378052@tolerant-fowl.rooster465.autos:443?allowInsecure=1&sni=tolerant-fowl.rooster465.autos#[🇸🇬]t.me/ConfigsHub
-trojan://HW85960347@renewing-leopard.rooster465.autos:443?allowInsecure=1&sni=renewing-leopard.rooster465.autos#[🇯🇵]t.me/ConfigsHub

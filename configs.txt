@@ -1,8 +1,11 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-07-25T03:11:54.737Z
-# Configs: 436
+# Updated: 2026-07-25T03:30:25.883Z
+# Configs: 435
 # Source: https://t.me/ConfigsHUB
 
+trojan://1-----------------BanV2ray-----------------1@179.237.74.104:23610?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=chrome&type=grpc&sni=world.yahoo.com%3A443&sid=5849771c39aa01#[🇨🇭]t.me/ConfigsHub
+trojan://humanity@104.18.152.246:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#[🇨🇦]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@92.118.205.211:5600#[🇵🇱]t.me/ConfigsHub
 vless://de543079-9ff5-4dce-8b68-97f61685efd7@nodejs.org:443?path=%2FLNGeLLJXXIlSdZMqnuxG&security=tls&encryption=none&alpn=h2&host=hdfy1c1.cpiforpersia.uk&fp=chrome&type=ws&sni=hdfy1c1.cpiforpersia.uk#[🇨🇦]t.me/ConfigsHub
 vless://3fedbd26-b4da-440e-9f7c-004d2463caec@104.17.147.22:443?security=tls&sni=disvpn-channel.us.kg&type=ws&host=disvpn-channel.us.kg&path=%2F---------DisVpn---------DisVpn---------DisVpn&fp=random#[🇨🇦]t.me/ConfigsHub
 vless://db92d9ef-8201-4ebe-9e37-497220f64aaf@104.16.11.133:80?security=none&type=httpupgrade&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&path=/@Vpn_Mikey،@Vpn_Mikey#[🇨🇦]t.me/ConfigsHub
@@ -435,7 +438,3 @@ vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?path=%2Fv1&securi
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#[🇸🇬]t.me/ConfigsHub
 vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@de.edge-9d7c.com:443?security=reality&encryption=none&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de.edge-9d7c.com&sid=9d84de9d9f7b85e9#[🇩🇪]t.me/ConfigsHub
 vless://70f28a55-1e6c-4082-aef4-2dc2cfa78fca@135.125.185.225:2053?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&sid=524efc1f88592266&allowinsecure=0&type=grpc&mode=gun&authority=%76%32%72%61%79%4e%70%6c%75%73--%76%32%72%61%79%4e%70%6c%75%73--%76%32%72%61%79%4e%70%6c%75%73&serviceName=api.v1.data#[🇩🇪]t.me/ConfigsHub
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&headerType=http&type=tcp#[🇱🇻]t.me/ConfigsHub
-trojan://1------------------%42%61%6e%56%32%72%61%79------------------1@37.156.45.60:37161?security=reality&sni=world.yahoo.com%3A443&fp=firefox&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&sid=9d50bfcefa&spx=%2F3a4e7061e937f69&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=#[🇨🇭]t.me/ConfigsHub
-vless://6d0c2658-9a4b-4c47-9083-4f8a06107eef@pl.gilangard.ir:11436?security=reality&encryption=none&pbk=A2kg38KiewW1eQtfXafwTv7jQy0lSJTYU-08M3Op5z8&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=6f988cc209aa5308#[🇩🇪]t.me/ConfigsHub
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&headerType=http&type=tcp#[🇱🇻]t.me/ConfigsHub

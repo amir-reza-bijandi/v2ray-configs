@@ -1,6 +1,6 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-07-28T16:43:35.489Z
-# Configs: 411
+# Updated: 2026-07-28T17:00:46.377Z
+# Configs: 409
 # Source: https://t.me/ConfigsHUB
 
 vless://a69d5300-8101-47b5-9448-6730f228af37@151.101.193.54:80?security=none&encryption=none&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws#[🇨🇦]t.me/ConfigsHub
@@ -412,5 +412,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.34:80
 vless://b559decc-2e48-47c3-827f-a48cdfd7388d@fr.veraxideas.ir:20000?security=reality&encryption=none&pbk=jyMIhueDirXlz-JiLj1ff5zayv6TjRKUSGfp-gxR6iQ&headerType=none&fp=chrome&spx=%2FZESolO5ZLEBgCJi&type=tcp&sni=yahoo.com&sid=79546ef3cf6f#[🇮🇷]t.me/ConfigsHub
 vless://3b57c4c0-1937-4ec3-9092-01b33be57391@3x-ui-production-e1ff.up.railway.app:59638?encryption=none&security=none&type=tcp#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.57:443?#[🏁]t.me/ConfigsHub
-vless://23eb25bc-f233-4762-9759-01157944cc29@104.19.229.21:2086?path=%2F%3Fed%3D8880&security=none&encryption=none&host=a3ssa.vaslbsh.com&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@68.168.116.6:1080#[🇨🇦]t.me/ConfigsHub

@@ -1,6 +1,6 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-08-08T23:30:27.517Z
-# Configs: 415
+# Updated: 2026-08-08T23:32:43.853Z
+# Configs: 414
 # Source: https://t.me/ConfigsHUB
 
 vless://7c7af2de-bb97-429f-ac3c-8ef849717491@172.66.40.175:443?path=/BQV6vAwQzmCFpMcdx&security=tls&encryption=none&alpn=http/1.1&host=tr2.tradex2080.com&fp=chrome&type=httpupgrade&sni=tr2.tradex2080.com#[🇨🇦]t.me/ConfigsHub
@@ -417,4 +417,3 @@ vless://97889283-55a0-474a-9f26-9fa23c886b45@176.120.17.21:1010?encryption=none&
 ss://YWVzLTI1Ni1nY206OGRlYWVlYTgtMjRhYy00YmVmLWIzMzUtMzE0ZDhiZjlkZjk5@srv3.oxypingbot.in:19208#[🇮🇷]t.me/ConfigsHub
 vless://af309ad2-c943-48ea-b570-2e51a2f079d9@185.146.173.152:2095?path=%2FDSDaswd22%2111*fdfm55247.COM.&security=none&encryption=none&host=NOxdB1.BisTaiR.orG&type=ws#[🇸🇪]t.me/ConfigsHub
 vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?encryption=none&security=reality&sni=deepl.com&pbk=KCbW84C8h2Ja01LS0Ro8EpLLfzMTjs11t1ldDWLd5zo&sid=aae8&allowinsecure=0&type=tcp&headerType=none#[🏁]t.me/ConfigsHub
-vless://baf1725b-4f31-407c-82e5-b225d5083eca@vpn.dailynode.net:11000?security=reality&encryption=none&pbk=BoibKO0-b9yDxo2iXtw_aduomZ96vAvPG9Ekp1_JP3U&headerType=none&fp=ios&spx=%2F3d52d54c1489fb3&type=tcp&sni=play.google.com#[🇩🇪]t.me/ConfigsHub

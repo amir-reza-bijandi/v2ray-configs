@@ -1,8 +1,11 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-08-08T21:30:29.644Z
-# Configs: 418
+# Updated: 2026-08-08T21:34:25.227Z
+# Configs: 415
 # Source: https://t.me/ConfigsHUB
 
+vless://1cde7b4a-6dd7-4eb6-ba2e-41625d491300@149.33.36.32:443?security=reality&encryption=none&pbk=oX_8IyRmI_X4pPWaGTbduLyvlZWwLkZlxJKmtvjmqEg&host=%2F%3FBIA_TELEGRAM%40&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=03a70b17f8036009#[🇫🇮]t.me/ConfigsHub
+vless://1a8aa3c0-7741-49dd-adbc-dcc629f6b938@178.154.208.44:443?security=reality&encryption=none&pbk=oX_8IyRmI_X4pPWaGTbduLyvlZWwLkZlxJKmtvjmqEg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=03a70b17f8036009#[🇷🇺]t.me/ConfigsHub
+vless://ed2f2ae0-b897-45fe-9807-acabcff4371a@37.156.47.242:8080?security=reality&encryption=none&pbk=MYlH37mavAUEvPJJFGgdLvAytETP0CuXq0_iO7WNO1U&host=%2F%3FBIA_TELEGRAM%40&headerType=none&fp=chrome&spx=%2Fa80bc758af3f28f&type=tcp&sni=mbp.yimg.com&sid=b292f6488eae95ae#[🇨🇭]t.me/ConfigsHub
 vmess://eyJ2IjogIjIiLCAiYWRkIjogIjEwNC4yMS4xNS4yMTIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiNzYyMjFiZmItZTkyZi00ZTgwLTgxYzUtNmZlNDhmNTBhYzBiIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJnbHdlaWRmLnNicyIsICJwYXRoIjogIi9saW5rd3MiLCAidGxzIjogInRscyIsICJzbmkiOiAiZ2x3ZWlkZi5zYnMiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgInBzIjogW/Cfh6nwn4eqXXQubWUvQ29uZmlnc0h1YjogIvCfh6jwn4emMTM4MzExIHwg4pqh77iPVGVsZWdyYW0gPSB0Lm1lL1NPU2tleU5FVCJ9
 vmess://eyJ2IjogIjIiLCAiYWRkIjogIjEwNC4xOS40Ny4xNTgiLCAicG9ydCI6IDgwODAsICJpZCI6ICJiNTUxYWEyMi0yMmFmLTExZWUtYjhkOC1mMjNjOTMyZWI2OGQiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJob3N0IjogIm9paWN0dy55eWRzaWkuY29tIiwgInBhdGgiOiAiLz9lZD0yMDQ4JlRlbGVncmFt8J+HqPCfh7MgQFdhbmdDYWkyIiwgInRscyI6ICIiLCAicHMiOiBb8J+HqfCfh6pddC5tZS9Db25maWdzSHViOiAi8J+HqPCfh6YxMzgzMTAgfCDimqHvuI9UZWxlZ3JhbSA9IHQubWUvU09Ta2V5TkVUIn0=
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fuck.rkn&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&allowinsecure=0&type=tcp&headerType=none#[🏁]t.me/ConfigsHub
@@ -415,9 +418,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2dG0wa21iZG56UzFYb0xD@20.223.129.129:443#[�
 vmess://eyJhZGQiOiIxNzIuNjYuNDQuOTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IlBvbDEubE9vbE9vbG9PbE9vLkNPTS4iLCJpZCI6IjRhODY3YWJkLWYzZGEtNGYyOC04ZjQwLTNlNDI5ZjA1NWQ2NSIsImluc2VjdXJlIjoiMCIsIm5ldCI6Imh0dHB1cGdyYWRlIiwicGF0aCI6Ii9lZFx1MDAzZD8yMDQ4IiwicG9ydCI6IjgwODAiLCJwcyI6Ilvwn4eo8J+Hpl10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 trojan://2238e2f3-1a01-485e-8c22-24b65764c68b@172.64.152.23:443?path=%2F51.91.253.83&security=tls&insecure=0&host=gzjx.dpdns.org&type=ws&allowInsecure=0&sni=gzjx.dpdns.org#[🇨🇦]t.me/ConfigsHub
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.50.247:22222?encryption=none&security=none&type=tcp#[🇫🇷]t.me/ConfigsHub
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.50.247:22223?encryption=none&security=none&type=tcp#[🇫🇷]t.me/ConfigsHub
-vless://e1c2d7be-e0c0-4361-bcc7-9364ae489ad1@nozomi.proxy.rlwy.net:24703?mode=auto&path=%2Fassets&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%225-70%22%7D&pbk=d-Ra_1uPf5oLwePV1GutozqIrbAD4-B8dFfI1btDzAk&fp=chrome&spx=%2F87faed2512d4e8f&type=xhttp&sni=www.samsung.com&sid=22#[🏁]t.me/ConfigsHub
-vless://e393833a-4eb4-4783-8409-cfa203d52947@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=SvnTeamChannel.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#[🏁]t.me/ConfigsHub
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@143.47.188.151:62145?encryption=none&security=none&type=tcp&headerType=none&path=%2F#[🇳🇱]t.me/ConfigsHub
-vless://eaa3cc1a-c3cd-48d6-b4d2-f3b84c05bd4a@d.mygoldiran.com:8443?mode=auto&path=%2Ftv%2F1080&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Atrue%7D&insecure=0&host=usa_multi.mygoldiran.com&type=xhttp&allowInsecure=0&sni=usa_multi.mygoldiran.com#[🏁]t.me/ConfigsHub
-vmess://eyJhZGQiOiAiMTg1LjE0Ni4xNzMuNTkiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAib2JkaWkuY2ZkIiwgImlkIjogIjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiAiNDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJvYmRpaS5jZmQiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWI6ICLwn4e48J+HqjEzODE2MSB8IOKaoe+4j1RlbGVncmFtID0gdC5tZS9TT1NrZXlORVQifQ==

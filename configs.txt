@@ -1,6 +1,6 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-08-08T22:30:27.914Z
-# Configs: 417
+# Updated: 2026-08-08T22:33:12.805Z
+# Configs: 414
 # Source: https://t.me/ConfigsHUB
 
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:8080?path=%2F&security=none&encryption=none&host=PbDpGsCo7.HaMeCi-dSsTeMaNe.oRg&type=ws#[🇨🇦]t.me/ConfigsHub
@@ -417,6 +417,3 @@ vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@45.143.201.8:443?encryption=none&fl
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.212:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#[🏁]t.me/ConfigsHub
 vless://f692629b-3557-488a-9c9b-60775331e423@132.243.225.143:443?security=reality&encryption=none&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fi1-cosmostechnology.ru#[🇩🇪]t.me/ConfigsHub
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#[🇨🇦]t.me/ConfigsHub
-vless://74386f0d-a087-2bc6-5635-7c887932074f@69.46.46.10:443?path=%2Fws%2F74386f0d-a087-2bc6-5635-7c887932074f&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rvg-production-0113.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=rvg-production-0113.up.railway.app#[🏁]t.me/ConfigsHub
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#[🇨🇦]t.me/ConfigsHub
-vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@104.18.1.1:2087?encryption=none&security=tls&sni=Amphetamine.aDaspoloandco.com&insecure=0&allowInsecure=0&type=ws&host=Amphetamine.aDaspoloandco.com&path=%2Fdownload.php#[🇨🇦]t.me/ConfigsHub

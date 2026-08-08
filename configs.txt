@@ -1,8 +1,10 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-08-08T10:30:33.158Z
-# Configs: 426
+# Updated: 2026-08-08T10:37:21.082Z
+# Configs: 428
 # Source: https://t.me/ConfigsHUB
 
+vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@94.102.51.218:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fair-lunar.cdn.cachefleet.com#[🏁]t.me/ConfigsHub
+vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@155.212.142.50:2200?path=%2Fv1&security=none&encryption=none&host=rzd.ru&type=ws#[🇷🇺]t.me/ConfigsHub
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.49:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#[🇫🇷]t.me/ConfigsHub
 vless://4611b447-9482-4c0a-8b9c-11ae8849880e@144.225.65.199:443?encryption=none&fp=chrome&pbk=trwUo_vBd0fSJVmNXWjRSnD8t3vP06WHjEVgit1Vqj0&security=reality&sid=d86d0ee3b3ed6781&sni=es-us.finanzas.yahoo.com&spx=%2Fdac6d9493779cc1&type=tcp#[🇹🇷]t.me/ConfigsHub
 vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?security=reality&encryption=none&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=cd21e552537c7c0b#[🇫🇮]t.me/ConfigsHub

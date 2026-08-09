@@ -1,6 +1,6 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-08-09T20:30:26.061Z
-# Configs: 403
+# Updated: 2026-08-09T20:37:19.351Z
+# Configs: 402
 # Source: https://t.me/ConfigsHUB
 
 vless://450340b0-e455-4e4b-9325-64244338a795@185.218.139.222:8080?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=KKuA4eyhlE6PtHejltulCvKvC5TYgm8PfA38PqRhe3A&fp=chrome&spx=%2Fu21oNLT6woKwxzI&type=xhttp&sni=www.intel.com&sid=457500#[🇮🇷]t.me/ConfigsHub
@@ -405,4 +405,3 @@ vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?security=reality&e
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cf.levikogjgfdd.ir:2095?path=%2F&security=none&encryption=none&host=download.pusytroller.gq&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=firefox&type=xhttp&allowInsecure=0&sni=static.lotussec.com#[🇩🇪]t.me/ConfigsHub
 vless://06f99c33-f12e-4249-8da6-d0fb00609afd@104.16.6.70:2087?mode=auto&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=ip-7.xn--fjqyexxidv2znoe9rk1n8ada0532g6usa.com&fp=firefox&type=xhttp&allowInsecure=0&sni=ip-6.xn--fjqyexxidv2znoe9rk1n8ada0532g6usa.com#[🇨🇦]t.me/ConfigsHub
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.27.99:443?security=reality&encryption=none&pbk=EuExqpNB141gtIjbCmU0yyurbBqiLtGjDg-n95JIuig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=1.oncloudnineservicestreang.com&sid=28415a7918168947#[🇩🇪]t.me/ConfigsHub

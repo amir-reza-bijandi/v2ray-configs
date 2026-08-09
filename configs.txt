@@ -1,6 +1,6 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-08-09T23:30:24.941Z
-# Configs: 406
+# Updated: 2026-08-09T23:35:04.694Z
+# Configs: 405
 # Source: https://t.me/ConfigsHUB
 
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.109.155:80?security=none&type=ws&host=us3.rtacg.com&path=/#[🇨🇦]t.me/ConfigsHub
@@ -408,4 +408,3 @@ vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?security=reality
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.153.203:80?security=none&type=ws&host=us3.rtacg.com&path=/#[🇨🇦]t.me/ConfigsHub
 vless://1cde7b4a-6dd7-4eb6-ba2e-41625d491300@149.33.36.32:443?security=reality&encryption=none&pbk=oX_8IyRmI_X4pPWaGTbduLyvlZWwLkZlxJKmtvjmqEg&host=%2F%3FBIA_TELEGRAM%40TOOTFFARANGI_TOOTFFARANGI_TOOTFFARANGI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=03a70b17f8036009#[🇫🇮]t.me/ConfigsHub
 hysteria2://71cada65-d23e-418c-88e4-a06188d14689@31.76.113.32:443/?sni=it-one.quiet-rogue.site#%F0%9F%87%AE%F0%9F%87%B9139159%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-vless://67c187e4-2f9f-b2bf-4c52-f7b20000000b@www.speedtest.net:2086?sni=ez-645eee.ezaccess13e2b2a.workers.dev&type=ws&host=ez-645eee.ezaccess13e2b2a.workers.dev&path=/sync#[🇨🇦]t.me/ConfigsHub

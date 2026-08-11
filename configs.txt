@@ -1,8 +1,11 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-08-11T22:48:54.578Z
-# Configs: 412
+# Updated: 2026-08-11T23:00:34.431Z
+# Configs: 411
 # Source: https://t.me/ConfigsHUB
 
+vless://a9160eba-23cd-407d-8cb3-39a2bc43148c@45.130.125.69:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&allowinsecure=1&type=grpc&serviceName=sharghdaily.com.tasnimnews.com.yjc.ir.entekhab.ir.tasnimnews.com.isna.ir.entekhab.ir&sni=sHort-aCtIon40S8o1J3v9.SaMSUNgOVEnS.Ir#[🇸🇨]t.me/ConfigsHub
+vless://eda6b321-aa59-4b1e-b823-3616af020b4a@194.5.207.6:443?security=reality&encryption=none&pbk=8Cho6K3KB6Aoty9x_TCAbY3yv7m-ToCHqaKkZTxR3jM&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=play.google.com&sid=d6c3c9#[🇩🇪]t.me/ConfigsHub
+trojan://q51iu98RRqcIrXtMyddyFQ@31.77.151.234:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.microsoft.com&fp=chrome&pbk=lkrG1__KgRY9_q6YOXt1iyAfIqYTuHU-v1JEaovCYH4&sid=#[🇫🇮]t.me/ConfigsHub
 vless://7c3e7eb3-289a-4664-b783-e459713aed4f@sourceforge.net:8880?encryption=none&security=none&type=httpupgrade&host=FFfcvFtcFar.9.postshup.ir&path=%2F%3Fed%3D2082#[🇨🇦]t.me/ConfigsHub
 vless://a1d262a9-6d57-4ff0-99e4-594782c2ca7c@5.75.207.247:443?security=reality&encryption=none&pbk=AQdYxjoMA0fxO8O9BX5bW4EMfRyiH09K0Hwjwse51AM&headerType=none&fp=random&spx=%2FQYP1c9H45RBRVLu&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=f5#[🇩🇪]t.me/ConfigsHub
 vless://f4dbc770-016d-0064-82f0-d83ee6f45da3@164.37.105.35:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sl.cdn.cachefleet.com&fp=random&pbk=sBSNX3DhJSWOkqTmRHisayVLisCBQLb4JcpKzwCrvC0&type=tcp&headerType=none#[🏁]t.me/ConfigsHub
@@ -411,7 +414,3 @@ vless://VIPTelegramVIPConfigs@217.179.5.62:443?securitynone&encryption=none&host
 trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#[🇨🇦]t.me/ConfigsHub
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.71.113:22222?security=none&encryption=none&headerType=none&type=tcp#[🇫🇷]t.me/ConfigsHub
 vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#[🇨🇦]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqaVVUemZkUG83Zlc@70.39.178.204:42747#[🏁]t.me/ConfigsHub
-vless://9d328839-6d44-44bb-af3e-075f7f0002d6@sourceforge.net:8880?path=%2F%3Fed%3D2082&security=none&encryption=none&host=Goxfxgh.francee1.postshup.ir&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJbFNZK0QrdHR4cDhPTTh0WENDc1duS2gzRWg2S2w0ckFBdjNuRTBYMDhRPQ@e3.cover20.ir:56985#[🇮🇷]t.me/ConfigsHub
-vless://8f3182e9-5488-4b72-b020-37c4ef44f2de@167.99.248.73:18716?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#[🇩🇪]t.me/ConfigsHub

@@ -1,8 +1,13 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-08-12T22:45:23.388Z
-# Configs: 425
+# Updated: 2026-08-12T23:00:35.853Z
+# Configs: 424
 # Source: https://t.me/ConfigsHUB
 
+vless://80bec69d-8724-4ef7-8f47-3c35ae475562@193.39.9.240:1300?encryption=none&fp=chrome&pbk=NFsIgOxjsTyqP45-UF_42xOsQH6u6vZSJ90JQYDtuSo&security=reality&sid=a1c59d840bd24020&sni=www.intel.com&spx=%2FPyf78dDRaAIvcbC&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://80bec69d-8724-4ef7-8f47-3c35ae475562@193.39.9.240:1200?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2F&pbk=m8hOnhxPNmdXtfOky4MHI9FhArP3qqfH7lxcopcQfQA&security=reality&sid=aa3aeac79c&sni=www.intel.com&spx=%2FYxDawAd2e14gmF4&type=xhttp&x_padding_bytes=100-1000#[🇮🇷]t.me/ConfigsHub
+trojan://MiTiVPN@45.80.111.7:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e1%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=D-2A-G-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&fp=chrome&type=ws&allowInsecure=0&sni=d-2-AA-ia-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe#[🇩🇪]t.me/ConfigsHub
+vless://c124a209-d949-4951-8234-e2d918b3e6c0@paris.vypnet.su:443?security=reality&encryption=none&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=p.keshevoz.ru#[🇫🇷]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE@51.195.126.38:8388#[🇩🇪]t.me/ConfigsHub
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@179.61.138.105:443?encryption=none&security=tls&sni=static.lotussec.com&fp=firefox&alpn=h2&insecure=0&allowInsecure=0&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#[🇩🇪]t.me/ConfigsHub
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@198.202.211.1:443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=%2FGOrbEh#[🏁]t.me/ConfigsHub
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.4:443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=%2FGOrbEh#[🇨🇦]t.me/ConfigsHub
@@ -422,9 +427,3 @@ trojan://08QNE5JBq7kTV6b9Dd6e_w-y4WhjMLS9@ru.federal-usa.com:8443?security=tls&s
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#[🏁]t.me/ConfigsHub
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.148.244:2095?path=%2F&security=none&encryption=none&host=fuckingfangbinxing.pusytroller.cf&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://f4dbc770-016d-4a0f-82f0-d83ee6f45da3@94.249.225.83:443?security=reality&encryption=none&pbk=X6zcH8pCUXrauNQvbNkm8e_oTdB0wOr8eCMCzs3b1Tc&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=plucky-kestrel.cdn.cachefleet.com#[🏁]t.me/ConfigsHub
-vless://800c6b8b-0bcc-e08b-4183-1d3222a990cc@69.46.46.10:443?path=%2Fws%2F800c6b8b-0bcc-e08b-4183-1d3222a990cc&security=tls&alpn=http%2F1.1&encryption=none&host=rvg-production-a423.up.railway.app&fp=ios&type=ws&sni=rvg-production-a423.up.railway.app#[🏁]t.me/ConfigsHub
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.34:23576?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&allowinsecure=0&type=tcp&headerType=none#[🏁]t.me/ConfigsHub
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh%23TELEGRAM-TOOTFFARANGI_TOOTFFARANGI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#[🇨🇦]t.me/ConfigsHub
-vmess://eyJwYXRoIjoiXC9CZWdvb19WUE5cL0JlZ29vX1ZQTlwvQmVnb29fVlBOXC9CZWdvb19WUE5cL0JlZ29vX1ZQTlwvQmVnb29fVlBOXC9CZWdvb19WUE5cL0JlZ29vX1ZQTlwvQmVnb29fVlBOXC9CZWdvb19WUE5cL0JlZ29vX1ZQTlwvQmVnb29fVlBOXC9CZWdvb19WUE4iLCJpZCI6IjQ4NDIyMzAwLTQ1OGYtNGRiYi1iMGY1LTk2ZjQ1NDUwYWI5ZiIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicHMiOiJb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInBvcnQiOiIzODk5OCIsImhvc3QiOiIiLCJhZGQiOiIxNzguODMuNDUuMjkifQ==
-vless://4411e63c-9d5f-403f-b8b4-89ea29fbde2a@176.65.151.64:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=home.amazon.com&fp=firefox&pbk=vrCKcD_CfJ3HnoBh8WVGXXPxhCyjXjSVnFDfi14w53s&sid=71c764&spx=%2Fa32433ebeac8e8c&allowinsecure=0&type=tcp&headerType=none#[🏁]t.me/ConfigsHub
-vless://951a4640-fb31-5374-d506-15e17b5ac881@69.46.46.30:443?path=%2Fws%2F951a4640-fb31-5374-d506-15e17b5ac881&security=tls&alpn=http%2F1.1&encryption=none&host=rvg-production-0f6c.up.railway.app&fp=ios&type=ws&sni=rvg-production-0f6c.up.railway.app#[🏁]t.me/ConfigsHub

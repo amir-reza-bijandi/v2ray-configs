@@ -1,8 +1,14 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-08-13T16:59:28.897Z
-# Configs: 412
+# Updated: 2026-08-13T17:00:42.879Z
+# Configs: 418
 # Source: https://t.me/ConfigsHUB
 
+vless://a212b6f2-4b34-4e09-a76a-5d5202153e83@31.15.16.38:1819?security=reality&encryption=none&pbk=feC5cMmhHVSBeguhmfFjUHEZDYxxDKtKYHvPsqdIxD4&headerType=none&fp=chrome&spx=%2F7045bc83cbade91&type=tcp&sni=www.cloudflare.com&sid=4e#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#[🏁]t.me/ConfigsHub
+vless://a212b6f2-4b34-4e09-a76a-5d5202153e83@31.15.16.38:1819?security=reality&encryption=none&pbk=feC5cMmhHVSBeguhmfFjUHEZDYxxDKtKYHvPsqdIxD4&headerType=none&fp=chrome&spx=%2F7045bc83cbade91&type=tcp&sni=www.cloudflare.com&sid=4e#[🏁]t.me/ConfigsHub
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@172.67.191.52:2053?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&host=po.fastbrokencompony.com&fp=chrome&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#[🇨🇦]t.me/ConfigsHub
+vless://f87ac613-9f70-bcf2-8917-6bc56f7ce409@69.46.46.10:443?path=%2Fws%2Ff87ac613-9f70-bcf2-8917-6bc56f7ce409&security=tls&alpn=http%2F1.1&encryption=none&host=rvg-production-faa0.up.railway.app&fp=ios&type=ws&sni=rvg-production-faa0.up.railway.app#[🏁]t.me/ConfigsHub
+trojan://humanity@104.16.72.2:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[🇨🇦]t.me/ConfigsHub
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.178.114.204:22223?encryption=none&security=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#[🏁]t.me/ConfigsHub
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.250.68:22223?encryption=none&security=none&type=tcp#[🇩🇪]t.me/ConfigsHub

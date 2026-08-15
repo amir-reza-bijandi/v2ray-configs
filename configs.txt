@@ -1,8 +1,9 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-08-15T20:26:26.691Z
-# Configs: 372
+# Updated: 2026-08-15T20:30:25.523Z
+# Configs: 373
 # Source: https://t.me/ConfigsHUB
 
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#[🏁]t.me/ConfigsHub
 vless://bf58f3cd-7c8c-4650-bd7a-028df18b3ba0@tuntr.supros.ir:2095?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#[🇮🇷]t.me/ConfigsHub
 vless://64a28ed6-2238-42d9-8452-b83674f741e5@digital-Robin.wp-toolbox.ir:1610?security=reality&type=tcp&headerType=&path=&host=&sni=play.google.com&fp=edge&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#[🏁]t.me/ConfigsHub
 vless://bf58f3cd-7c8c-4650-bd7a-028df18b3ba0@odc-wdscx.appcodes.ir:2026?encryption=none&security=reality&type=tcp&headerType=none&sni=updates.cdn-apple.com&fp=chrome&pbk=484wYbkS2hs2WSdXmk2-bOeKZkdBbzdD7uZ1WmRIEj8&sid=ca930e5d4a603c6a#[🇫🇷]t.me/ConfigsHub

@@ -1,8 +1,11 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-08-16T04:39:25.902Z
-# Configs: 453
+# Updated: 2026-08-16T05:00:35.397Z
+# Configs: 454
 # Source: https://t.me/ConfigsHUB
 
+vless://4d7d1add-0a51-4887-b10a-07c68df24f7e@sosk.sorix-home.ir:60231?security=&encryption=none&headerType=http&type=tcp#[🇷🇴]t.me/ConfigsHub
+vmess://eyJhZGQiOiJhYzAxLjExMTE2NS54eXoiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiYTc3NzI3YzYtMGIxOS00ODk0LTk1YmMtN2E5ZjRkZmYxZTg0IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiMzcyNjUiLCJwcyI6Ilvwn4e48J+HrF10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiIsInZjbiI6IiJ9
+vless://176bc48c-460b-4260-abbd-68fd5ea85270@31.56.184.133:443?security=reality&encryption=none&pbk=O2ttHpVFmwoAf-E1rHgOlv7NggcwxcWkHHen7jkIBjY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nll.mcqueenconnection.ru&sid=a8e8df4f1fb3e3f8#[🏁]t.me/ConfigsHub
 trojan://SEYnpOitNLndBhDtkZyeAShl@nl-vk.tkbvpcompany.site:443?allowInsecure=0&sni=nl-vk.tkbvpcompany.site&alpn=http/1.1#[🏁]t.me/ConfigsHub
 vless://15fcaf1a-6917-0d2b-908b-9558d14d0864@rvg-production-9909.up.railway.app:443?encryption=none&security=tls&type=xhttp&mode=stream-up&host=rvg-production-9909.up.railway.app&path=/xhttp-siz10/stream-up/15fcaf1a-6917-0d2b-908b-9558d14d0864&sni=rvg-production-9909.up.railway.app&fp=ios&alpn=h2%2Chttp/1.1%2Ch3#[🏁]t.me/ConfigsHub
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#[🇷🇺]t.me/ConfigsHub
@@ -454,5 +457,3 @@ vless://c381ed79-f3c9-4028-85ae-687795d89ece@DE.IPSENTER.ORG:443?security=realit
 vless://1b05ccfc-2537-4844-a505-3e8d644ac486@46.8.229.202:443?security=reality&encryption=none&pbk=cTlyduukc4sr4PIi28XuydlyZA1tt-fquJF2eTIzmkM&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=play.google.com&sid=04a72ee1672dd21a#[🏁]t.me/ConfigsHub
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.101:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#[🇨🇦]t.me/ConfigsHub
 trojan://Telegram_healer_config@172.67.218.38:443?path=%2Ftr%2FdxyX388XOtyAjF3A%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=1v95v6tjywcytbahl7f7lx8b27g.l4495eycqmse9he0yvoemjfc4ibyf-4.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=1v95V6tjywCyTBAhl7f7lX8B27G.l4495eycQmSE9he0YVoemJfc4IBYf-4.wORkerS.dEV#[🇨🇦]t.me/ConfigsHub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@184.168.47.50:8880?security=none&type=ws&path=/?ed=2560&host=vms.lifetime40.workers.dev&packetEncoding=xudp&encryption=none#[🏁]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpudHhiMWpIZ1lsQ0I2Q20y@168.63.68.5:443#[🇮🇪]t.me/ConfigsHub

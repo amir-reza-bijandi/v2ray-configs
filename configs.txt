@@ -1,6 +1,6 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-08-18T03:51:44.767Z
-# Configs: 467
+# Updated: 2026-08-18T04:00:38.467Z
+# Configs: 466
 # Source: https://t.me/ConfigsHUB
 
 vless://ac502822-5b7a-40cd-8d79-a786b4c0f629@104.17.101.26:443?path=%2F%3Fu%3DTAiTANiCVPN&security=tls&encryption=none&insecure=0&host=coral-grove-8a62.golden-robin-b352.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=coral-grove-8a62.golden-robin-b352.workers.dev#[🇨🇦]t.me/ConfigsHub
@@ -469,4 +469,3 @@ vless://aa5b231c-4e18-4ae6-b83c-a293f51c0dfa@de-dp-01.com:8443?security=reality&
 vless://5feb264c-abf5-4c26-aeb2-3f598f0ee555@31telegram.com.zapas.iran.janebicall.ir:2087?alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&fp=chrome&host=sexy.blaackgame.ir&path=%2Fxnxx&security=tls&sni=sexy.blaackgame.ir&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://47388561-cf0c-4cfc-91f8-fdfd9fa3d756@150.40.117.221:8443?security=reality&encryption=none&pbk=B5F8h8tpeZ-1ydiT0uFgdc30jJyw8H89Y8e-p_VV6yw&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=7b#[🏁]t.me/ConfigsHub
 vless://a0877467-57ba-4599-ae90-369e831afb50@167.233.213.147:443?security=reality&encryption=none&pbk=ABmmHpVLtwIQBjZ52gvyrJfeHlN1YxmUvVnfEh61ZXI&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=%2F33c24ca83db8b3e&type=tcp&flow=xtls-rprx-vision&sni=amzn.com&sid=8bd01daff9c4#[🇩🇪]t.me/ConfigsHub
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@208.103.161.32:443?allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&encryption=none&host=josni.hoyes.cloudns.ch&sni=josni.hoyes.cloudns.ch&path=%2Fsg-melbi_%2F&insecure=0&type=ws&security=tls#[🏁]t.me/ConfigsHub

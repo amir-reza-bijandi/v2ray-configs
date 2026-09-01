@@ -1,8 +1,10 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-09-01T01:06:41.779Z
-# Configs: 334
+# Updated: 2026-09-01T01:30:29.003Z
+# Configs: 336
 # Source: https://t.me/ConfigsHUB
 
+vless://73e08fcb-a0c7-45d0-b55d-f78c903c64a6@dl4.gooniforoshi.fun:443?path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=dl4.gooniforoshi.fun&type=ws&allowInsecure=0&sni=dl4.gooniforoshi.fun#[🇮🇷]t.me/ConfigsHub
+vless://88d7a648-fd4c-44ea-8d57-be2d83d34066@169.40.32.176:443?encryption=none&type=tcp&headerType=http&path=%2F&host=amp-api-edge.apps.apple.com#[🇩🇪]t.me/ConfigsHub
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.111.198:22222?encryption=none&security=none&type=tcp&headerType=none#[🏁]t.me/ConfigsHub
 vmess://eyJhZGQiOiIxMzAuOTQuOTMuNjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzc3ZDBlYWQtOTcwYS00MTQ0LWI4YWEtZTNhYWYzYTYyMWY2IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLzc3N2QwZWFkIiwicG9ydCI6IjE0ODEyIiwicHMiOiJb8J+HrvCfh6lddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxMzAuOTQuOTMuNjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzc3ZDBlYWQtOTcwYS00MTQ0LWI4YWEtZTNhYWYzYTYyMWY2IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLzc3N2QwZWFkIiwicGNzIjoiIiwicG9ydCI6IjE0ODEyIiwicHMiOiJb8J+HrvCfh6lddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9

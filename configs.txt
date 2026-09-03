@@ -1,8 +1,9 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-09-03T13:24:31.581Z
+# Updated: 2026-09-03T13:30:28.439Z
 # Configs: 408
 # Source: https://t.me/ConfigsHUB
 
+vless://08ffff12-93bb-42eb-8c83-6489644a1d04@k2.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#[🏁]t.me/ConfigsHub
 vless://0d03e44f-f60f-41b6-8ad7-13445af164fd@151.101.65.242:443?path=%2Fws&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=adheres-scruple.quick-cdn.net&fp=chrome&type=ws&allowInsecure=0&sni=adheres-scruple.quick-cdn.net#[🇨🇦]t.me/ConfigsHub
 vless://23578a2c-2493-41f0-89ef-d7d3a7b85252@95.85.226.217:8443?path=%2FNL3W&security=tls&encryption=none&insecure=0&host=nl3.pad-service.com&fp=firefox&type=ws&allowInsecure=0&sni=nl3.pad-service.com#[🏁]t.me/ConfigsHub
 vless://7ad19e54-79b3-4f02-b69b-b60b4faa0c6e@104.25.60.77:443?path=%2Fdn3&security=tls&encryption=none&insecure=0&host=cdns.darklink.ir&type=ws&allowInsecure=0&sni=cdns.darklink.ir#[🇨🇦]t.me/ConfigsHub
@@ -410,4 +411,3 @@ vless://0d03e44f-f60f-41b6-8ad7-13445af164fd@151.101.65.242:443?path=%2Fws&secur
 vless://eaeb9077-b90c-45e3-a52c-da847f5f86d7@5.61.28.51:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v5p.sabermusic.ir#[🇮🇷]t.me/ConfigsHub
 vless://24a3853d-01c7-4fae-a0cc-97ef0f25a455@de2.bexait.ir:2434?security=reality&encryption=none&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&headerType=none&fp=chrome&type=tcp&sni=icloud.com&sid=9de041877612a718#[🇩🇪]t.me/ConfigsHub
 vless://23578a2c-2493-41f0-89ef-d7d3a7b85252@95.85.226.217:8443?encryption=none&type=ws&host=nl3.pad-service.com&path=/NL3W&security=tls&fp=firefox&sni=nl3.pad-service.com#[🏁]t.me/ConfigsHub
-vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?allowInsecure=0&security=tls&insecure=0&sni=xwrivr.pages.dev&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&host=xwrivr.pages.dev&type=ws&encryption=none&path=%2F%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub

@@ -1,6 +1,6 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-09-06T19:00:33.234Z
-# Configs: 404
+# Updated: 2026-09-06T19:30:26.274Z
+# Configs: 403
 # Source: https://t.me/ConfigsHUB
 
 vless://9abe6dbd-5988-4943-8a93-afc65ab50f54@vips.irhubby.ir:8080?encryption=none&type=ws&path=%2F&host=vips.irhubby.ir#[🇨🇦]t.me/ConfigsHub
@@ -406,4 +406,3 @@ vless://603856a5-8604-4670-8ea5-ee3b39342a53@212.43.146.241:59726?security=reali
 vless://f7d38be6-2ee1-4764-93a9-52620cff5513@46.225.223.87:443?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://1104fcb1-5462-4c3a-a4ed-580ba87e615e@66.33.22.238:19763?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=nKXPrMcHnQkDJ3GqXcEkL_cuFM7sNuhLNRSDJ-Esz0E&fp=random&spx=%2F352ea96991855c4&type=xhttp&sni=japantimes.co.jp&sid=0554c48eb11771#[🏁]t.me/ConfigsHub
 vless://7c3fcbab-324a-4c06-840a-f32c9ece4f2a@tp.paydar.site:2090?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
-vless://7c3fcbab-324a-4c06-840a-f32c9ece4f2a@tp.paydar.site:443?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub

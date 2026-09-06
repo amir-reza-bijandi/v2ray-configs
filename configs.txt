@@ -1,6 +1,6 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-09-06T22:00:32.656Z
-# Configs: 403
+# Updated: 2026-09-06T22:30:27.115Z
+# Configs: 401
 # Source: https://t.me/ConfigsHUB
 
 vless://9abe6dbd-5988-4943-8a93-afc65ab50f54@vips.irhubby.ir:8080?encryption=none&type=ws&path=%2F&host=vips.irhubby.ir#[🇨🇦]t.me/ConfigsHub
@@ -404,5 +404,3 @@ vless://eec2f6a7-c10f-43b0-b133-61f9bf9bbc27@195.63.169.66:443?security=reality&
 vless://ed105216-170f-4c04-9d40-ddc4f531614f@140.233.177.152:8080?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://603856a5-8604-4670-8ea5-ee3b39342a53@212.43.146.241:59726?security=reality&encryption=none&pbk=7gvZqfl2U6DhRaaT6WAttHQSuVXrvuoVUDwuTvVhzmk&headerType=&fp=firefox&spx=%2Fd28df62fb7603a3&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=90a901#[🇩🇪]t.me/ConfigsHub
 vless://f7d38be6-2ee1-4764-93a9-52620cff5513@46.225.223.87:443?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
-vless://1104fcb1-5462-4c3a-a4ed-580ba87e615e@66.33.22.238:19763?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=nKXPrMcHnQkDJ3GqXcEkL_cuFM7sNuhLNRSDJ-Esz0E&fp=random&spx=%2F352ea96991855c4&type=xhttp&sni=japantimes.co.jp&sid=0554c48eb11771#[🏁]t.me/ConfigsHub
-vless://7c3fcbab-324a-4c06-840a-f32c9ece4f2a@tp.paydar.site:2090?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub

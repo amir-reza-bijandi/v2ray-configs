@@ -1,8 +1,27 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-09-07T08:00:33.231Z
-# Configs: 401
+# Updated: 2026-09-07T08:30:27.330Z
+# Configs: 409
 # Source: https://t.me/ConfigsHUB
 
+vmess://eyJhZGQiOiAiMTg4LjExNC45Ni4yMjEiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiZGwyLjEyNy4wLjAuMS5wXHUwNDM4XHUwNDNhXHUwNDM1XHUwNDQwXHUwNDNiLlx1OTFjY1x1NTE0Ylx1NzIzZS5rXHUwNDNiXHUwNDM1XHUwNDNhXHUwNDQxYVx1MDQzYVx1MDQzMFx1MDQzNFx1MDQzNVx1MDQzY1x1MDQzOFx1MDQ0Zi5rbDNrc2FjYWQzbXkuXHU1MTRiXHU4NDBhXHU1MTRiXHU2NWFmXHU1Yjc4XHU5NjYyLndvbmthY2FwaXRhbm8uYnV6ei4iLCAiaWQiOiAiMzEwZmFiYjctMmFiYy00MzAxLWIzMDItMjJhYTQ5Yzk1NGZiIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzcyIsICJwb3J0IjogIjgwIiwgInNjeSI6ICJub25lIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWI6ICJASG9wZV9OZXQtam9pbi11cy1vbi1UZWxlZ3JhbSJ9
+vless://-DIGIV2RAY-@zula.ir:2095?path=/DigiconnecT?ed=1024&security=none&encryption=none&host=QUENTIN--_--DiG.radiotehran.org.&type=ws#[🇮🇷]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.51.180.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
+vless://telegram-id-ArV2ray@www.speedtest.net:2095?path=/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry?ed=2048&security=none&encryption=none&host=www.speedtest.net.www.debian.org.mehpow.ir.&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://Telegram-ipV2Ray-xyu@www.speedtest.net:80?path=/Telegram-ipV2Ray?ed=2048&security=none&encryption=none&host=c.1.www.speedtest.net.zula.ir.zemestanil.ir&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://f106648e-0644-40bc-974c-6edc966fe18d@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cji.new-persian-song.ir#[🇸🇨]t.me/ConfigsHub
+vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@198.41.208.42:443?path=%2FV2ngFast--V2ngFast--V2ngFast--V2ngFast--V2ngFast--V2ngFast--V2ngFast&security=tls&encryption=none&host=calm-base-e99e.pofokjimi.workers.dev&fp=chrome&type=ws&sni=calm-base-e99e.pofokjimi.workers.dev#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-directvpn@35.182.101.221:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇨🇦]t.me/ConfigsHub
+vless://8b7efacf-8e83-4e51-ab55-1263baccd4b2@104.17.148.22:443?path=/TELEGRAM/?ed=2560&security=tls&encryption=none&alpn=h3&host=7f905f51.garywelch.pages.dev&fp=randomized&type=ws&sni=7f905f51.garywelch.pages.dev#[🇨🇦]t.me/ConfigsHub
+vless://b6486207-8699-4a5d-b865-66fcf97e0cda@199.232.78.159:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=FastSvn.global.ssl.fastly.net&sni=ssl.fastly.com&fp=chrome#[🏁]t.me/ConfigsHub
+vless://b6486207-8699-4a5d-b865-66fcf97e0cda@de9.bexait.ir:2434?encryption=none&security=reality&type=tcp&headerType=none&sni=icloud.com&fp=chrome&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&sid=9de041877612a718#[🇩🇪]t.me/ConfigsHub
+vless://5d1b0cb2-365c-4757-84bc-e7d1e0eb5321@ballast.proxy.rlwy.net:56854?encryption=none&host=&path=%2F&security=none&type=ws#[🏁]t.me/ConfigsHub
+vless://7700ff6d-cefb-4768-a806-ec4f63fe3b38@172.67.136.43:443?encryption=none&security=tls&sni=6-M13.176F877b-9958-456A-9b39-9DE3e9aD2d9D.KdNs.fR&type=ws&host=6-m13.176f877B-9958-456A-9b39-9De3e9AD2D9d.kDnS.Fr&path=%2FED3ZQPu7lqyeDGD58KabZ#[🇨🇦]t.me/ConfigsHub
+vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#[🏁]t.me/ConfigsHub
+vless://6aae65d3-a4a3-4af3-bf97-029be9890e83@104.194.151.4:8443?mode=stream-up&path=%2Fapi1&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=SZfBE53ZBa--OcnHLgKAWyMYen5YBt8SwkkgEX4kIUo&host=104.194.151.4&fp=firefox&spx=%2FkVP2jIEv0ZqZaSA&type=xhttp&sni=amp-api-edge.apps.apple.com&sid=7d912772d6c40277#[🏁]t.me/ConfigsHub
+vless://59691413-4c83-4232-8a79-ff6dc376dd53@gr.edge-cache.onevanet.ir:8876?security=reality&encryption=none&pbk=B0q7cY2yDjgCheCSdnydRAimkLbNwZAX28yFTXWOVgk&headerType=none&fp=firefox&type=tcp&sni=amp-api-edge.apps.apple.com&sid=9262c6710896560f#[🇩🇪]t.me/ConfigsHub
+vless://cb03068e-dabc-41f2-8046-50e3034d138d@gr.edge-cache.onevanet.ir:8876?security=reality&encryption=none&pbk=B0q7cY2yDjgCheCSdnydRAimkLbNwZAX28yFTXWOVgk&headerType=none&fp=firefox&type=tcp&sni=amp-api-edge.apps.apple.com&sid=9262c6710896560f#[🇩🇪]t.me/ConfigsHub
+vless://22c15b3f-e205-48e2-9b30-1a2c3480e7b2@188.114.97.6:80?security=&encryption=none&host=sRv72.hAMiIbaR.CoM&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://c949cd77-a313-45ef-97ed-ac7e10511198@pon.fereshtehagonahnemikonnad.ir:2083?security=reality&encryption=mlkem768x25519plus.native.0rtt.WY7iAauO44xtI2DN6xyV6HA3AruiUHT_6m33r7NLnBg&pbk=j4JiRjGdRBuUK5R4gKVnek1WR8cNiX9hrMTzP6C1iWs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=d1bb8670a95a23aa#[🇹🇷]t.me/ConfigsHub
 vless://9abe6dbd-5988-4943-8a93-afc65ab50f54@vips.irhubby.ir:8080?encryption=none&type=ws&path=%2F&host=vips.irhubby.ir#[🇨🇦]t.me/ConfigsHub
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#[🏁]t.me/ConfigsHub
 vless://67e85955-02b7-46f3-b3d6-ca34a4b0ccc1@hidden-rbpamewkcxqxrz3lct.hidden0612.ir:443?path=/&security=tls&alpn=h2,http/1.1&host=hidden-rbpamewkcxqxrz3lct.hidden0612.ir&fp=chrome&type=ws&sni=hidden-rbpamewkcxqxrz3lct.hidden0612.ir#[🇨🇦]t.me/ConfigsHub
@@ -393,14 +412,3 @@ vless://ed105216-170f-4c04-9d40-ddc4f531614f@140.233.177.152:8080?security=none&
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.181.197.40:8880?path=%2F%3Fed&security=none&encryption=none&host=vms.lifetime19.workers.dev&type=ws#[🏁]t.me/ConfigsHub
 vless://4cf0a39d-b913-4497-9a7b-301cc0a31713@tunnn.qarmiko.ir:3456?mode=auto&path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.xosPlQGSxKTAHMITfhxMS68lmNsknfHLrvziVWtIqTw&type=xhttp#[🇮🇷]t.me/ConfigsHub
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.178.20.113:22222?encryption=none&security=none&type=tcp#[🏁]t.me/ConfigsHub
-vless://451e66db-b18f-4e29-a670-1431353f9b28@sdertfvg6578ijhgyu78.firenetapp.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=firefox&pbk=bdtDRp63jl4nMZRPN2wNlKJ6Yt77SF1uSrfkQ8NBKks&sid=5ed5b9e0e28bb1b4&type=tcp&headerType=none#[🇫🇷]t.me/ConfigsHub
-vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#[🏁]t.me/ConfigsHub
-vless://efd9cf32-2a2f-4d05-abe4-d63eb002e483@de2.bexait.ir:2434?encryption=none&security=reality&type=tcp&headerType=none&sni=icloud.com&fp=chrome&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&sid=9de041877612a718#[🇩🇪]t.me/ConfigsHub
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.24:443?mode=gun&security=reality&encryption=none&pbk=X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE&fp=firefox&type=grpc&serviceName=gw.v1.ObjectService&sni=rs5.univesalsrv.com&sid=4872856d5489c37d#[🇷🇸]t.me/ConfigsHub
-trojan://MiTiVPN@199.232.78.160:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn-ss-mitivpn-----mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[🏁]t.me/ConfigsHub
-vless://9716a2df-de61-4fc0-ae6e-76a6e3d15cc7@91.107.162.153:5867?security=tls&alpn=h2&encryption=none&insecure=0&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=smartgerman.liacloudsm.ir#[🇩🇪]t.me/ConfigsHub
-hysteria2://s6gt5e4mof43sfg8@giftcard.gateway-stream.com:52050?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#Telegram%20%F0%9F%86%94%40cnetvpn%20%F0%9F%87%B3%F0%9F%87%B1
-vless://eec2f6a7-c10f-43b0-b133-61f9bf9bbc27@195.63.169.66:443?security=reality&encryption=none&pbk=gtCZKjg0BtNaeAZKxXiEKnn5SqZyktjr-mBknr_2HW0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.booking.com&sid=fa3854d37455ace1#[🏁]t.me/ConfigsHub
-vless://ed105216-170f-4c04-9d40-ddc4f531614f@140.233.177.152:8080?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
-vless://603856a5-8604-4670-8ea5-ee3b39342a53@212.43.146.241:59726?security=reality&encryption=none&pbk=7gvZqfl2U6DhRaaT6WAttHQSuVXrvuoVUDwuTvVhzmk&headerType=&fp=firefox&spx=%2Fd28df62fb7603a3&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=90a901#[🇩🇪]t.me/ConfigsHub
-vless://f7d38be6-2ee1-4764-93a9-52620cff5513@46.225.223.87:443?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub

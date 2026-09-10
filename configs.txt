@@ -1,8 +1,9 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-09-10T17:30:28.568Z
+# Updated: 2026-09-10T17:35:21.485Z
 # Configs: 339
 # Source: https://t.me/ConfigsHUB
 
+vless://1f6531a1-a6eb-4274-9f51-4a0899456fcf@195.254.165.243:443?security=reality&encryption=none&pbk=zSjG6wndmLAzE8ykCBXpAm2eh0viWVSy3gt2juXF4EE&headerType=none&fp=chrome&spx=%2FgiyWVcXDg48T294&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=eaa8#[🏁]t.me/ConfigsHub
 vless://274c4cab-c0f8-441c-bfc8-25ade14fe71b@199.232.78.159:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=FastSvn.global.ssl.fastly.net&sni=ssl.fastly.com&fp=chrome#[🏁]t.me/ConfigsHub
 vless://12aa4a28-ef6a-49f2-9e16-4ad8fc34a6af@nsjwiwueijeneeiejdndn.neninet.ir:42813?security=&encryption=mlkem768x25519plus.native.0rtt.Gu-KSpH9m5bbaKh-CvzzJVA2sMSXuuYYiLL5Q85Rx3o&headerType=http&type=tcp#[🇹🇷]t.me/ConfigsHub
 vless://274c4cab-c0f8-441c-bfc8-25ade14fe71b@de9.bexait.ir:2434?encryption=none&security=reality&type=tcp&headerType=none&sni=icloud.com&fp=chrome&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&sid=9de041877612a718#[🇩🇪]t.me/ConfigsHub
@@ -341,4 +342,3 @@ vless://e9397b2d-eb0a-541f-bb14-bd0e818c36aa@144.31.30.76:443?path=%2F8d8a753871
 vless://dd0da46c-5cb1-444a-aef3-4353467011d0.83.86.31:8080?type=ws&security=none&encryption=none&path=%2F#[🏁]t.me/ConfigsHub
 vless://12c0a2bf-6e30-463e-8077-7f0e7cfac626--1nrr9eyyzi3s.pasarguardms.ir:8443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=H4CGZ7Ww5jslyTzgTdlR6zeyNoU5JSqiQ3pDR_JvyGw&sid=f7273ebb60699af8#[🏁]t.me/ConfigsHub
 vless://12c0a2bf-6e30-463e-8077-7f0e7cfac626.102.228.201:443?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=ddd.tenqivo.ir&mode=auto&sni=ddd.tenqivo.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#[🏁]t.me/ConfigsHub
-vless://12c0a2bf-6e30-463e-8077-7f0e7cfac626.232.78.150:443?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=Xui-name.global.ssl.fastly.net&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=ssl.fastly.com&fp=chrome&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&pinSHA256=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&alpn=h2#[🏁]t.me/ConfigsHub

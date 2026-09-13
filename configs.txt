@@ -1,8 +1,11 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-09-13T21:17:45.895Z
+# Updated: 2026-09-13T21:30:28.061Z
 # Configs: 401
 # Source: https://t.me/ConfigsHUB
 
+vless://4b6978d2-bebb-4c81-ba5b-77ec8f31c8bb@re.lanzivo.ir:443?mode=stream-up&path=%2F&security=tls&encryption=none&insecure=0&host=re.lanzivo.ir&type=xhttp&allowInsecure=0&sni=re.lanzivo.ir#[🇮🇷]t.me/ConfigsHub
+vless://4b6978d2-bebb-4c81-ba5b-77ec8f31c8bb@zs.lanzivo.ir:2083?mode=stream-up&path=%2F&security=tls&encryption=none&insecure=0&host=zs.lanzivo.ir&type=xhttp&allowInsecure=0&sni=zs.lanzivo.ir#[🇮🇷]t.me/ConfigsHub
+vless://4b6978d2-bebb-4c81-ba5b-77ec8f31c8bb@zs.lanzivo.ir:443?mode=stream-up&path=%2F&security=tls&encryption=none&insecure=0&host=zs.lanzivo.ir&type=xhttp&allowInsecure=0&sni=zs.lanzivo.ir#[🇮🇷]t.me/ConfigsHub
 trojan://MiTiVPN@199.232.78.101:443?path=---%40bored_vpn&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[🏁]t.me/ConfigsHub
 vless://97ecaad4-452c-45ec-b591-d68d3308aad4@kama4.api3-max.ru:443?alpn=http%2F1.1%2Ch2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=kama4.api3-max.ru&type=tcp#[🇫🇷]t.me/ConfigsHub
 vless://e4e7b149-8bd8-4266-8cbb-0987604dbc87@104.17.95.243:443?security=tls&sni=toujiediansigema.5112233.xyz&type=ws&host=toujiediansigema.5112233.xyz&path=/TG@juzibaipiao%E5%81%B7%E8%8A%82%E7%82%B9%E6%AD%BB%E5%90%97#[🇨🇦]t.me/ConfigsHub
@@ -401,6 +404,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGWUdsV1lnZ0I0QWtrNkhQ@4.168.198.18:443?#[�
 vless://80c17f6f-4fbb-4055-b2b5-9f46ce00dd80@freeman.cvbesty.ir:10210?encryption=none&security=reality&sni=doctor-yab.ir&fp=chrome&pbk=twRm8a1BBdz2Q5jTuNbXxA7ZdtDPAyQNEycDYkW9DFc&sid=13121b7150ad7fc6&type=grpc#[🇫🇮]t.me/ConfigsHub
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&fp=firefox&alpn=h2&type=xhttp&host=dey.lnmarketplace.net&path=%2Fkavir&mode=stream-one#[🏁]t.me/ConfigsHub
 vless://80c17f6f-4fbb-4055-b2b5-9f46ce00dd80@g1.netherxv.bestxau.ir:19210?encryption=none&security=reality&sni=doctor-yab.ir&fp=chrome&pbk=112X7iICOgZtFOHXdn59EY7m_gwKultc-zwYPzBv6wU&sid=4f69072c426d46a6&type=xhttp&path=%2F&mode=auto#[🇮🇷]t.me/ConfigsHub
-vless://fa87edcc-4751-4d28-b53b-3abf7bee7ece@lp.mtcmicserver.ir:8080?encryption=none&security=reality&sni=play-apps-features.googleusercontent.com&fp=edge&pbk=wegUSBXt8tLaCp7Ze22cuKJa-MQ0KRSe7BX1dDgLRQg&sid=b397faa58de7c5f3&type=grpc#[🏁]t.me/ConfigsHub
-vless://df3a4880-02dc-4dc5-ad3c-f0098d4cd3ba@re.lanzivo.ir:443?mode=stream-up&path=%2F&security=tls&encryption=none&insecure=0&host=re.lanzivo.ir&type=xhttp&allowInsecure=0&sni=re.lanzivo.ir#[🇮🇷]t.me/ConfigsHub
-vless://a71ad164-3b29-4dbe-aa66-24d095ca7b6d@app-ss-97.deep-aispb-analytics.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=assets-ss-97.deep-aispb-analytics.com&fp=randomized&pbk=ie82DDS-JoUrtvRfEWWOdcp2cEqs6v0-t2QFw3v7qiE&sid=e3f7fec3cfb3a806&type=tcp&headerType=none#[🇷🇺]t.me/ConfigsHub

@@ -1,8 +1,9 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-09-17T01:12:15.163Z
-# Configs: 301
+# Updated: 2026-09-17T01:30:27.378Z
+# Configs: 302
 # Source: https://t.me/ConfigsHUB
 
+vless://59ad4ebd-ccb2-4399-a779-add3b2c74639@5.75.207.199:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@205.233.181.117:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=zdyd.kpcloud.eu.org#[🏁]t.me/ConfigsHub
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?host=v2ra1.ecrgpk.workers.dev&security=none&type=ws&path=/&encryption=none#[🇨🇦]t.me/ConfigsHub
 vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwgImFkZCI6ICJhcGkucWlzY3VzLmNvbSIsICJwb3J0IjogIjQ0MyIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiOGY5YjYwZTYtMWRiMy00MmU0LTk3YjktMWUzMTFmNDI3NjQ5IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzcy13cy1tYWthZSIsICJob3N0IjogImJuLWlkMDEuaXB2MnJheS54eXoiLCAidGxzIjogInRscyJ9

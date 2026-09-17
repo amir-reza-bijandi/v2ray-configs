@@ -1,8 +1,10 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-09-17T07:24:12.298Z
-# Configs: 219
+# Updated: 2026-09-17T07:30:29.585Z
+# Configs: 221
 # Source: https://t.me/ConfigsHUB
 
+vless://12148993-e326-4061-809d-d2a24a42bcb8@66.33.22.232:34118?mode=auto&path=%2F&security=reality&encryption=mlkem768x25519plus.native.0rtt.iNp8zQhTV--hc6rOKCn_2wNzEj_gJkzErYU3uhXnhx8&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=hbNyksag-i4fRqV86HG14fhASaXpl4sYv-1zgrrnUSQ&fp=chrome&spx=%2F2350048babf955d&type=xhttp&sni=cam.ac.uk&sid=b5126487#[🏁]t.me/ConfigsHub
+trojan://Telegram_healer_config@188.114.96.8:443?path=%2Ftr%2F1nWXnOaq1ajP7PKxbRS7Sdck48oy%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=y9p34jpjmqjazaypf.piiwddilxjcqehr17af22u7xk-yu.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=y9p34JPJmQJazaYpf.pIIwDDIlxJcQEHr17af22U7XK-yu.workeRS.Dev#[🇨🇦]t.me/ConfigsHub
 vless://0480039e-2e85-49e4-9087-ba85e738851a@93.152.220.23:443?security=reality&encryption=none&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl-3.it-crp.ru&sid=a1b2c3d4b5#[🏁]t.me/ConfigsHub
 vless://38393c07-aef2-4dd6-bdec-3614bddd8576@199.232.78.159:443?path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#[🏁]t.me/ConfigsHub
 vless://44eae030-290b-4083-8102-6f8bab05701b@104.16.10.185:443?path=%2F&security=tls&encryption=none&insecure=0&host=cfvvv-ev1.pages.dev&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#[🇨🇦]t.me/ConfigsHub

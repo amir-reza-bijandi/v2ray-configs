@@ -1,8 +1,11 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-09-27T03:00:35.048Z
-# Configs: 311
+# Updated: 2026-09-27T03:30:24.943Z
+# Configs: 314
 # Source: https://t.me/ConfigsHUB
 
+vless://bdaf42dd-f75b-4594-d5f8-51c0feeb8406@k2.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#[🏁]t.me/ConfigsHub
+vless://f0e0d780-a43b-98ef-d7fe-f628cfb1a606@45.88.13.6:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&fp=chrome&type=xhttp&sni=download.nvidia.com#[🇷🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpReTdLeU1vNGVwU0NpbHVK@20.164.220.82:443?#[🏁]t.me/ConfigsHub
 vless://482514e8-2979-4628-acf3-d04f607c4f12@144.31.166.55:8443?mode=auto&path=%2Fdeploy&security=reality&encryption=none&pbk=kBVqBeTLp4F9KLA2qfqRLgiwd1oTxK3PM3GnrRzMYCA&host=deport.ptlux.pro&fp=safari&type=xhttp&sni=deport.ptlux.pro&sid=d2c8f107#[🇩🇪]t.me/ConfigsHub
 vless://71091100-c6ed-41fa-84ac-acf7ff9eeb7f@slowkd.sadiepinki.com:443?security=reality&encryption=none&pbk=z37XIezsPyfMgmdXyFd9qT4C4maDAs1OcRt-wfyrXVo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=slowkd.sadiepinki.com&sid=9c2378562188c3cb#[🏁]t.me/ConfigsHub
 vless://37615d66-5467-44a3-bc23-f2c3bef7f761@tk1.high-speed-test-56424.me:443?security=reality&encryption=none&pbk=p8VhFzvFOBAhWAEAeWmwDxT3xBSRsGYixqi0qnLFnBM&headerType=none&fp=chrome&spx=%2Fa6f16ebc763b16c&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=21270a66#[🇯🇵]t.me/ConfigsHub

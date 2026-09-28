@@ -1,8 +1,11 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-09-28T00:00:35.358Z
-# Configs: 356
+# Updated: 2026-09-28T00:27:05.470Z
+# Configs: 355
 # Source: https://t.me/ConfigsHUB
 
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://1e255ca5-93b1-4952-a838-0783dfc034d8@47.90.153.88:443?security=reality&encryption=none&pbk=QtYyp41YbDij6nygTaPPpqXqEGzDD3wYFI3YlfTjfBo&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=6b85179e#[🏁]t.me/ConfigsHub
+vless://7d69cb01-d986-4f56-a9c6-b6a70a70fed8@85.133.207.17:1001?encryption=mlkem768x25519plus.native.0rtt.zv7h6UiBgvoZfYURrwFBGn61JfHspdYkUhdPdZ5wHBA&flow=xtls-rprx-vision&security=reality&sni=cafebazaar.ir&fp=chrome&pbk=m-f8JXjux9AytjyVR4Ucv6fcsx6UuGFh7xgjJfRyQmM&sid=6b8c605a66224370&type=tcp&headerType=none&host=myket.ir#[🇮🇷]t.me/ConfigsHub
 vless://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?mode=gun&security=reality&encryption=none&pbk=X_lOw5Zz4SJBa1cRHV4dAq5msYE-ClY5-WNcBmBWRxg&fp=firefox&type=grpc&serviceName=grpc-common3&sni=www.nvidia.com&sid=52add08b86a5ccea#[🇫🇷]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpudHhiMWpIZ1lsQ0I2Q20y@168.63.68.5:443#[🇮🇪]t.me/ConfigsHub
 vless://51c8ed23-7ca5-43f1-b0a8-0a37a7a16647@93.190.8.116:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#[🇹🇷]t.me/ConfigsHub
@@ -355,7 +358,3 @@ vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.30:443?encryption=none&sec
 vless://87c42141-dd77-edc2-ee42-dd5512e7bb88@faultpass-panel-production-800a.up.railway.app:443?encryption=none&security=tls&sni=faultpass-panel-production-800a.up.railway.app&fp=chrome&alpn=http/1.1&type=ws&path=/ws/87c42141-dd77-edc2-ee42-dd5512e7bb88&host=faultpass-panel-production-800a.up.railway.app#[🏁]t.me/ConfigsHub
 vless://bb0f1ed0-0298-40a1-adb1-1f5d6ab33d54@arcturus.yokkastars.com:40443?security=reality&encryption=none&pbk=w4AYHvQnQS6olDqoG9ptLOtgehaWOsv9HQhDax5bLA4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=db46e2946fc466fd#[🇩🇪]t.me/ConfigsHub
 vless://cdd6bfce-781a-4454-b7d5-4778abb5c24f@kosta6.api3-max.ru:443?security=tls&encryption=none&insecure=0&headerType=none&fp=ios&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=kosta6.api3-max.ru#[🏁]t.me/ConfigsHub
-vless://10b78ac4-d4ce-43d2-98c4-c62c96fcbdc2@87.120.107.246:443?mode=gun&security=reality&encryption=none&authority=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=20kKpOl77grCupOod4O_X1u74fJT38yc2Nhxy8enywc&fp=firefox&type=grpc&serviceName=grpc-tunnel_nl&sni=dl.google.com&sid=fd4f9db207ff64db#[🇫🇮]t.me/ConfigsHub
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.12:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#[🏁]t.me/ConfigsHub
-vless://a54166f2-56c7-44f6-abc5-24dbed940bc3@FranceNewSpeed1234554321.soft355.ir:33017?security=none&encryption=none&host=FranceNewSpeed1234554321.soft355.ir&headerType=http&type=tcp#[🇫🇷]t.me/ConfigsHub
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@188.114.97.6:443?path=%2F&security=tls&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%7D%5D%7D&insecure=0&host=llm-api.sofurry.dpdns.org&fp=unsafe&type=ws&allowInsecure=0&sni=llm-api.sofurry.dpdns.org#[🇨🇦]t.me/ConfigsHub

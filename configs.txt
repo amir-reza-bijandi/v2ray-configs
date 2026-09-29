@@ -1,8 +1,11 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-09-29T01:00:36.831Z
+# Updated: 2026-09-29T01:30:27.053Z
 # Configs: 301
 # Source: https://t.me/ConfigsHUB
 
+vless://cbbc93ef-6d35-463a-a856-64265c42e66d@93.190.9.60:3090?type=grpc&mode=multi&serviceName=vless#[🇹🇷]t.me/ConfigsHub
+vless://7974c820-9744-44a0-9fee-67292b70e125@79.174.95.96:443?mode=gun&security=reality&encryption=none&authority=PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=tVc65Jg20nTeP9qsSd9WIqRjLqU-PWKFYtBYHQbwtyw&fp=firefox&type=grpc&serviceName=grpc&sni=max.ru&sid=a1b2c3d4#[🇷🇺]t.me/ConfigsHub
+vless://f0e0d780-a43b-98ef-d7fe-f628cfb1a606@130.49.77.8:8443?mode=gun&security=reality&encryption=none&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#[🇫🇷]t.me/ConfigsHub
 vless://5cd8e5fe-7595-4387-95f9-79b0f18eb125@213.108.23.184:443?security=reality&encryption=none&pbk=tW28ur4PP6lSr5XeKLu1njwm_W2Cv83EOoBaMn7ivVg&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.fi.forge-relay.com&sid=a1b2c3d4#[🇫🇮]t.me/ConfigsHub
 trojan://m%69tivpn@199.232.78.160:443?path=%40mehrosaboran&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---us--s---mitivpn-11.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#[🏁]t.me/ConfigsHub
 trojan://m%69tivpn@199.232.78.101:443?path=%40mehrosabiran&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---de--s---mitivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[🏁]t.me/ConfigsHub
@@ -301,6 +304,3 @@ vless://bf8c34f4-3c93-4428-8042-8834662d75e6@5.149.248.227:443?security=reality&
 vless://9807575f-5b45-4c68-a39d-95fa381e05e1@202.133.90.105:57680?security=none&encryption=none&headerType=none&type=tcp#[🇹🇷]t.me/ConfigsHub
 vmess://eyJhZGQiOiAiMTcyLjY3LjIxNS4yMDIiLCAiYWlkIjogMSwgImhvc3QiOiAib2N0YXZpLmNmZCIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAibGlua3Z3cyIsICJwb3J0IjogNDQzLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
 vless://aded66f1-de12-4c3c-af9e-a21d6e7d9c96@staging.lastilhame.monster:443?sid=2a80364e93d9&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&headerType=none&security=reality&type=tcp&flow=xtls-rprx-vision&encryption=none&sni=www.foxsports.com&fp=chrome#[🇫🇮]t.me/ConfigsHub
-trojan://MiTiVPN@199.232.78.101:443?path=%2F--TELEGRAM--TOOTFFARANGI&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#[🏁]t.me/ConfigsHub
-vless://1f6531a1-a6eb-4274-9f51-4a0899456fcf@195.254.165.243:443?security=reality&encryption=none&pbk=zSjG6wndmLAzE8ykCBXpAm2eh0viWVSy3gt2juXF4EE&headerType=none&fp=chrome&spx=%2FgiyWVcXDg48T294&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=eaa8#[🏁]t.me/ConfigsHub
-vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@194.150.166.229:9443?security=reality&encryption=none&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=ad20d2ba#[🏁]t.me/ConfigsHub

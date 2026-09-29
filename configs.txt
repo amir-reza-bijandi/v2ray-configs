@@ -1,8 +1,10 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-09-29T03:30:25.447Z
-# Configs: 263
+# Updated: 2026-09-29T04:00:36.205Z
+# Configs: 244
 # Source: https://t.me/ConfigsHUB
 
+vless://8ccc4581-eba9-4226-abbc-64e7d8fb415e@45.77.143.204:80?path=%2F&security=&encryption=none&type=ws#[🇩🇪]t.me/ConfigsHub
+vless://a1d262a9-6d57-4ff0-99e4-594782c2ca7c@5.75.207.247:443?security=reality&encryption=none&pbk=AQdYxjoMA0fxO8O9BX5bW4EMfRyiH09K0Hwjwse51AM&headerType=none&fp=chrome&spx=%2FQYP1c9H45RBRVLu&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=f5#[🇩🇪]t.me/ConfigsHub
 vless://9e3132b8-b595-444a-833a-2de44789f9d7@94.130.178.194:443?encryption=none&security=tls&sni=shephe.dpdns.org&fp=chrome&type=ws&host=shephe.dpdns.org&path=%2F#[🇩🇪]t.me/ConfigsHub
 vless://9e3132b8-b595-444a-833a-2de44789f9d7@109.122.198.83:8443?encryption=none&security=tls&sni=shephe.dpdns.org&fp=chrome&type=ws&host=shephe.dpdns.org&path=%2F#[🇩🇪]t.me/ConfigsHub
 vless://9e3132b8-b595-444a-833a-2de44789f9d7@132.243.203.214:8443?encryption=none&security=tls&sni=shephe.dpdns.org&fp=chrome&type=ws&host=shephe.dpdns.org&path=%2F#[🇦🇹]t.me/ConfigsHub
@@ -245,24 +247,3 @@ ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@15.204.247.175:8008#[🏁]t.me/ConfigsH
 vless://f27c715b-f67b-4747-84c9-f4e1366e5ad1@xn--rihal-zra.paslanmaz.ir:9696?encryption=mlkem768x25519plus.native.0rtt.YY5ne_CB6PD3L9gpTJ3dRgKfkUubF6_LMDq2LgOIfxg&security=none&type=tcp&headerType=none#[🇹🇷]t.me/ConfigsHub
 vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.157:2096?path=%2Ffree-server.techsonic.dev&security=tls&encryption=none&insecure=0&host=free-server.techsonic.dev&fp=chrome&type=ws&allowInsecure=0&sni=free-server.techsonic.dev#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#[🇨🇦]t.me/ConfigsHub
-vless://f27c715b-f67b-4747-84c9-f4e1366e5ad1@ajdar.paslanmaz.ir:2085?encryption=mlkem768x25519plus.native.0rtt.e4uEPz38FV2qp7tHC0nzPGL6aGcy2yBUq4f85k8LJEo&security=none&type=tcp&headerType=none#[🇹🇷]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHYzlqVERuUEFlVHo0WjhqRGJxSTJB@shep17.zavqeron.ir:8391#[🇩🇪]t.me/ConfigsHub
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443#[🇯🇵]t.me/ConfigsHub
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@15.204.247.175:8008#[🏁]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.213:8080#[🏁]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZXBwM285bmc4ZWo1OXV2@45.128.12.20:14249#[🇸🇬]t.me/ConfigsHub
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443#[🇯🇵]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZXBwM285bmc4ZWo1OXV2@45.128.12.20:14249#[🇸🇬]t.me/ConfigsHub
-ss://YWVzLTEyOC1nY206X2oyZkt0VUpwZV9md2RGUHRfSWxwZw@109.248.161.207:1468#[🇱🇻]t.me/ConfigsHub
-vless://92f348af-be62-473c-b21a-a891cbd13924@pspol.ramcalshoping.ir:10156?encryption=none&fp=chrome&pbk=djhCJ8S6tjEg4siflta-zU2vqfe8tKpyQ3MoZIFqq0I&security=reality&sid=a70eb53d288c96&sni=asia-imbiss-ly.de&spx=%2F58784d18da6f298&type=tcp#[🇮🇷]t.me/ConfigsHub
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#[🏁]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#[🏁]t.me/ConfigsHub
-trojan://humanity@172.67.149.60:443?path=%2Fassignment%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#[🇨🇦]t.me/ConfigsHub
-vless://d5af4dfe-eaf1-460c-87aa-fefe930db0ba@b2n.ir:443?mode=auto&path=%2FChOpIn&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingKey%22%3A%22ctx%22%2C%22xPaddingHeader%22%3A%22x-grpc-context%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22sessionIDPlacement%22%3A%22header%22%2C%22sessionIDKey%22%3A%22Idempotency-Key%22%2C%22seqPlacement%22%3A%22header%22%2C%22seqKey%22%3A%22Upload-Offset%22%2C%22sessionPlacement%22%3A%22header%22%2C%22sessionKey%22%3A%22Idempotency-Key%22%7D&insecure=0&host=chopin.paxr.ir&type=xhttp&allowInsecure=0&sni=chopin.paxr.ir#[🇨🇦]t.me/ConfigsHub
-vless://b933673c-9d0b-4326-bbde-42923bc866d3@91.107.174.119:7443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
-vless://5fcdc9b7-e70f-4a5c-85c3-e018ad818326@82.24.203.20:2087?encryption=none&security=none&type=ws&path=%2Ffd5ba98a3970#[🇩🇪]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHYzlqVERuUEFlVHo0WjhqRGJxSTJB@tur17.velqixa.ir:8388#[🇹🇷]t.me/ConfigsHub
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.12.230:22222?encryption=none&security=none&type=tcp#[🇫🇷]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.213.23.63:990#[🇳🇴]t.me/ConfigsHub
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.12.230:22224?encryption=none&security=none&type=tcp#[🇫🇷]t.me/ConfigsHub
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.12.230:22223?encryption=none&security=none&type=tcp#[🇫🇷]t.me/ConfigsHub

@@ -1,8 +1,9 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-09-30T00:10:37.800Z
-# Configs: 367
+# Updated: 2026-09-30T00:30:25.986Z
+# Configs: 368
 # Source: https://t.me/ConfigsHUB
 
+vless://98a7c6c3-9a2c-4ebd-a945-0e979abc9232@147.45.61.31:443?security=reality&encryption=none&pbk=JjG9JXI2B0DmSmlY55YAY6O-mldN84I4-CiqII9_8jI&headerType=&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=iris-04.rita-cloud.com&sid=26c501a781437581#[🏁]t.me/ConfigsHub
 vless://53255b8c-49ca-400d-9818-71386d800c5b@85.198.49.186:443?encryption=none&type=tcp&headerType=none#[🇮🇷]t.me/ConfigsHub
 vless://53255b8c-49ca-400d-9818-71386d800c5b@85.198.49.186:443?encryption=none&type=tcp&headerType=none#[🇮🇷]t.me/ConfigsHub
 vless://98a0fab4-3be2-48ae-a99e-3d812315e11b@ch.zoroem.opik.net:80?security=reality&encryption=none&pbk=ch8e7oMj3tLwZRnLDW2qWsXqxxbOcL95z6FItmfSS0s&headerType=&fp=chrome&spx=%2FqFadgFoEHBBNmNv&type=tcp&sni=Www.yahoo.com&sid=9c4c37f240#[🇱🇻]t.me/ConfigsHub

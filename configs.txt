@@ -1,8 +1,13 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-09-30T06:00:38.013Z
-# Configs: 301
+# Updated: 2026-09-30T06:27:13.056Z
+# Configs: 299
 # Source: https://t.me/ConfigsHUB
 
+vless://6ba68c69-e108-502d-7b1c-e806fbc3cccd@45.39.33.236:4433?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.A1jcdie8cN-NNIxTTGYdg73QZRTfu2kYvqwEsQGeqT8&host=amd.com&type=ws#[🏁]t.me/ConfigsHub
+vless://f0f00205-f3ff-462e-873f-1872f0c9015c@188.137.183.31:36234?encryption=none&fp=chrome&pbk=C0CqIdQW_3ZhfPVmEvhxMdhG1PKz3eTgPgeTxyVq920&security=reality&sid=3e35611e8271822e&sni=rpc.ankr.com&spx=%2Fa0ba7f07844a074&type=tcp#[🇩🇪]t.me/ConfigsHub
+vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.76.113.240:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nvidia.com&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&type=tcp&fp=chrome#[🇮🇹]t.me/ConfigsHub
+vless://d6962b1a-4701-4456-ba61-deb28c913a66@199.232.78.159:443?security=tls&encryption=none&insecure=1&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=ssl.fastly.com#[🏁]t.me/ConfigsHub
+vless://e60b5080-9c89-4edb-a36b-747a5fa8e708@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=ukvman.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#[🏁]t.me/ConfigsHub
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.107.1:9881?security=reality&encryption=none&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&fp=random&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#[🇷🇺]t.me/ConfigsHub
 vless://breakthebarriers@85.9.212.25:443?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=i-1F-sTiaFYckeLW_1NOWAF84Fwelh6C3SRbSDkzVVk&fp=firefox&spx=%2F07114bb872cfdd4&type=xhttp&sni=gitlab.io&sid=62db8058#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA@185.156.47.97:9443#[🇨🇦]t.me/ConfigsHub
@@ -297,10 +302,3 @@ vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@files.noneok.com:443?fp=firefox&pbk
 trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#[🇨🇦]t.me/ConfigsHub
 vless://a368752a-32fc-42f3-980a-6b049218b23f@107.148.158.100:443?type=tcp&sid=b1c1b5e2&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&fp=firefox&flow=xtls-rprx-vision&security=reality&headerType=none&pbk=iOXJkurGWCpwU-Z1B3RPJnjXGSQ_v1-H5XtHa6mEeFc&sni=usa-2.letsconnectpoint.com&encryption=none#[🏁]t.me/ConfigsHub
 trojan://humanity@162.159.244.91:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[🏁]t.me/ConfigsHub
-vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@31.77.227.10:52006?fp=chrome&allowInsecure=0&sni=fr.setlisting.ru&encryption=none&headerType=none&flow=xtls-rprx-vision-udp443&insecure=0&security=tls&alpn=h2%2Chttp%2F1.1&type=tcp#[🇫🇷]t.me/ConfigsHub
-trojan://95xjvytiw5l1jln5@uwu.blueknightnet.qzz.io:2087?path=%2F%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net&security=tls&alpn=h2&insecure=0&host=uwu.dianaw.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=uwu.dianaw.cc.cd#[🇨🇦]t.me/ConfigsHub
-vless://3ada8d7b-806e-47e0-9cac-aa35061104ce@64.188.98.179:443?fp=chrome&pbk=I88bya0Wf4iHIQb19bHZII3UlJ-oWBRbcnzvF0WFKyg&spx=%2F974725c6b785df8&sni=support-shield.nvidia.no&sid=bf6f&mode=gun&encryption=none&serviceName=grpc&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&security=reality&type=grpc#[🇩🇪]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#[🏁]t.me/ConfigsHub
-vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?fp=chrome&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&sni=files.noneok.com&sid=d3b394558cfe0266&mode=gun&encryption=none&serviceName=api.v1.StreamService&security=reality&type=grpc#[🇩🇪]t.me/ConfigsHub
-vless://c09da06c-ad4a-4bd9-a483-9cb9216a9ea6@upnl2.plasmoon.ir:443?security=reality&encryption=none&pbk=ASmPIMB25D2LpasCAfuMuNDN3Kv-Dj3bX8THE7YpknE&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=0f8938e71c53a6cd#[🏁]t.me/ConfigsHub
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#[🏁]t.me/ConfigsHub

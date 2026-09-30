@@ -1,8 +1,10 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-09-30T00:00:37.174Z
-# Configs: 365
+# Updated: 2026-09-30T00:10:37.800Z
+# Configs: 367
 # Source: https://t.me/ConfigsHUB
 
+vless://53255b8c-49ca-400d-9818-71386d800c5b@85.198.49.186:443?encryption=none&type=tcp&headerType=none#[🇮🇷]t.me/ConfigsHub
+vless://53255b8c-49ca-400d-9818-71386d800c5b@85.198.49.186:443?encryption=none&type=tcp&headerType=none#[🇮🇷]t.me/ConfigsHub
 vless://98a0fab4-3be2-48ae-a99e-3d812315e11b@ch.zoroem.opik.net:80?security=reality&encryption=none&pbk=ch8e7oMj3tLwZRnLDW2qWsXqxxbOcL95z6FItmfSS0s&headerType=&fp=chrome&spx=%2FqFadgFoEHBBNmNv&type=tcp&sni=Www.yahoo.com&sid=9c4c37f240#[🇱🇻]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtcG9seTEzMDU6aWt1L0dmcnQ5WWVFVVVsZVhyMlB0ZjN1dnMwaHN6Q1IwSkhQcUdTanMrYz0@31.76.11.83:11950?type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@da.mfa.gov.ua:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#[🇨🇦]t.me/ConfigsHub

@@ -1,6 +1,6 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-09-30T06:27:13.056Z
-# Configs: 299
+# Updated: 2026-09-30T06:30:27.432Z
+# Configs: 298
 # Source: https://t.me/ConfigsHUB
 
 vless://6ba68c69-e108-502d-7b1c-e806fbc3cccd@45.39.33.236:4433?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.A1jcdie8cN-NNIxTTGYdg73QZRTfu2kYvqwEsQGeqT8&host=amd.com&type=ws#[🏁]t.me/ConfigsHub
@@ -301,4 +301,3 @@ vless://365de9e9-ba29-0004-af2d-766f9638e3be@192.142.12.175:443?type=tcp&securit
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@files.noneok.com:443?fp=firefox&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&sni=files.noneok.com&sid=d3b394558cfe0266&mode=gun&encryption=none&serviceName=api.v1.StreamService&security=reality&type=grpc#[🇩🇪]t.me/ConfigsHub
 trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#[🇨🇦]t.me/ConfigsHub
 vless://a368752a-32fc-42f3-980a-6b049218b23f@107.148.158.100:443?type=tcp&sid=b1c1b5e2&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&fp=firefox&flow=xtls-rprx-vision&security=reality&headerType=none&pbk=iOXJkurGWCpwU-Z1B3RPJnjXGSQ_v1-H5XtHa6mEeFc&sni=usa-2.letsconnectpoint.com&encryption=none#[🏁]t.me/ConfigsHub
-trojan://humanity@162.159.244.91:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[🏁]t.me/ConfigsHub

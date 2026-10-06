@@ -1,6 +1,6 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-10-06T03:30:30.636Z
-# Configs: 198
+# Updated: 2026-10-06T04:00:34.420Z
+# Configs: 196
 # Source: https://t.me/ConfigsHUB
 
 trojan://MiTiVPN@91.193.58.201:443?path=%2FMiTiVPN%3DfL&security=tls&alpn=http%2F1.1&insecure=0&host=Fl.App-Cloud.ir&fp=firefox&type=ws&allowInsecure=0&sni=fl.App-Cloud.ir#[🏁]t.me/ConfigsHub
@@ -199,5 +199,3 @@ vless://88e498c1-0072-474c-a824-9c4e7d4c6d5c@2.144.27.137:443?encryption=none&se
 vless://88e498c1-0072-474c-a824-9c4e7d4c6d5c@2.144.27.137:443?encryption=none&security=tls&sni=vip2.polnejat.ir&insecure=0&allowInsecure=0&type=ws&host=vip2.polnejat.ir&path=%2Fnova-geo-psiphon-gb#[🇮🇷]t.me/ConfigsHub
 vmess://eyJhZGQiOiAiMTc2LjY1LjE1MS4xNzUiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjFiNWRkM2Y0LTM0YjYtNGU0My04MjY1LWM2NGQ3ODU4YWM3OSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicGNzIjogIiIsICJwb3J0IjogIjI2MDQ3IiwgInBzIjogW/Cfj4FddC5tZS9Db25maWdzSHViIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIm5vbmUiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=
 vless://0ce122a3-1c91-4cf5-a2cc-67f25e8cb56f@185.32.6.61:443?security=reality&encryption=none&pbk=xy8AHr_xZCNqFOuLq_t2fe4oLlrv5iu38uCQ1hUJ40w&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com&sid=954c99065465428d#[🇵🇱]t.me/ConfigsHub
-vless://a90f60c0-6566-44cf-a99f-5aaf213b72dc@nex1.liiliil.ir:2053?security=reality&encryption=none&pbk=8_j56AZHntUSXrvIhdensgf1VhC0S9lxizLkec4zX00&headerType=none&fp=ios&spx=%2FHpBSTEEFl9XaNwx&type=tcp&sni=play.google.com&sid=d40e7c9920906dbd#[🏁]t.me/ConfigsHub
-vless://c1fe46b0-d966-4f02-a554-9cb2dbb8f2a9@188.213.198.25:5456?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.lmTuJzP_UcH5ThrWl5pCFPVsehutrNnyTRDVbSUP7mo&type=ws#[🇮🇷]t.me/ConfigsHub

@@ -1,8 +1,9 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-10-07T01:00:36.007Z
-# Configs: 243
+# Updated: 2026-10-07T01:17:15.178Z
+# Configs: 234
 # Source: https://t.me/ConfigsHUB
 
+vless://250865f0-4a0f-4e2e-8d14-4c39a25d0bef@g2de.velnix-services.ir:1080?security=reality&encryption=none&pbk=qmCIBP5Y6Pu7oxY--0sOXglNvHV9byxo2cyVsfAqUiI&host=www6.gameservice-iramn3.com&headerType=none&fp=chrome&type=tcp&sni=www6.gameservice-iramn3.com&sid=307eb35dbf3a5385#[🇩🇪]t.me/ConfigsHub
 vless://318c935d-c195-41d3-99ad-9bbcfdab3386@144.31.62.170:443?security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de2.srv.vbuste.ru&sid=4be4110078ebed4a#[🇩🇪]t.me/ConfigsHub
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@155.46.167.30:8880?security=&encryption=none&host=vms.lifetime50.workers.dev&type=ws#[🏁]t.me/ConfigsHub
 vless://a0fe052d-6ca1-4a9c-b626-7ecf78f386cb@108.162.194.165:2086?path=%2F&security=&encryption=none&host=arshia.lezzatArshia.ir&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
@@ -236,13 +237,3 @@ vless://12e9a09e-5423-430e-b4db-478079178cc9@37.18.14.6:8443?security=reality&en
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#[🇨🇦]t.me/ConfigsHub
 vless://12e9a09e-5423-430e-b4db-478079178cc9@176.108.247.180:443?security=reality&encryption=none&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&headerType=none&fp=firefox&type=tcp&sni=yandex.ru&sid=06bf5b24acb9#[🇷🇺]t.me/ConfigsHub
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#[🏁]t.me/ConfigsHub
-vless://c53f5815-e792-4679-9586-1e1b93bd5db5@199.232.8.223:443?mode=auto&path=%2Flogin&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=comment.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=accounts.fastly.com#[🏁]t.me/ConfigsHub
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#[🏁]t.me/ConfigsHub
-vless://7e68e32f-8015-4f37-9082-70e8b0b58043@13.212.248.1:443?security=reality&encryption=none&pbk=PhOIlEfiYVUhkWKIfX_IOwJ6zz_Zk0QEj4sfcZyuShY&host=cs.a8game.vip&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cs.a8game.vip&sid=abcddb0c38896b8b#[🇸🇬]t.me/ConfigsHub
-vless://3bb1ea3c-8bb6-488d-855b-bd5acb20f0b9@104.18.4.130:80?path=%2FCooonfigCooonfigCooonfigCooonfigCooonfig&security=none&encryption=none&host=msjsi.azazilvpn.sbs.&type=ws#[🇨🇦]t.me/ConfigsHub
-trojan://MiTiVPN@151.101.56.7:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn---nl--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#[🏁]t.me/ConfigsHub
-vless://bfb1ec97-a326-4cf3-adcf-d2a0e2dc49f8@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#[🏁]t.me/ConfigsHub
-vless://8a180a9e-3218-4140-bfd3-56cf230d27f8@gndk.xohd.electrocitymarket.ru:443?mode=stream-up&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=xhttp&allowInsecure=1&sni=gndk.xohd.electrocitymarket.ru#[🏁]t.me/ConfigsHub
-vless://a44768a4-f613-4083-a76d-0df966efdd7e@194.62.105.40:37387?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#[🏁]t.me/ConfigsHub
-vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?security=reality&encryption=none&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=cd21e552537c7c0b#[🇫🇮]t.me/ConfigsHub
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.38.44.64:443?insecure=1&sni=off#[🇫🇷]t.me/ConfigsHub

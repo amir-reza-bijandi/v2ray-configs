@@ -1,8 +1,11 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-10-13T19:30:34.246Z
+# Updated: 2026-10-13T20:00:43.714Z
 # Configs: 293
 # Source: https://t.me/ConfigsHUB
 
+vless://ed8704b8-9e9e-48e6-b55b-ae9079ab3a59@2.26.10.113:443?mode=gun&security=reality&encryption=none&pbk=51yCirAh9dDjIQ7xBGpOYL4NM-UiM4OyQwWWf6Gq_VM&fp=random&type=grpc&serviceName=grpc-tunnel&sni=rumor.videofriend.site&sid=4ceb06699bf1fd61#[🇷🇺]t.me/ConfigsHub
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.40.131:22222?encryption=none&security=none&type=tcp#[🇫🇷]t.me/ConfigsHub
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.40.131:22223?encryption=none&security=none&type=tcp#[🇫🇷]t.me/ConfigsHub
 ss://YWVzLTEyOC1nY206NTlkZWQxNTkxYjBiNDVmMGIxZTkzNjEzMzRjMGY3ZDk=@185.212.171.202:18670#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTcUpZUDRnRFMxSTZYR2tpb1gzUkNFM0JpbUtqOGR0ag%3D%3D@2380.n9ne.com.tr:34319#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTcUpZUDRnRFMxSTZYR2tpb1gzUkNFM0JpbUtqOGR0ag%3D%3D@clients.n9ne.com.tr:8388#[🇹🇷]t.me/ConfigsHub
@@ -293,6 +296,3 @@ vless://593bf46b-8316-5050-9357-d8a41e4db78b@51.255.166.202:443?security=tls&enc
 vless://a889fba5-5472-4022-a6b4-9710157fda2f@78.17.159.90:443?security=reality&encryption=none&pbk=OxUvNHe0yPn3OfNl7ThhzYO0YcntrPNwYMqwjOYK8nI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=a2aa#[🇵🇱]t.me/ConfigsHub
 vless://44ae52b9-76fc-444d-8e43-186b4384b80a@free-amsterdam-node-1.cloudwidecdn.com:443?security=reality&encryption=none&pbk=PryGoq51ilG0eLUPl9i0xCvmk1xpwkyFSr_tG4GNLlU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=1d86d17709852910#[🏁]t.me/ConfigsHub
 trojan://humanity@172.64.145.133:443?path=%2Fassignment&security=tls&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[🇨🇦]t.me/ConfigsHub
-vless://4bf6fee9-d3c4-4a98-b83b-170bf37c669c@104.26.6.214:8880?security=none&type=ws&path=/&host=cold-water-945c.43-bc5.workers.dev&packetEncoding=xudp&sni=cold-water-945c.43-bc5.workers.dev#[🇨🇦]t.me/ConfigsHub
-vless://56de13ac-086e-4789-8e1e-1bf2bd90216b@13.143.174.176:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=MQrvfivvEfLGzDee7h0j5uC-DwaD_38_NXOY9-NhqxM&security=reality&sni=swidenlanzerotte.live&type=tcp#[🇸🇪]t.me/ConfigsHub
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=snip.edgeoneai.cc.cd&fp=unsafe&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#[🇨🇦]t.me/ConfigsHub

@@ -1,8 +1,15 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-10-13T22:00:40.063Z
-# Configs: 236
+# Updated: 2026-10-13T22:30:28.775Z
+# Configs: 243
 # Source: https://t.me/ConfigsHUB
 
+vless://a16a3e32-8d63-4dec-8c67-1361388a64ca@46.246.125.153:443?security=reality&encryption=none&pbk=ftglT-Ghp2FPiPlwyEAldfiAE1IL_AJ9UCkfCj0zk2I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=res.cdn.office.net&sid=a83b77e064761e3c#[🇸🇪]t.me/ConfigsHub
+vless://6338c01a-310e-42c3-bf4f-2a20e161054b@213.165.56.102:443?security=reality&encryption=none&pbk=A_bQLZE6D32TJUdAf9doQTPaTUXyJjPXLSklplG4V1g&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=freede.aiage.work&sid=57e7977c9011061c#[🇩🇪]t.me/ConfigsHub
+vless://d342d11e-d224-4463-b982-532309285094@172.66.0.162:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#[🇨🇦]t.me/ConfigsHub
+vless://c381ed79-f3c9-4028-85ae-687795d89ece@DE.IPSENTER.ORG:443?security=reality&encryption=none&pbk=4-ou3SyJYZ2ptF0vXFdc02yIRTF4VF8m2XcUKJPsUyQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=1128da54b05ec30c#[🇩🇪]t.me/ConfigsHub
+vless://8fef56ab-8ac8-4167-a5f8-21ef027c3d1c@62.60.166.65:80?security=reality&encryption=mlkem768x25519plus.native.0rtt.GCHlmA_F5xlk-0O5MVwnrpKskdaoDryQgBjgRXduMnY&pbk=aaiXMMUZKUlcN_8EJUQ59BFCkMAIwnAeY0vZzrPlMRc&headerType=&fp=chrome&spx=%2F95f1289b08834fa&type=tcp&sni=www.cloudflare.com&sid=98ab939fc6c3#[🇮🇷]t.me/ConfigsHub
+vless://7e68e32f-8015-4f37-9082-70e8b0b58043@13.228.75.166:443?security=reality&encryption=none&pbk=x8aCD8cJtkDvAjcRrcMG05MNiwh11LaKg70KIRvfN0g&headerType=&type=tcp&flow=xtls-rprx-vision&sni=api.carelanka.online&sid=819a87bf1651bf44#[🇸🇬]t.me/ConfigsHub
+vless://85fe968d-fbb5-40dc-8422-30635eccb149@c20s5.portablesubmarines.com:443?security=reality&encryption=none&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=portal.citygrainla.com&sid=051f20c2344a2dfd#[🇳🇱]t.me/ConfigsHub
 vless://20cf8a2b-e301-4240-9c03-20883249a287@104.16.209.187:80?encryption=none&security=none&type=ws&host=divine-hall-8adb-ppal03.niyabi6636.workers.dev&path=/?ed=2560#[🇨🇦]t.me/ConfigsHub
 vless://20c4c51f-2e66-451f-bf79-b3c63afab047@172.67.163.63:443?alpn=h3,h2,http/1.1&fm={#[🇨🇦]t.me/ConfigsHub
 vless://23187ddc-16a5-432d-bf4e-dd42a7ae39f7@104.16.98.215:8880?security=none&type=ws&host=steep-thunder-97fa.108-d10.workers.dev&encryption=none#[🇨🇦]t.me/ConfigsHub

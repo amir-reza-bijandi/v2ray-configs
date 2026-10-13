@@ -1,8 +1,10 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-10-13T20:00:43.714Z
-# Configs: 293
+# Updated: 2026-10-13T20:30:36.899Z
+# Configs: 292
 # Source: https://t.me/ConfigsHUB
 
+vmess://eyJhZGQiOiIzMS43Ni4xMS44MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyZDhmNTdiZC0xMmI1LTQxYWQtYTgwNi02NTAxNzUzYzI2NGMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIyMjY2IiwicHMiOiJb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://68d6952f-05e4-4b4b-8dc1-792233a5f419@194.110.24.28:1819?path=%2Fskwkabsslanapspzkamvsksd&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=194.110.24.28&fp=chrome&ech=AGD%2BDQBcAAAgACBYy8dRa80c3Pvaud%2BtKD2vECiV7pfLn8ymHRx1xCJ4TQAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAA0xOTQuMTEwLjI0LjI4AAA%3D&type=ws&allowInsecure=0&sni=194.110.24.28#[🇮🇷]t.me/ConfigsHub
 vless://ed8704b8-9e9e-48e6-b55b-ae9079ab3a59@2.26.10.113:443?mode=gun&security=reality&encryption=none&pbk=51yCirAh9dDjIQ7xBGpOYL4NM-UiM4OyQwWWf6Gq_VM&fp=random&type=grpc&serviceName=grpc-tunnel&sni=rumor.videofriend.site&sid=4ceb06699bf1fd61#[🇷🇺]t.me/ConfigsHub
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.40.131:22222?encryption=none&security=none&type=tcp#[🇫🇷]t.me/ConfigsHub
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.40.131:22223?encryption=none&security=none&type=tcp#[🇫🇷]t.me/ConfigsHub
@@ -293,6 +295,3 @@ trojan://sgv2ray@13.48.129.95:17000?path=%2F---%40SGV2RAY---%40SGV2RAY%2F---%40S
 vless://a889fba5-5472-4022-a6b4-9710157fda2f@138.124.73.88:443?security=reality&encryption=none&pbk=SpDERK2bCJgRdaDP3cSsQDfOCghD94d0-zjuKIHYQy0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=a2aa#[🇩🇪]t.me/ConfigsHub
 vless://d51bbf58-3e5d-4a5f-b920-1e36649ec683@37.252.14.236:443?mode=auto&path=%2F&security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=WBIOgXMb-TVl0Q3ZxGr_fJqHNNnxlhR2MTgLUKh4UX8&fp=firefox&type=xhttp&sni=support-shield.nvidia.nl&sid=bdf8afe4317ae579#[🏁]t.me/ConfigsHub
 vless://593bf46b-8316-5050-9357-d8a41e4db78b@51.255.166.202:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=e3k67dwms3-51255166202-direct.tavafog.com#[🇫🇷]t.me/ConfigsHub
-vless://a889fba5-5472-4022-a6b4-9710157fda2f@78.17.159.90:443?security=reality&encryption=none&pbk=OxUvNHe0yPn3OfNl7ThhzYO0YcntrPNwYMqwjOYK8nI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=a2aa#[🇵🇱]t.me/ConfigsHub
-vless://44ae52b9-76fc-444d-8e43-186b4384b80a@free-amsterdam-node-1.cloudwidecdn.com:443?security=reality&encryption=none&pbk=PryGoq51ilG0eLUPl9i0xCvmk1xpwkyFSr_tG4GNLlU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=1d86d17709852910#[🏁]t.me/ConfigsHub
-trojan://humanity@172.64.145.133:443?path=%2Fassignment&security=tls&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[🇨🇦]t.me/ConfigsHub

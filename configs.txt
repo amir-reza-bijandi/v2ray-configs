@@ -1,8 +1,10 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-10-13T20:30:36.899Z
-# Configs: 292
+# Updated: 2026-10-13T21:00:41.124Z
+# Configs: 267
 # Source: https://t.me/ConfigsHUB
 
+vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?security=reality&encryption=none&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=cd21e552537c7c0b#[🇫🇮]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#[🏁]t.me/ConfigsHub
 vmess://eyJhZGQiOiIzMS43Ni4xMS44MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyZDhmNTdiZC0xMmI1LTQxYWQtYTgwNi02NTAxNzUzYzI2NGMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIyMjY2IiwicHMiOiJb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://68d6952f-05e4-4b4b-8dc1-792233a5f419@194.110.24.28:1819?path=%2Fskwkabsslanapspzkamvsksd&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=194.110.24.28&fp=chrome&ech=AGD%2BDQBcAAAgACBYy8dRa80c3Pvaud%2BtKD2vECiV7pfLn8ymHRx1xCJ4TQAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAA0xOTQuMTEwLjI0LjI4AAA%3D&type=ws&allowInsecure=0&sni=194.110.24.28#[🇮🇷]t.me/ConfigsHub
 vless://ed8704b8-9e9e-48e6-b55b-ae9079ab3a59@2.26.10.113:443?mode=gun&security=reality&encryption=none&pbk=51yCirAh9dDjIQ7xBGpOYL4NM-UiM4OyQwWWf6Gq_VM&fp=random&type=grpc&serviceName=grpc-tunnel&sni=rumor.videofriend.site&sid=4ceb06699bf1fd61#[🇷🇺]t.me/ConfigsHub
@@ -268,30 +270,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.159:4
 vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@c5fl8w.api-gate.org:443?security=reality&encryption=none&pbk=B1g2P-3yW3cQW0WZweSPKUP3lZSQ5pgr8doCYvA0cRg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ca9.eu-cdn294.com&sid=df3dc12b0b9b0c93#[🇳🇴]t.me/ConfigsHub
 vless://046c6829-6ba4-2432-48a8-2a530626cee2@multipanel-production-911c.up.railway.app:443?encryption=none&security=tls&sni=multipanel-production-911c.up.railway.app&fp=chrome&alpn=http/1.1&type=ws&path=/ws/046c6829-6ba4-2432-48a8-2a530626cee2&host=multipanel-production-911c.up.railway.app#[🏁]t.me/ConfigsHub
 vless://56de13ac-086e-4789-8e1e-1bf2bd90216b@13.143.174.176:443?security=reality&encryption=none&pbk=MQrvfivvEfLGzDee7h0j5uC-DwaD_38_NXOY9-NhqxM&headerType=&type=tcp&flow=xtls-rprx-vision&sni=swidenlanzerotte.live#[🇸🇪]t.me/ConfigsHub
-ss://YWVzLTEyOC1nY206bDJOaWRaYmNrTXU0UG5JSHNKVFlKZw@www.asamping.ir:1468#[🇸🇬]t.me/ConfigsHub
-vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@185.90.61.55:443?security=reality&encryption=none&pbk=B1g2P-3yW3cQW0WZweSPKUP3lZSQ5pgr8doCYvA0cRg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ca9.eu-cdn294.com&sid=df3dc12b0b9b0c93#[🇳🇴]t.me/ConfigsHub
-vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.74:443?security=reality&encryption=none&pbk=qC0g7Y0pwyLFTGAPG2zfZNuo64Cda695wdKgLU4KkF8&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=770618b6#[🇵🇱]t.me/ConfigsHub
-vless://702631b0-7046-4b48-b490-ffb49195ef73@netherlands.vpnserverhub.com:443?security=reality&encryption=none&pbk=y8-hfUvs9-MScp_tjMFi5LKuULGmnodHbI5Q_sTk_A0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#[🏁]t.me/ConfigsHub
-vless://c720f976-b28f-4a2b-b825-0fecfad39ed7@api.jorvexo.ir:1152?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=Fmhl6wGywDftzMcxYFyzGrlHvP-XCwujzo_ULibHfHE&fp=safari&spx=%2F&type=xhttp&sni=in.tradingview.com&sid=ead6bdba606219a2#[🇩🇪]t.me/ConfigsHub
-trojan://UX82473651@glorious-lark.rooster465.autos:443?allowInsecure=1&sni=glorious-lark.rooster465.autos#[🏁]t.me/ConfigsHub
-vless://ae0e6518-71ab-4f4b-87d1-7802765f52ba@172.67.178.142:8880?security=none&type=ws&path=/vl/Bo5RdqRiWZlPNpQ5DfueEJoS?ed=2560&host=koq90g5av4kdxunfa.liliane-hilpert.workers.dev&packetEncoding=xudp&sni=koq90g5av4kdxunfa.liliane-hilpert.workers.dev&encryption=none#[🇨🇦]t.me/ConfigsHub
-vless://b5b2648a-cc54-4b25-b7d0-92dc6402564d@64.188.115.219:443?pbk=2tjr1gP8eecWi9xlKFB1SmPKOzRgDt40NBQcxhjaKCA&security=reality&type=tcp&sid=19630e492b86c420&sni=www.swift.com&encryption=none&flow=xtls-rprx-vision&fp=safari&headerType=none#[🇩🇪]t.me/ConfigsHub
-vless://b3a11068-1a7e-4643-85de-7c82cce46943@193.223.106.13:33742?mode=auto&path=/ShamanXHTTP2026&security=tls&encryption=none&insecure=0&host=fi-966ffd3f4f.shamanapp.online&fp=chrome&type=xhttp&allowInsecure=0&sni=fi-966ffd3f4f.shamanapp.online#[🇫🇮]t.me/ConfigsHub
-vless://372c587c-ca5f-467e-aaf2-07e0fd0ab7bf@31.56.189.89:443?type=xhttp&host=de3s.beautysalon1122.online&insecure=0&security=tls&mode=auto&fp=safari&encryption=none&path=%2Fstandart%2F&sni=de3s.beautysalon1122.online&allowInsecure=0#[🇩🇪]t.me/ConfigsHub
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.219:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn#[🏁]t.me/ConfigsHub
-vless://79ccb156-bfc6-11f1-9811-525400d1d4f7@172.86.111.135:443?pbk=n25FmewpAEsvLl9Vr0bRFcz044f4IE7orWeWOzu8rwk&type=tcp&security=reality&sni=www.nvidia.com&encryption=none&flow=xtls-rprx-vision&fp=safari&headerType=none#[🏁]t.me/ConfigsHub
-vless://8d8376fb-5328-4161-a6d7-805cc8205eb7@highspeed1.freedv2023.xyz:7777?encryption=mlkem768x25519plus.native.0rtt.om8F2v5oFTbrBJGNN7B0zW-qGyHJHrUZHzMWB-6opSw&security=none&type=tcp#[🇮🇷]t.me/ConfigsHub
-vless://8453bdb7-dd58-419d-b002-9456dd2e73d7@199.232.78.159:443?type=ws&insecure=0&sni=ssl.fastly.com&encryption=none&security=tls&path=%2F&allowInsecure=0&host=pan2e.global.ssl.fastly.net#[🏁]t.me/ConfigsHub
-trojan://UX82473651@alert-titmouse.rooster465.autos:443?allowInsecure=1&sni=alert-titmouse.rooster465.autos#[🏁]t.me/ConfigsHub
-vless://71e9e770-bfc6-11f1-8b5c-54db13ea7d40@172.86.105.224:443?pbk=n25FmewpAEsvLl9Vr0bRFcz044f4IE7orWeWOzu8rwk&security=reality&type=tcp&sni=www.nvidia.com&encryption=none&flow=xtls-rprx-vision&fp=safari&headerType=none#[🏁]t.me/ConfigsHub
-trojan://UX82473651@rested-seahorse.rooster465.autos:443?allowInsecure=1&sni=rested-seahorse.rooster465.autos#[🇸🇬]t.me/ConfigsHub
-vless://55ccbeb5-0bf4-4e4d-afcb-23c038e73e00@131.123.13.93:443?pbk=rj3rvl7AGOd0NOPrX6h2c1auXGnCBJTPMDeT86AMvBA&security=reality&type=tcp&sni=1mcfn.67resserv67.info&sid=29455a3a790acbd0&encryption=none&flow=xtls-rprx-vision&spx=%2F&fp=safari&headerType=none#[🇫🇮]t.me/ConfigsHub
-trojan://UX82473651@ace-liger.rooster465.autos:443?allowInsecure=1&sni=ace-liger.rooster465.autos#[🇸🇬]t.me/ConfigsHub
-vless://b812a4e0-c90a-4864-8ffb-2af71d69d4f4@172.93.122.4:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=safari&pbk=VDZdbh_RzDDZsHpYF58yUuuvXh93XnmkvpSqb50qG2U&headerType=none&encryption=none&sid=1be482b8e08aa0ef&sni=nl2.reddotcorp.org#[🏁]t.me/ConfigsHub
-trojan://UX82473651@musical-mouse.rooster465.autos:443?allowInsecure=1&sni=musical-mouse.rooster465.autos#[🇸🇬]t.me/ConfigsHub
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.16:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#[🏁]t.me/ConfigsHub
-vless://046c6829-6ba4-2432-48a8-2a530626cee2@multipanel-production-911c.up.railway.app:443?encryption=none&security=tls&sni=multipanel-production-911c.up.railway.app&fp=chrome&alpn=http/1.1&type=ws&path=/ws/046c6829-6ba4-2432-48a8-2a530626cee2&host=multipanel-production-911c.up.railway.app#[🏁]t.me/ConfigsHub
-trojan://sgv2ray@13.48.129.95:17000?path=%2F---%40SGV2RAY---%40SGV2RAY%2F---%40SGV2RAY---%40SGV2RAY%2F---%40SGV2RAY---%40SGV2RAY%2FNLSus---%40SGV2RAY---%40SGV2RAY%2F---%40SGV2RAY---%40SGV2RAY%2F---%40SGV2RAY---%40SGV2RAY&security=tls&insecure=0&host=13.48.129.95&fp=chrome&type=ws&allowInsecure=0&sni=13.48.129.95#[🇸🇪]t.me/ConfigsHub
-vless://a889fba5-5472-4022-a6b4-9710157fda2f@138.124.73.88:443?security=reality&encryption=none&pbk=SpDERK2bCJgRdaDP3cSsQDfOCghD94d0-zjuKIHYQy0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=a2aa#[🇩🇪]t.me/ConfigsHub
-vless://d51bbf58-3e5d-4a5f-b920-1e36649ec683@37.252.14.236:443?mode=auto&path=%2F&security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=WBIOgXMb-TVl0Q3ZxGr_fJqHNNnxlhR2MTgLUKh4UX8&fp=firefox&type=xhttp&sni=support-shield.nvidia.nl&sid=bdf8afe4317ae579#[🏁]t.me/ConfigsHub
-vless://593bf46b-8316-5050-9357-d8a41e4db78b@51.255.166.202:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=e3k67dwms3-51255166202-direct.tavafog.com#[🇫🇷]t.me/ConfigsHub

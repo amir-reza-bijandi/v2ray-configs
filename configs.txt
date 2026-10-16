@@ -1,8 +1,12 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-10-16T02:00:41.103Z
+# Updated: 2026-10-16T02:30:33.619Z
 # Configs: 328
 # Source: https://t.me/ConfigsHUB
 
+vless://244d9eab-3311-40c7-b47f-4968dc3088a6@84.32.100.149:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&sni=tcpde7.figurapn.ru&sid=868419504747f6de#[🇩🇪]t.me/ConfigsHub
+vless://1043634e-8d9d-4736-83fa-f14ddc9d464c@188.114.97.6:443?path=id-amz&security=tls&encryption=none&insecure=0&host=dfsuporte.garena.com.ex33r.eu.cc&type=ws&allowInsecure=0&sni=dfsuporte.garena.com.ex33r.eu.cc#[🇨🇦]t.me/ConfigsHub
+vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@sg3.oh-node.com:443?security=reality&encryption=none&pbk=jpn2pLj_p5lxGwycLht80v2qNeP7jHwh1Gv-nTU8zXY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.changiairport.com&sid=ddcd71ec09e5893a#[🇸🇬]t.me/ConfigsHub
+vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=%2F&headerType=none&fp=qq&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#[🏁]t.me/ConfigsHub
 trojan://MITIVPN@openai.com:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DU-S-a&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=my-usjca-ohl.App-CloUd.IR&fp=chrome&type=ws&allowInsecure=0&sni=UsAba-bUbks.App-CloUd.IR#[🇨🇦]t.me/ConfigsHub
 vless://4c314a01-26c9-4474-bd96-3d3f485b81f3@azsobhekhran.ticklitickli.ir:8443?security=reality&encryption=none&pbk=ssbuTE7tBkJ7BmwF0Fo9O3KBt3BDFG-fHRkxRxFB9XE&headerType=none&fp=firefox&spx=%2Fo5CdvMPV20qc6em&type=tcp&sni=play.googleapis.com&sid=ae4efa0ce23271#[🇸🇪]t.me/ConfigsHub
 vless://244d9eab-3311-40c7-b47f-4968dc3088a6@88.216.223.66:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&type=tcp&sni=tcpswed1.figurapn.ru&sid=868419504747f6de#[🇸🇪]t.me/ConfigsHub
@@ -327,7 +331,3 @@ vless://0c3ad9d5-cffd-4748-b8df-ab145288144b@fi-p1.h1cloud.net:25634?encryption=
 trojan://humanity@185.14.186.43:443?cs=semi-python&path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[🏁]t.me/ConfigsHub
 vless://e6df2095-a73c-4043-8693-8d5a03686870@31.77.126.2:443?alpn=http%2F1.1&encryption=none&host=lucasjow.us.ci&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&security=tls&sni=lucasjow.us.ci&type=ws#[🇨🇿]t.me/ConfigsHub
 trojan://humanity@77.239.121.232:443?cs=semi-python&path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[🇩🇪]t.me/ConfigsHub
-trojan://humanity@206.189.125.53:443?cs=semi-python&path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[🏁]t.me/ConfigsHub
-hysteria2://43212c32-01f2-4356-b216-67dc1c178262@ees92.shhflow.xyz:5443/?sni=ees92.shhflow.xyz#%F0%9F%87%AA%F0%9F%87%AA194790%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-vless://0cf8e402-e801-4aeb-9b7a-00a933f9f1c1@app-str-53.nexus-infinitus.com:443?security=reality&encryption=none&pbk=gLO2GRqV0iVDmVdytcJLqGyZEB5Swxb-NAOC9AL13UM&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=assets-str-53.nexus-infinitus.com&sid=344f1f56582dda0f#[🇷🇺]t.me/ConfigsHub
-trojan://humanity@167.172.61.197:443?cs=semi-python&path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[🏁]t.me/ConfigsHub

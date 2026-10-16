@@ -1,8 +1,10 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-10-16T23:21:19.479Z
+# Updated: 2026-10-16T23:30:29.150Z
 # Configs: 306
 # Source: https://t.me/ConfigsHUB
 
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#[🇷🇺]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaSmRZbU1pSkJXa2JUWjVuRXhCUnBRX2Y3dUlHN3dMNA@mui.firzav.ir:1080#[🇸🇪]t.me/ConfigsHub
 vless://359b9ad3-0009-4655-8872-d0ab566751d3@45.81.58.159:2096?path=%2Fws%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=e832b8629fff3263.hozheen.ir#[🇨🇼]t.me/ConfigsHub
 vless://a0fe052d-6ca1-4a9c-b626-7ecf78f386cb@108.162.194.165:2086?path=%2F&security=&encryption=none&host=arshia.lezzatArshia.ir&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
 vless://03c52523-bb9b-463b-9599-494bbe60ae3d@6327.velqixa.ir:36233?security=reality&encryption=none&pbk=MtixyKIdkLlFH3-9MwocywuYPBMwMmqcKLoFSU-5NXg&headerType=none&fp=chrome&type=tcp&sni=www3.velqixa.ir&sid=ae8f4a77c23a7b2c#[🇮🇸]t.me/ConfigsHub
@@ -307,5 +309,3 @@ vless://3559f1f7-7d70-46c9-82db-d2b46269300b@s2.dipvpn.ru:443?security=reality&e
 vless://886da26c-683d-429f-8a0a-b5d8fef7ecf4@fin-2.povrak.ir:47014?security=none&encryption=mlkem768x25519plus.native.0rtt.B75bzTX56-NF1rezj896CdCUvLQIzHbOHnikVSdw5Rk&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
 vless://9f56bdc2-3238-4190-9b83-1c8332a7f3f8@50d9ab69755390c8.wgse.info:443?mode=auto&path=%2Fxh&security=tls&encryption=none&insecure=0&host=50d9ab69755390c8.wgse.info&fp=firefox&type=xhttp&allowInsecure=0&sni=50d9ab69755390c8.wgse.info#[🏁]t.me/ConfigsHub
 vmess://eyJhZGQiOiAiVjJyLnNlZXJ2ZXhvLmlyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIwYjNiZTI1OC0zNDU2LTQ0NGMtOWVjYi0yZTc3ZTYyZWYyZTAiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBjcyI6ICIiLCAicG9ydCI6ICI0MDU2IiwgInBzIjogW/Cfj4FddC5tZS9Db25maWdzSHViIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==
-vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=0e#[🇦🇲]t.me/ConfigsHub
-vless://cb8fbad5-4f14-55bc-a24a-3510f47f4b1b@assets.halyvanedorogo.ru:11515?security=reality&encryption=none&pbk=A826RSu-yeVM_t6v7kwHKasHSdfI9KOzUw3WaIa9SWc&headerType=none&fp=chrome&spx=/EL8OY1VX47km1uf&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=65149fc5ba#[🇫🇮]t.me/ConfigsHub

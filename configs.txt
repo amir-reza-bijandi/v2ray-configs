@@ -1,8 +1,9 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-10-16T03:00:44.287Z
-# Configs: 326
+# Updated: 2026-10-16T03:30:30.274Z
+# Configs: 309
 # Source: https://t.me/ConfigsHUB
 
+vless://8f6ccdb2-2b4e-4834-a90b-344bff490402@alaFI.marzban-locations.com:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#[🏁]t.me/ConfigsHub
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6ZDRNNmZBajlRMDd1SzRIZVBudEFUVUFzMUtCY2VNenE4aEdQeTFBRnhGQT0@43.114.145.254:443#[🇩🇪]t.me/ConfigsHub
 vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@dnld.chaqalli.com:8180?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.PdwZJuxIVUGHGbEzz3Q39ZoRqqxfF0lFg22yCLQvaWk&type=ws#[🇮🇷]t.me/ConfigsHub
 vless://244d9eab-3311-40c7-b47f-4968dc3088a6@84.32.100.149:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&sni=tcpde7.figurapn.ru&sid=868419504747f6de#[🇩🇪]t.me/ConfigsHub
@@ -311,21 +312,3 @@ vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.166.42.149:443?encryption=none&
 vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@hoert1rert.localip.ir:2087?path=%2Fhokm&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hoert1rert.localip.ir&type=ws&allowInsecure=0&sni=hoert1rert.localip.ir#[🇩🇪]t.me/ConfigsHub
 vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?encryption=none&security=tls&sni=lucasjow.us.ci&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=lucasjow.us.ci&path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132%3Fed%23#[🇨🇦]t.me/ConfigsHub
 trojan://humanity@139.28.240.24:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=%2Fassignment#[🏁]t.me/ConfigsHub
-vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@94.103.168.133:2087?path=%2Fhokm&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fert6.localip.ir&type=ws&allowInsecure=0&sni=fert6.localip.ir#[🇩🇪]t.me/ConfigsHub
-vless://37857ebf-94bb-49a0-8ab9-548e64e57311@199.232.78.159:443?encryption=none&security=tls&sni=google.com&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&type=ws&host=pannn1.global.ssl.fastly.net.&path=%2F#[🏁]t.me/ConfigsHub
-vless://05d7a479-a099-40cf-aecf-41aa934767b0@nl5.hap-plus.ru:8443?encryption=none&security=tls&sni=nl5.hap-plus.ru&fp=firefox&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=nl5.hap-plus.ru&path=%2Fapi%2Fv1%2Fevents#[🇰🇭]t.me/ConfigsHub
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@159.223.12.89:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=unsafe&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443fp%3Dchrome#[🏁]t.me/ConfigsHub
-vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@77.110.105.122:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=co-de.speedtec.ru&fp=random&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&sid=226509f017e4c36d&type=tcp&headerType=none#[🇷🇺]t.me/ConfigsHub
-vless://090da6a8-69f7-4b49-8af9-a8f8bfb07f17@app-ms-72.next-gen-shopping.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=assets-ms-72.next-gen-shopping.com&fp=randomized&pbk=yuWkqVdfhtZTbQbgOWXfvukhdwCe2vVy7-GWxVfirnQ&sid=6f24fe57975cc9b6&type=tcp&headerType=none#[🇷🇺]t.me/ConfigsHub
-vless://37857ebf-94bb-49a0-8ab9-548e64e57311@199.232.78.159:443?encryption=none&security=tls&sni=google.com&insecure=0&allowInsecure=0&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&type=ws&host=pannn1.global.ssl.fastly.net.&path=%2F#[🏁]t.me/ConfigsHub
-vless://76bd0b98-1a2e-4616-81c6-d2c8d112eeb6@sub.skyshopnet.ir:2082?mode=auto&path=%2Fsky&security=reality&encryption=mlkem768x25519plus.native.0rtt.ylWaNV7JiVE1OUF1VfMPRL_6Wakrx28Q2J1JLJL0ujU&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=hpqn8r_F_YEnWuzRgNtRM5uHgUkrIzx99VEwzJH-PTI&host=panel.skyshopnet.ir&fp=chrome&spx=%2F94948f7c31b48ba&type=xhttp&sni=www.sony.no&sid=9e47e3#[🇩🇪]t.me/ConfigsHub
-vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@hk3.oh-node.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hk4e-launcher-static.hoyoverse.com&pbk=zV4Sja0iajpdzkR1iBMbI7RRWL2nlpgwGOtirQSG-zc&sid=b81edf7fdee4&spx=%2FHesarWeb&type=tcp&headerType=none#[🇴🇳]t.me/ConfigsHub
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@62.182.192.195:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=unsafe&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443#[🇸🇪]t.me/ConfigsHub
-vless://900606a3-cf07-4680-a589-f81f039e3a85@172.235.175.57:35351?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#[🏁]t.me/ConfigsHub
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@159.223.12.89:443?cs=semi-python&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443fp%3Dchrome&security=tls&encryption=none&fm=tlshello-0-len&insecure=0&host=snip.edgeoneai.cc.cd&fp=unsafe&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#[🏁]t.me/ConfigsHub
-trojan://humanity@143.246.136.156:443?cs=semi-python&path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[🇹🇷]t.me/ConfigsHub
-trojan://humanity@157.173.97.132:443?cs=semi-python&path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[🇫🇷]t.me/ConfigsHub
-trojan://humanity@139.59.186.54:443?cs=semi-python&path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[🏁]t.me/ConfigsHub
-trojan://humanity@185.14.186.43:443?cs=semi-python&path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[🏁]t.me/ConfigsHub
-hysteria2://6656cc0a-5908-4d04-a436-64f5843c0c7a@finkawwwbroy5.qcloud.surf:20326/?sni=finkawwwbroy5.qcloud.surf#%F0%9F%87%BA%F0%9F%87%B8194793%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-trojan://humanity@206.189.125.53:443?cs=semi-python&path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[🏁]t.me/ConfigsHub

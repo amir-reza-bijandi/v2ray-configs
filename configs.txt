@@ -1,8 +1,10 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-10-16T02:30:33.619Z
-# Configs: 328
+# Updated: 2026-10-16T03:00:44.287Z
+# Configs: 326
 # Source: https://t.me/ConfigsHUB
 
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6ZDRNNmZBajlRMDd1SzRIZVBudEFUVUFzMUtCY2VNenE4aEdQeTFBRnhGQT0@43.114.145.254:443#[🇩🇪]t.me/ConfigsHub
+vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@dnld.chaqalli.com:8180?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.PdwZJuxIVUGHGbEzz3Q39ZoRqqxfF0lFg22yCLQvaWk&type=ws#[🇮🇷]t.me/ConfigsHub
 vless://244d9eab-3311-40c7-b47f-4968dc3088a6@84.32.100.149:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&sni=tcpde7.figurapn.ru&sid=868419504747f6de#[🇩🇪]t.me/ConfigsHub
 vless://1043634e-8d9d-4736-83fa-f14ddc9d464c@188.114.97.6:443?path=id-amz&security=tls&encryption=none&insecure=0&host=dfsuporte.garena.com.ex33r.eu.cc&type=ws&allowInsecure=0&sni=dfsuporte.garena.com.ex33r.eu.cc#[🇨🇦]t.me/ConfigsHub
 vless://7cfd34ae-edad-4cc5-9d6f-066f7add7829@sg3.oh-node.com:443?security=reality&encryption=none&pbk=jpn2pLj_p5lxGwycLht80v2qNeP7jHwh1Gv-nTU8zXY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.changiairport.com&sid=ddcd71ec09e5893a#[🇸🇬]t.me/ConfigsHub
@@ -327,7 +329,3 @@ trojan://humanity@139.59.186.54:443?cs=semi-python&path=%2Fassignment&security=t
 trojan://humanity@185.14.186.43:443?cs=semi-python&path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[🏁]t.me/ConfigsHub
 hysteria2://6656cc0a-5908-4d04-a436-64f5843c0c7a@finkawwwbroy5.qcloud.surf:20326/?sni=finkawwwbroy5.qcloud.surf#%F0%9F%87%BA%F0%9F%87%B8194793%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 trojan://humanity@206.189.125.53:443?cs=semi-python&path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[🏁]t.me/ConfigsHub
-vless://0c3ad9d5-cffd-4748-b8df-ab145288144b@fi-p1.h1cloud.net:25634?encryption=none&fp=&pbk=xjmKTfAwtZNtyMrfGSo1a-Xc807CIdJXsboMsDMROFA&security=reality&serviceName=2894574fe211&sid=12e9af979082beab&sni=www.icloud.com&type=grpc#[🇹🇼]t.me/ConfigsHub
-trojan://humanity@185.14.186.43:443?cs=semi-python&path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[🏁]t.me/ConfigsHub
-vless://e6df2095-a73c-4043-8693-8d5a03686870@31.77.126.2:443?alpn=http%2F1.1&encryption=none&host=lucasjow.us.ci&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&security=tls&sni=lucasjow.us.ci&type=ws#[🇨🇿]t.me/ConfigsHub
-trojan://humanity@77.239.121.232:443?cs=semi-python&path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[🇩🇪]t.me/ConfigsHub

@@ -1,8 +1,9 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-10-17T19:00:40.193Z
-# Configs: 336
+# Updated: 2026-10-17T19:07:02.811Z
+# Configs: 337
 # Source: https://t.me/ConfigsHUB
 
+vless://fb5c43f4-bd23-453d-a3cf-45ad5b9c020b@85.133.244.214:443?path=%2F&security=none&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHub
 vless://63c5f8b3-3d3d-46a9-ae1f-58635cdaf891@185.121.179.122:443?security=reality&encryption=none&pbk=wpZDT_592emHu309qN-7-qceofbMJzoAdIx9m9RFJGg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=de.stream-node6.com&sid=98753667b2406829#[🏁]t.me/ConfigsHub
 vless://d342d11e-d224-4463-b982-532309285094@31.57.190.89:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&host=ccc.010304.xyz&type=ws&sni=ccc.010304.xyz#[🇲🇪]t.me/ConfigsHub
 vless://d342d11e-d224-4463-b982-532309285094@31.57.190.15:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&host=ccc.010304.xyz&fp=chrome&type=ws&sni=ccc.010304.xyz#[🇲🇪]t.me/ConfigsHub

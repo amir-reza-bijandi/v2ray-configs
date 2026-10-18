@@ -1,6 +1,6 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-10-18T20:30:29.440Z
-# Configs: 385
+# Updated: 2026-10-18T21:00:41.035Z
+# Configs: 375
 # Source: https://t.me/ConfigsHUB
 
 vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#[🇨🇦]t.me/ConfigsHub
@@ -378,13 +378,3 @@ vless://e64a2fae-1815-463a-9a74-18a8690931c2@196.245.172.85:443?mode=auto&path=%
 vless://b5cbeffe-d7d0-49dd-a279-6b5a6a1aad0d@72.56.241.75:18443?mode=gun&security=reality&encryption=none&pbk=YvhcuqXRqPigT7_rp9vsV5LAdxXHN8eWB_17SchS_S8&fp=firefox&type=grpc&serviceName=grpc&sni=5post-gate.x5.ru#[🇷🇺]t.me/ConfigsHub
 vless://eccc053a-7196-47cb-a4b5-f4b8bfd743d9@146.75.59.186:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F%3FTELEGRAM-MUSICLOVERS85&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_4i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#[🏁]t.me/ConfigsHub
 vless://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:8443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&ech=cloudflare-ech.com%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=lucasjow.us.ci#[🇨🇦]t.me/ConfigsHub
-vless://e6df2095-a73c-4043-8693-8d5a03686870@104.21.91.244:443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#[🇨🇦]t.me/ConfigsHub
-vless://0d4c981f-687e-4e33-b934-4cbe64e896ed@104.143.219.173:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#[🏁]t.me/ConfigsHub
-vmess://eyJhZGQiOiI1Ny4xMzEuMTY4LjIwMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmZGM4MDc0MS1hMzJiLTQ4OTAtYTZhMS01ZWE4YjNlNjBhYjEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjU3MTYwIiwicHMiOiJb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
-vless://355a9948-c284-4669-bd57-43fcdc8dd71e@2.26.224.25:443?mode=gun&security=reality&encryption=none&pbk=zvDl-tnM_FtSLG45j7FXchPAl1dFJaE_T0Lgy26xuXU&fp=firefox&type=grpc&serviceName=simplegrpc&sni=wifi-pl.convertvideo123.online&sid=b9e7a1c4d8329f10#[🇵🇱]t.me/ConfigsHub
-vless://eccc053a-7196-47cb-a4b5-f4b8bfd743d9@146.75.59.186:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&host=copy_az_channel_NUFiLTER_5i.global.ssl.fastly.net.&type=ws&sni=firefox.com#[🏁]t.me/ConfigsHub
-trojan://mitivpn@167.82.64.46:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=firefox.com#[🏁]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVVWpwaGtRQWg1QmtPZGJm@20.223.172.81:443#[🇮🇪]t.me/ConfigsHub
-vless://a9a3278d-cdd1-40ac-83bc-adb53ff9be33@188.114.97.6:443?mode=auto&path=%2F3bbfc1a762fdf5e0%2F10001%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=out.api-endpoint-01.cc.cd&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=xhttp&allowInsecure=0&sni=a9a3278d-cdd1-40ac-83bc-adb53ff9be3d.api-endpoint-01.cc.cd#[🇨🇦]t.me/ConfigsHub
-vless://00de64b2-2be7-44c5-8534-66d46b4ba6f1@vip.deventuras.ir:8081?security=reality&encryption=mlkem768x25519plus.native.0rtt.ZtukYQBbotnDqUFMh2mI5ogS1ANzU-LwsB0JMmASrxU&pbk=CwlmT6bf31z63kJdVr3GfL38dTUMI5rogde9UlFXhCg&headerType=none&fp=chrome&spx=%2F9e382100f4e8a43&type=tcp&sni=blog.api.www.cloudflare.com&sid=3a2b09debeb9#[🇱🇻]t.me/ConfigsHub
-vless://732ec777-bf4a-4fee-835a-25d6a8b58563@farancenew.mamadhpbot.ir:8080?path=%2Freal&security=none&encryption=none&host=farancenew.mamadhpbot.ir&type=ws#[🇫🇷]t.me/ConfigsHub

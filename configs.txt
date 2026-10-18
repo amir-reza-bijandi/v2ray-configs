@@ -1,6 +1,6 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-10-18T20:00:38.414Z
-# Configs: 397
+# Updated: 2026-10-18T20:21:03.522Z
+# Configs: 390
 # Source: https://t.me/ConfigsHUB
 
 vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#[🇨🇦]t.me/ConfigsHub
@@ -393,10 +393,3 @@ vless://a5db5ab5-8d28-49c0-ad55-0ad4724e4c0d@94.103.168.125:2087?path=%2Fhokm&se
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.146.230:22223?encryption=none&security=none&type=tcp&headerType=none#[🇫🇷]t.me/ConfigsHub
 vmess://eyJhZGQiOiAiMTYyLjE1OS4xMzUuMjM0IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImNzIjogIiIsICJkaWFsbW9kZSI6ICIiLCAiZnAiOiAiY2hyb21lIiwgImhvc3QiOiAib3IzLnNmYWNnLnVrIiwgImlkIjogImFjMjUxMjM3LTU3NmYtNDBjOC1hNTQzLTU1NDk2MGM5NThiMSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9vcjMiLCAicGNzIjogIiIsICJwb3J0IjogIjIwODMiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAic2N5IjogImF1dG8iLCAic25pIjogImNkbi5zZmFjZy51ayIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0TTBzVjNDcmpBVTBub2tk@20.164.216.208:443?#[🏁]t.me/ConfigsHub
-trojan://mitivpn@167.82.64.46:443?security=tls&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&type=ws&sni=firefox.com#[🏁]t.me/ConfigsHub
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.146.230:22224?encryption=none&security=none&type=tcp&headerType=none#[🇫🇷]t.me/ConfigsHub
-vless://d36923fa-06be-cf15-10fa-e0d3ceda5569@multipanel-production-722f.up.railway.app:443?encryption=none&security=tls&sni=multipanel-production-722f.up.railway.app&fp=chrome&alpn=http/1.1&type=ws&path=/ws/d36923fa-06be-cf15-10fa-e0d3ceda5569&host=multipanel-production-722f.up.railway.app#[🏁]t.me/ConfigsHub
-vless://ba33c872-d552-4c44-b0f2-b9bd8669d70c@43.249.72.254:443?encryption=none&security=tls&sni=default.ssl.fastly.net&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&type=ws&host=henzooo.global.ssl.fastly.net&path=%2F#[🇮🇹]t.me/ConfigsHub
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.175.83.65:22224?encryption=none&security=none&type=tcp#[🏁]t.me/ConfigsHub
-vless://eccc053a-7196-47cb-a4b5-f4b8bfd743d9@199.232.78.159:443?encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_5i.global.ssl.fastly.net.&sni=firefox.com&allowInsecure=0&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&type=ws#[🏁]t.me/ConfigsHub
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.175.83.65:22222?encryption=none&security=none&type=tcp#[🏁]t.me/ConfigsHub

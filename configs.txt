@@ -1,8 +1,10 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-10-25T22:00:38.500Z
-# Configs: 356
+# Updated: 2026-10-25T22:30:28.282Z
+# Configs: 357
 # Source: https://t.me/ConfigsHUB
 
+vless://7c4e57be-ff6f-4ef7-ba17-f839351d9af9@areal1.greewebservices.ir:2425?security=reality&encryption=none&pbk=MnPGY1Vo4ZbYdpLRTYHoolv5s_pwO41karyJfnQ0F3o&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#[🇧🇬]t.me/ConfigsHub
+vless://80f660eb-c161-4b5a-8463-6368a35c7d3d@85.198.97.155:443?security=reality&encryption=none&pbk=SaImbTlBTEGJOdghqZ6dNg3TY3WfnlvP8PgewUeokgE&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru#[🇷🇺]t.me/ConfigsHub
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.254.140.40:8880?security=none&type=ws&path=/?ed=2560&host=vms.lifetime54.workers.dev&packetEncoding=xudp&encryption=none#[🏁]t.me/ConfigsHub
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.30:8880?security=none&type=ws&path=/&host=vms.lifetime58.workers.dev&packetEncoding=xudp#[🇵🇱]t.me/ConfigsHub
 vless://109ce6c1-e188-44df-bf63-6795261f793b@fi.salfetkastroy.ru:443?security=reality&encryption=none&pbk=QTTneNQLYl_-Q0JbPyQWe2GpLUeL7JPl4P-5h0El6S8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fi.salfetkastroy.ru&sid=f9989b69a77d0f3c#[🇫🇮]t.me/ConfigsHub
@@ -358,4 +360,3 @@ vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@109.176.229.51:443?security=reality
 trojan://humanity@172.66.1.36:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.pleadcourt.org&type=ws&sni=www.pleadcourt.org#[🇨🇦]t.me/ConfigsHub
 vless://4d7d1add-0a51-4887-b10a-07c68df24f7e@sosk.sorix-home.ir:60231?security=&encryption=none&headerType=http&type=tcp#[🏁]t.me/ConfigsHub
 vless://e17150a9-f949-467b-94ea-4d50e4c84186@198.100.154.175:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.Q1AFGCIYIT70M9jeMH3sgN5PYVmLyoLk0-PQ_gQPa3Q&pbk=2PYoIhSKvVE-DgFzPYGo4cD2b7_8Ul2Vm8QKGWH1sAo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=4b#[🇨🇦]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsc2ZxZUU0MC1vVm9NNTk1QzhTNlFDLVpWZGt4Y0tsZA@dns8.m3hrzd.ir:8044#[🏁]t.me/ConfigsHub

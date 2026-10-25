@@ -1,8 +1,27 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-10-25T21:32:51.403Z
-# Configs: 346
+# Updated: 2026-10-25T22:00:38.500Z
+# Configs: 356
 # Source: https://t.me/ConfigsHUB
 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.254.140.40:8880?security=none&type=ws&path=/?ed=2560&host=vms.lifetime54.workers.dev&packetEncoding=xudp&encryption=none#[🏁]t.me/ConfigsHub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.30:8880?security=none&type=ws&path=/&host=vms.lifetime58.workers.dev&packetEncoding=xudp#[🇵🇱]t.me/ConfigsHub
+vless://109ce6c1-e188-44df-bf63-6795261f793b@fi.salfetkastroy.ru:443?security=reality&encryption=none&pbk=QTTneNQLYl_-Q0JbPyQWe2GpLUeL7JPl4P-5h0El6S8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fi.salfetkastroy.ru&sid=f9989b69a77d0f3c#[🇫🇮]t.me/ConfigsHub
+vless://0bf8538b-6299-46b0-9775-8b00939dccb5@static.blog-forme.ru:443?security=reality&encryption=none&pbk=CgbJG-9Wv2NW-cuS1ZIaCAenRUZbxGFt5EjLkFCUcWs&headerType=none&fp=firefox&type=tcp&sni=static.blog-forme.ru&sid=627da539c308202e#[🇩🇪]t.me/ConfigsHub
+vless://54f22246-cc9c-4315-907a-6c94c901d20f@h8.smart-life.agency:443?security=reality&encryption=none&pbk=w_hrubefrDzoh5rEB3jFTx4j-t7o1HMyyo1bAE1a8D0&fp=firefox&type=grpc&serviceName=google.storage.v2.Storage&sni=h8.smart-life.agency&sid=316d0a3751f3122d#[🇷🇺]t.me/ConfigsHub
+vless://5dc9999b-9810-4704-ab10-5d1691daeab6@93.114.98.95:8443?security=none&encryption=mlkem768x25519plus.native.0rtt.19i_4CkEI0IhUZJIEJLwrPjqag2rF-DXqA2Q1urikyk&host=play.google.com&headerType=http&type=tcp&flow=xtls-rprx-vision#[🇹🇷]t.me/ConfigsHub
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&type=grpc&serviceName=app.v1.PushService&sni=md5.univesalsrv.com&sid=aa9884f2982b7d3c#[🇲🇩]t.me/ConfigsHub
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#[🇩🇪]t.me/ConfigsHub
+vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?encryption=none&security=none&type=tcp&headerType=none#[🇫🇷]t.me/ConfigsHub
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:30892?security=reality&encryption=none&pbk=YinI5MijeZpRatg6QNDvP0qXEif-6VHC6gV5yoji4i4&host=%2F%3FTelegram---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=3d31326f95#[🇸🇬]t.me/ConfigsHub
+trojan://humanity@212.183.88.136:443?path=%2F%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[🇦🇹]t.me/ConfigsHub
+vless://5dc9999b-9810-4704-ab10-5d1691daeab6@93.114.98.95:8443?security=none&encryption=mlkem768x25519plus.native.0rtt.19i_4CkEI0IhUZJIEJLwrPjqag2rF-DXqA2Q1urikyk&host=play.google.com&headerType=http&type=tcp&flow=xtls-rprx-vision#[🇹🇷]t.me/ConfigsHub
+vless://36592d47-b9f5-4e8f-949e-45ac05472aab@91.107.188.129:2083?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=site.check-looks.space#[🇩🇪]t.me/ConfigsHub
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@swedenafteraventura.space:443?security=reality&encryption=none&pbk=TyuIIquHoesD9YwMQJHda0YZ3Hy9Dh123dQ00iGK0QY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swedenafteraventura.space#[🏁]t.me/ConfigsHub
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.18:443?mode=gun&security=reality&encryption=none&pbk=upIzyaSbVz2ZK6KfGtXmPl_-sCwn8XLDyFDH5CsL9iY&type=grpc&serviceName=node.v2.ObjectService&sni=rs1.univesalsrv.com&sid=ed0cd5cc2e26e6e7#[🇷🇸]t.me/ConfigsHub
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&type=grpc&serviceName=app.v1.PushService&sni=md5.univesalsrv.com&sid=aa9884f2982b7d3c#[🇲🇩]t.me/ConfigsHub
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#[🇩🇪]t.me/ConfigsHub
+trojan://humanity@212.183.88.136:443?path=%2F%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[🇦🇹]t.me/ConfigsHub
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?security=reality&encryption=none&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&host=www.apple.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=54cca3c1c1c7#[🇸🇬]t.me/ConfigsHub
 vless://05355ffb-a8f3-473b-cb9c-c8401897b03f@199.232.239.239:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%40CloudVPNchannel%2F%40CloudVPNchannel%2F%40CloudVPNchannel%2F%40CloudVPNchannel%2F%40CloudVPNchannel%2F%40CloudVPNchannel%3Fed%3D2056&security=tls&alpn=h2&encryption=none&insecure=0&host=mpkoe7ypcibr80p102020123.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=firefox.com#[🏁]t.me/ConfigsHub
 vless://216d790f-cdb1-47ba-ba7b-5107edceb8a1@www.zeenvio.ir:49054?security=reality&encryption=mlkem768x25519plus.native.0rtt.Bg4V8F4h98igrHnu5gErCiQUAqJr1DAJWKhoFNh0ZEc&pbk=4vWyTSLXJwt3k3nHFM7o6I5xzV8QijATPS_THsiUlQM&headerType=none&fp=chrome&type=tcp&sni=token.safebrowsing.apple&sid=2c98412b4dc3fed0#[🇸🇬]t.me/ConfigsHub
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?security=reality&encryption=none&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#[🏁]t.me/ConfigsHub
@@ -340,12 +359,3 @@ trojan://humanity@172.66.1.36:443?path=%2Fassignment&security=tls&alpn=http%2F1.
 vless://4d7d1add-0a51-4887-b10a-07c68df24f7e@sosk.sorix-home.ir:60231?security=&encryption=none&headerType=http&type=tcp#[🏁]t.me/ConfigsHub
 vless://e17150a9-f949-467b-94ea-4d50e4c84186@198.100.154.175:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.Q1AFGCIYIT70M9jeMH3sgN5PYVmLyoLk0-PQ_gQPa3Q&pbk=2PYoIhSKvVE-DgFzPYGo4cD2b7_8Ul2Vm8QKGWH1sAo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=4b#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsc2ZxZUU0MC1vVm9NNTk1QzhTNlFDLVpWZGt4Y0tsZA@dns8.m3hrzd.ir:8044#[🏁]t.me/ConfigsHub
-vless://cd07ae0d-f31d-4209-a0a4-d9d9cfcca1ad@wwww.qarvian.ir:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#[🏁]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVUUZNSXJqZnVDZ0VsZnBs@20.164.41.194:443#[🏁]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVUUZNSXJqZnVDZ0VsZnBs@20.164.41.194:443#[🏁]t.me/ConfigsHub
-vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@150.241.72.161:443?sni=b6i5po18lw.hat.onl&type=grpc&serviceName=live.gpuwxc84nl.chunk-4022.m4s&fp=firefox&security=tls#[🇸🇪]t.me/ConfigsHub
-vless://36cf792c-f07d-4500-97ea-a395e5178deb@77.232.135.141:8445?sni=ru1.radiolumens.uk&type=grpc&serviceName=beru-pl&fp=firefox&security=tls#[🇷🇺]t.me/ConfigsHub
-vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@147.45.47.83:443?sni=ozon.ru&type=tcp&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision&headerType=none&security=reality#[🇷🇺]t.me/ConfigsHub
-vless://cd07ae0d-f31d-4209-a0a4-d9d9cfcca1ad@167.82.64.64:443?insecure=0&sni=cdn.akamai.steamstatic.com&type=ws&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&host=copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net.&path=%2F&encryption=none&allowInsecure=0#[🏁]t.me/ConfigsHub
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=firefox&type=grpc&serviceName=hub.v1.SyncService&sni=md2.univesalsrv.com&sid=d36a38659ce106cb#[🇲🇩]t.me/ConfigsHub
-vmess://eyJhZGQiOiAiZGUuemhvdS15dWZhbi5jb20iLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImYzOGU1OTFkLWQxM2EtNGMzMC05NzYzLTZiZTNhZDY1ZjNlYyIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicGNzIjogIiIsICJwb3J0IjogIjQ0MyIsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiZGUuemhvdS15dWZhbi5jb20iLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==

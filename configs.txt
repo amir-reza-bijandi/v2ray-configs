@@ -1,8 +1,21 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-10-26T04:00:41.153Z
-# Configs: 276
+# Updated: 2026-10-26T04:30:27.298Z
+# Configs: 287
 # Source: https://t.me/ConfigsHUB
 
+vless://948a83ff-6277-48f1-a31e-f9b2f6b34fe4@6.bmi.ir.asopardaz.ir:8443?security=reality&encryption=none&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hostgator.com&sid=e915#[🇧🇬]t.me/ConfigsHub
+vless://0047a8bc-0025-4d45-899b-c75c669f3ede@154.83.159.240:8443?security=reality&encryption=none&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=6f15101ff2cc4887#[🏁]t.me/ConfigsHub
+vless://3027d7e0-201d-4e78-863b-f4dbe51ab96f@199.232.78.159:80?encryption=none&security=none&type=ws&host=rb24.ir&path=%2Fws%2F#[🏁]t.me/ConfigsHub
+vless://cd07ae0d-f31d-4209-a0a4-d9d9cfcca1ad@167.82.64.64:443?encryption=none&security=tls&sni=cdn.akamai.steamstatic.com&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&type=ws&host=copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net.&path=%2F#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsc2ZxZUU0MC1vVm9NNTk1QzhTNlFDLVpWZGt4Y0tsZA@dns8.m3hrzd.ir:8044#[🏁]t.me/ConfigsHub
+vless://3644635c-f8c4-449c-a665-fce1897a7bf3@66.90.115.124:2090?security=reality&encryption=none&pbk=qBobe6KSNkFLqTPCffcJo0nXgxy-3JKru9WRqY9rkjk&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=bb472a184677af64#[🇴🇳]t.me/ConfigsHub
+trojan://humanity@172.66.40.99:443?security=tls&sni=www.trusteeforward.com&fp=firefox&alpn=http%2F1.1&type=ws&host=www.trusteeforward.com&path=%2Fassignment#[🇨🇦]t.me/ConfigsHub
+vless://cd07ae0d-f31d-4209-a0a4-d9d9cfcca1ad@146.75.59.186:443?encryption=none&security=tls&sni=cdn.akamai.steamstatic.com&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&type=ws&host=copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net.&path=%2F#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsc2ZxZUU0MC1vVm9NNTk1QzhTNlFDLVpWZGt4Y0tsZA@dns3.m3hrzd.ir:8044#[🏁]t.me/ConfigsHub
+vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.215:443?encryption=none&security=tls&sni=service-453728-7467c1-production.up.railway.app&fp=chrome&alpn=http%2F1.1&type=ws&host=service-453728-7467c1-production.up.railway.app&path=%2Fws%2FDefault#[🏁]t.me/ConfigsHub
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?encryption=none&security=none&type=ws&host=hhlfy.twiladaphne.ndjp.net&path=%2F#[🇨🇦]t.me/ConfigsHub
+vless://cd07ae0d-f31d-4209-a0a4-d9d9cfcca1ad@wwww.qarvian.ir:443?type=ws&allowInsecure=1&insecure=1&host=copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net.&security=tls&encryption=none&sni=cdn.akamai.steamstatic.com#[🏁]t.me/ConfigsHub
+vless://7dee06cc-4bc8-43ca-a6c2-59f81107f2e3u@199.232.78.160:443?encryption=none&type=ws&insecure=0&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&sni=firefox.com&host=copy_az_channel_NUFiLTER_10i.global.ssl.fastly.net.&allowInsecure=0#[🏁]t.me/ConfigsHub
 vless://3559f1f7-7d70-46c9-82db-d2b46269300b@s2.dipvpn.ru:443?security=reality&encryption=none&pbk=1BdgrQ_esOEya01sDCBYK4MGpJgaUhssHQG-aWJkyFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dipvpn.ru#[🇵🇱]t.me/ConfigsHub
 vless://580fbc4b-2290-4128-a630-be6b1cc7a4a7@ffd7d2055bc64724.2f6.ir:8001?encryption=mlkem768x25519plus.native.0rtt.4UEBDBVKYKFSZIw7xYStut7MWeADY7-IyZQTNmD3_nw&security=none&type=tcp&headerType=none#[🇮🇷]t.me/ConfigsHub
 vless://ff02e966-d848-4566-9919-fb7c932e55b7@199.232.78.121:443?encryption=none&security=tls&type=xhttp&headerType=none&path=%2Fa7f3k9q2xz&host=us-amz.global.ssl.fastly.net&mode=packet-up&extra=%7B%22scMaxEachPostBytes%22%3A%22500000-1000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%228-16%22%2C%22cMaxReuseTimes%22%3A%2264-128%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hKeepAlivePeriod%22%3A30%7D%7D&sni=firefox.com&fp=chrome&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&pinSHA256=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&alpn=h2%2Chttp%2F1.1#[🏁]t.me/ConfigsHub
@@ -277,5 +290,3 @@ trojan://humanity@212.183.88.136:443?path=%2F%2Fassignment&security=tls&insecure
 vless://5dc9999b-9810-4704-ab10-5d1691daeab6@93.114.98.95:8443?security=none&encryption=mlkem768x25519plus.native.0rtt.19i_4CkEI0IhUZJIEJLwrPjqag2rF-DXqA2Q1urikyk&host=play.google.com&headerType=http&type=tcp&flow=xtls-rprx-vision#[🇹🇷]t.me/ConfigsHub
 vless://36592d47-b9f5-4e8f-949e-45ac05472aab@91.107.188.129:2083?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=site.check-looks.space#[🇩🇪]t.me/ConfigsHub
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@swedenafteraventura.space:443?security=reality&encryption=none&pbk=TyuIIquHoesD9YwMQJHda0YZ3Hy9Dh123dQ00iGK0QY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swedenafteraventura.space#[🏁]t.me/ConfigsHub
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.18:443?mode=gun&security=reality&encryption=none&pbk=upIzyaSbVz2ZK6KfGtXmPl_-sCwn8XLDyFDH5CsL9iY&type=grpc&serviceName=node.v2.ObjectService&sni=rs1.univesalsrv.com&sid=ed0cd5cc2e26e6e7#[🇷🇸]t.me/ConfigsHub
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&type=grpc&serviceName=app.v1.PushService&sni=md5.univesalsrv.com&sid=aa9884f2982b7d3c#[🇲🇩]t.me/ConfigsHub

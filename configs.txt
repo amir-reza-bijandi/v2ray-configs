@@ -1,8 +1,21 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-10-29T03:00:43.286Z
-# Configs: 429
+# Updated: 2026-10-29T03:30:29.957Z
+# Configs: 434
 # Source: https://t.me/ConfigsHUB
 
+vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@178.236.17.86:443?security=reality&encryption=none&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=b318242471ba4f5b#[🇰🇿]t.me/ConfigsHub
+vless://5e9d217c-0f9f-4c8c-aa79-a600baa8765b@2.144.22.87:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=api.bgp6.ir&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api.bgp6.ir#[🇮🇷]t.me/ConfigsHub
+vless://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#[🇨🇦]t.me/ConfigsHub
+vless://28d7a636-fd0b-489e-bf99-baa5b1bf9f15@213.152.165.203:2093/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=firefox&security=reality&pbk=C_GA8wVjeLmyqLK6em5OHn4WPlsbndA-RyvyNU1aGFM&sid=8a9725533854a7e8#[🏁]t.me/ConfigsHub
+vless://162b16b2-e032-475d-8460-a400e3d5fa6f@95.38.235.49:8443/?type=ws&encryption=none&flow=&host=gr.anten2.com&security=tls&sni=me.anten2.com&fp=firefox#[🇮🇷]t.me/ConfigsHub
+vless://0b418782-e023-447e-ba99-e66b84ff118d@213.152.165.203:2093/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=firefox&security=reality&pbk=C_GA8wVjeLmyqLK6em5OHn4WPlsbndA-RyvyNU1aGFM&sid=8a9725533854a7e8#[🏁]t.me/ConfigsHub
+vless://19456d94-8f54-4f82-ae9c-0e19afb5c29c@213.152.165.202:2093/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=firefox&security=reality&pbk=C_GA8wVjeLmyqLK6em5OHn4WPlsbndA-RyvyNU1aGFM&sid=8a9725533854a7e8#[🏁]t.me/ConfigsHub
+vless://846cedee-2a52-4a62-a0b9-11850ead6a8b@46.8.43.125:443/?type=tcp&encryption=none&flow=&sni=kz-central.v8x2b.lol&fp=firefox&security=reality&pbk=ER-T5En54-sn6IXy7jU8vQVcBbOiWvznnezf3qZ273w&sid=#[🇰🇿]t.me/ConfigsHub
+vless://846cedee-2a52-0002-a0b9-11850ead6a8b@191.217.217.69:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nl-central.v8x2b.lol&fp=firefox&security=reality&pbk=q3UXFUE5yYxNE4ugLUnYdpc9WRtR-sjsDTrKsiqzDHE&sid=#[🏁]t.me/ConfigsHub
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@da.mfa.gov.ua:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#[🇨🇦]t.me/ConfigsHub
+vless://1e06c388-d31c-420e-916a-94a990648e34@mx.bexumconnect.ltd:443?security=tls&encryption=none&insecure=0&headerType=none&fp=qq&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=mx.bexumconnect.ltd#[🇫🇮]t.me/ConfigsHub
+vmess://eyJhZGQiOiJkYXNoYm9hcmQub2plc2hvcC50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNWZkM2U0ZjYtODc3YS00ZDAyLTlkODAtMDNiOGI3MGJhOGI2IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI1MzgwIiwicHMiOiJb8J+HrvCfh7dddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
+vless://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#[🇨🇦]t.me/ConfigsHub
 vless://ad7014cf-53ad-4143-9141-05027c8a2f9f@xray1-direct-mci1-fs-ce.freesocks.work:443?flow=xtls-rprx-vision&fp=chrome&pbk=7j3hmlHrEDk3Kjx-dFG3E3jf0c6PZF45trIPFsuKWmI&security=reality&sni=dl.google.com&type=tcp#[🏁]t.me/ConfigsHub
 vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@165.154.63.139:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&fp=firefox&security=reality&pbk=AE81BrwMc8-kwGEIA1LhzaL03er0Qwt2V-fFy76F5jQ&sid=ca4aedd4#[🇴🇳]t.me/ConfigsHub
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=firefox&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#[🏁]t.me/ConfigsHub
@@ -424,11 +437,3 @@ vless://46cb8a26-0712-4e85-89bf-2538a2788652@wwww.qarvian.ir:443?pcs=CD6E838B9BF
 vless://46cb8a26-0712-4e85-89bf-2538a2788652@199.232.78.160:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_10i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#[🏁]t.me/ConfigsHub
 trojan://humanity@45.128.76.242:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com#[🇩🇪]t.me/ConfigsHub
 vless://580fbc4b-2290-4128-a630-be6b1cc7a4a7@feabc1747b90442a.2h6.ir:8002?encryption=mlkem768x25519plus.native.0rtt.cjNsKS-ph3cn4zvevL7UCxmBgPo0nLKCotefOecfwys&security=none&type=tcp&headerType=none#[🇮🇷]t.me/ConfigsHub
-vless://e0216964-ffa1-4d39-82c4-0e40879a470d@185.32.6.26:443?security=reality&encryption=none&pbk=XYkuP_Keu-yL7EQ8xZc4RTmcVAfp06Z1onV2ZNrlsHM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=stable.nullo.pro&sid=c31f187b#[🇵🇱]t.me/ConfigsHub
-vless://e0216964-ffa1-4d39-82c4-0e40879a470d@185.32.6.26:443?security=reality&encryption=none&pbk=XYkuP_Keu-yL7EQ8xZc4RTmcVAfp06Z1onV2ZNrlsHM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=stable.nullo.pro&sid=c31f187b#[🇵🇱]t.me/ConfigsHub
-trojan://%4D%69%54%69%56%50%4E@146.75.57.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http%2F1.1&insecure=0&host=%6D%69%74%69%76%70%6E--%6D%69%74%69%76%70%6E.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com&path=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#[🏁]t.me/ConfigsHub
-vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#[🇷🇺]t.me/ConfigsHub
-vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@104.171.133.209:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#[🇷🇺]t.me/ConfigsHub
-vless://e0216964-ffa1-4d39-82c4-0e40879a470d@185.32.6.26:443?security=reality&encryption=none&pbk=XYkuP_Keu-yL7EQ8xZc4RTmcVAfp06Z1onV2ZNrlsHM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=stable.nullo.pro&sid=c31f187b#[🇵🇱]t.me/ConfigsHub
-vless://55d7adf5-4121-43de-9331-7550413e257a@fr.vfzq.ir:2087?security=none&encryption=none&headerType=http&type=tcp#[🇸🇬]t.me/ConfigsHub
-vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.22:2063?encryption=none&security=reality&flow=xtls-rprx-vision&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&type=tcp&sni=rusbid.de&fp=firefox#[🏁]t.me/ConfigsHub

@@ -1,8 +1,36 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-10-29T04:30:34.654Z
-# Configs: 434
+# Updated: 2026-10-29T05:00:41.615Z
+# Configs: 442
 # Source: https://t.me/ConfigsHUB
 
+vless://98a24806-141a-43d3-b094-bd66c4eb93b8@198.16.113.221:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=firefox&security=reality&pbk=8NkTRxC5Q7bptx-8ADobkuhPK-ZN0kEEbzv6tCFGMzE&sid=69984b9e02545831#[🇫🇷]t.me/ConfigsHub
+vless://372af4ce-2153-4061-822c-b657172308f6@213.152.165.202:2094/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=firefox&security=reality&pbk=jHtC6ayzhkd_GVNF5TIGPu9iVpqUltBAQj1dpGJHwxs&sid=55986a94e2228791#[🏁]t.me/ConfigsHub
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@fr001.zestapp778.com:28484?sni=fr001.zestapp778.com&fp=chrome&security=tls#[🇫🇷]t.me/ConfigsHub
+trojan://humanity@165.215.250.14:443?sni=www.calmlunch.com&type=ws&allowInsecure=1#[🏁]t.me/ConfigsHub
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#[🇳🇴]t.me/ConfigsHub
+trojan://5416ef6f-b8e5-48e9-87e4-3d5649b2e3e0@sg-3.gsafevpnapi.com:44370?sni=www.yahoo.com#[🇸🇬]t.me/ConfigsHub
+trojan://06cf12a7fab279375e55e2f0cfdef381@ja304.magiclampcloud.cn:59443#[🇨🇳]t.me/ConfigsHub
+trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?sni=%22139.180.146.200%22#[🇸🇬]t.me/ConfigsHub
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@77.42.12.225:443/?type=grpc&encryption=none&flow=&serviceName=f345a414c040&sni=8fc752g.fi3.h1clayd.click&fp=firefox&security=reality&pbk=GJzag9Wrvz_bO9AQaA-Oq0P1kV9btmxxAdzPV-uQB18&sid=09d0a94a1c6fc9d5#[🇫🇮]t.me/ConfigsHub
+vless://405b964e-a2d2-454f-aaaa-711cc218897c@5.253.28.240:40443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&fp=firefox&security=reality&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&sid=88b6#[🇮🇳]t.me/ConfigsHub
+vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053/?type=tcp&encryption=none&flow=&sni=www.apple.com&fp=firefox&security=reality&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&sid=5b8a942318178e7b#[🇮🇹]t.me/ConfigsHub
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.35:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=firefox&security=reality&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a#[🏁]t.me/ConfigsHub
+vless://00144519-7e0d-476b-8d28-435576af9262@167.17.69.171:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=firefox&security=reality&pbk=ALT8hIGeZEhi0sQFbXP_ntBg8Xo-v7i0YCLrqTnBxRk&sid=0990d22f#[🏁]t.me/ConfigsHub
+trojan://humanity@165.215.250.14:443?sni=www.calmlunch.com&type=ws&allowInsecure=1#[🏁]t.me/ConfigsHub
+vless://d1641bc6-3757-43db-815a-9b3f4d9b0d7e@191.44.114.179:2096/?type=ws&encryption=none&flow=&host=st33614.rumedia-cdn.com&path=%2Fcdn%2Fv3%2Flive&security=tls&sni=st33614.rumedia-cdn.com&fp=firefox#[🇸🇪]t.me/ConfigsHub
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#[🏁]t.me/ConfigsHub
+vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443/?type=tcp&encryption=none&flow=&sni=ph-nl-s3784.cybercat.network&fp=firefox&security=reality&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&sid=ecf1d9f7caa6ba67#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#[🇳🇴]t.me/ConfigsHub
+vless://98a24806-141a-43d3-b094-bd66c4eb93b8@198.16.113.220:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=firefox&security=reality&pbk=8NkTRxC5Q7bptx-8ADobkuhPK-ZN0kEEbzv6tCFGMzE&sid=69984b9e02545831#[🇫🇷]t.me/ConfigsHub
+trojan://humanity@108.162.194.134:443?sni=www.pleadcourt.org&type=ws&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
+vless://7e5c47fb-69a5-4d9e-af57-1d80db594e88@213.152.180.55:2093/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=firefox&security=reality&pbk=C_GA8wVjeLmyqLK6em5OHn4WPlsbndA-RyvyNU1aGFM&sid=8a9725533854a7e8#[🏁]t.me/ConfigsHub
+trojan://5416ef6f-b8e5-48e9-87e4-3d5649b2e3e0@sg-3.gsafevpnapi.com:44370?sni=www.yahoo.com#[🇸🇬]t.me/ConfigsHub
+vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwgImFkZCI6ICJaOUZmQngzenMycTVPMEJHLnYuM2Rucy52aXAiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiODg4ODg4ODgtODg4OC04ODg4LTg4ODgtODg4ODg4ODg4ODg4IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJaOUZmQngzenMycTVPMEJHLnYuM2Rucy52aXAiLCAicGF0aCI6ICIvd3Mtdm1lc3MiLCAidGxzIjogInRscyIsICJzbmkiOiAiWjlGZkJ4M3pzMnE1TzBCRy52LjNkbnMudmlwIn0=
+trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?sni=%22139.180.146.200%22#[🇸🇬]t.me/ConfigsHub
+trojan://06cf12a7fab279375e55e2f0cfdef381@ja304.magiclampcloud.cn:59443#[🇨🇳]t.me/ConfigsHub
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.231:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#[🏁]t.me/ConfigsHub
+vmess://eyJhZGQiOiI4Mi40MC42Mi4xNzAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNjhiMjY0NzEtNjI1Mi00OWYwLTliMjMtMGViNTE5MWQ0ZWE4IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI4MDgwIiwicHMiOiJb8J+HtfCfh7FddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://ce17d29c-3587-4d8c-b09d-e03437df8bbd@213.152.180.55:2091/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=firefox&security=reality&pbk=1N6AW5YuEwBoYcZK5KuugDzBHsa0NKZMT8QI-EmyL0k&sid=08a4b1f473932632#[🏁]t.me/ConfigsHub
 vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@157.90.175.178:2112/?type=tcp&encryption=none&flow=&sni=play.google.com&fp=firefox&security=reality&pbk=p8pUe3hwND5rhAti-yRQ5qMaIkNdhxOV1K1jpbtJlEQ&sid=125ba3#[🇩🇪]t.me/ConfigsHub
 vless://4d8cc1c2-2605-43c4-8e17-dcafa86d9757@213.152.165.202:2092/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=firefox&security=reality&pbk=zeyIqmHylDrPbbtdG9BleBt0-fqKCHpZ0OZ9OY2_WUI&sid=716b7eba38125f3a#[🏁]t.me/ConfigsHub
@@ -416,24 +444,4 @@ vless://e24ccc07-a6f3-4270-8363-7b49dd31e14f@Workshopnew.subpannel.ir:6000?mode=
 vless://46cb8a26-0712-4e85-89bf-2538a2788652@199.232.78.160:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_10i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#[🏁]t.me/ConfigsHub
 vless://0f856f56-822f-49f6-b059-1dfb17466755@78.141.219.108:4083?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#[🏁]t.me/ConfigsHub
-vless://761abded-9587-4bd8-9a32-53aa107f624e@95.182.92.109:2053?path=%2Fw&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#[🏁]t.me/ConfigsHub
-hysteria2://capadm54312235%3AJdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:37186?sni=vpn.local&obfs=salamander&obfs-password=ypvL8T4HFIBLoH8q&insecure=1#%F0%9F%87%B3%F0%9F%87%B1202216%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-trojan://humanity@188.114.98.0:443?type=ws&path=%2Fassignment%3FTELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&host=www.calmlunch.com&security=tls&sni=www.calmlunch.com#[🇨🇦]t.me/ConfigsHub
-vless://53f03acd-fec1-6685-fc8f-03baf9550cb8@148-253-210-191.sslip.io:443?type=ws&encryption=none&path=%2Ftest-ws&host=148-253-210-191.sslip.io&security=tls&fp=chrome&alpn=http%2F1.1&sni=148-253-210-191.sslip.io#[🇩🇪]t.me/ConfigsHub
-ss://YWVzLTI1Ni1nY206THBxNVVQVkh0UVlpdUI5akVVTmMyV2tlSVlDVUg5REU@195.58.49.167:18443#[🇷🇺]t.me/ConfigsHub
-vless://af5eac96-e478-488a-bc8c-45269d7e8847@dorado.yokkastars.com:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#[🇮🇳]t.me/ConfigsHub
-vless://af5eac96-e478-488a-bc8c-45269d7e8847@dorado.yokkastars.com:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#[🇮🇳]t.me/ConfigsHub
-vless://a7e9fc98-25a2-4801-961c-7a6ed9d69328@f1.greewebservices.ir:443?encryption=none&type=xhttp&mode=auto&host=Cheerfully-frozen-mongoose-beryl.global.ssl.fastly.net&security=tls&fp=random&sni=default.ssl.fastly.net&alpn=h3,h2,http/1.1#[🏁]t.me/ConfigsHub
-vless://e0216964-ffa1-4d39-82c4-0e40879a470d@83.97.79.93:8443?security=reality&encryption=none&pbk=e8vusEkL9FTC7oxFCp8biOWMFH-e-1IN21V6YNynGDg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ger.nullo.pro&sid=6350d1647a4880#[🇪🇸]t.me/ConfigsHub
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999#[🇮🇹]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuaEdiS2tVaXpDYW1IVy1Lc3FYb3F3@p2tun3.greewebservices.ir:1030?type=tcp#[🇮🇷]t.me/ConfigsHub
-vless://e0216964-ffa1-4d39-82c4-0e40879a470d@185.32.6.26:443?security=reality&encryption=none&pbk=XYkuP_Keu-yL7EQ8xZc4RTmcVAfp06Z1onV2ZNrlsHM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=stable.nullo.pro&sid=c31f187b#[🇵🇱]t.me/ConfigsHub
-vless://e0216964-ffa1-4d39-82c4-0e40879a470d@83.97.79.93:8443?security=reality&encryption=none&pbk=e8vusEkL9FTC7oxFCp8biOWMFH-e-1IN21V6YNynGDg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ger.nullo.pro&sid=6350d1647a4880#[🇪🇸]t.me/ConfigsHub
-vless://d31ef01a-e386-4ac1-936a-61b99df42b87@static.19.212.12.49.clients.your-server.de:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=static.83.65.31.2.clients.your-server.de#[🇩🇪]t.me/ConfigsHub
-vless://55d7adf5-4121-43de-9331-7550413e257a@fr.vfzq.ir:2087?security=none&encryption=none&headerType=http&type=tcp#[🇸🇬]t.me/ConfigsHub
-trojan://humanity@8.47.69.0:443?security=tls&sni=www.pleadcourt.org&fp=qq&insecure=0&allowInsecure=0&type=ws&host=www.pleadcourt.org&path=%2Fassignment#[🏁]t.me/ConfigsHub
-vless://af0ae5e8-80b8-45aa-a957-4eb8e38a83fa@static.77.119.140.128.clients.your-server.de:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=static.77.119.140.128.clients.your-server.de#[🇩🇪]t.me/ConfigsHub
-vless://e0216964-ffa1-4d39-82c4-0e40879a470d@185.32.6.26:443?security=reality&encryption=none&pbk=XYkuP_Keu-yL7EQ8xZc4RTmcVAfp06Z1onV2ZNrlsHM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=stable.nullo.pro&sid=c31f187b#[🇵🇱]t.me/ConfigsHub
-vless://e24ccc07-a6f3-4270-8363-7b49dd31e14f@Workshopnew.subpannel.ir:6000?mode=auto&path=%2Fxhttp&security=reality&encryption=mlkem768x25519plus.native.0rtt.ggzdnrpj_KMp45rWWQrwWcqPaqCqrYWO6ie9--VZDm4&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=Pgbtx_vPcCCRHqtwXhn2TfstKjOeyw00jKQTAqy10Xc&host=fastgoodshop.persiansubpannel.ir&fp=chrome&spx=%2F7c0a4e056ed5e7a&type=xhttp&sni=aparat.com&sid=79024ba2#[🇮🇷]t.me/ConfigsHub
-vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.22:2063?encryption=none&security=reality&flow=xtls-rprx-vision&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&type=tcp&sni=rusbid.de&fp=firefox#[🏁]t.me/ConfigsHub
 vless://761abded-9587-4bd8-9a32-53aa107f624e@95.182.92.109:2053?path=%2Fw&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#[🏁]t.me/ConfigsHub

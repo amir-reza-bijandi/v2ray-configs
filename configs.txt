@@ -1,8 +1,11 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-10-29T01:30:30.571Z
+# Updated: 2026-10-29T02:00:39.112Z
 # Configs: 424
 # Source: https://t.me/ConfigsHUB
 
+vmess://eyJhZGQiOiIzOC4xMTAuMS4yNDYiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmF0aW9uIjoiIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoiW/Cfj4FddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNlcnZlclBvcnQiOjAsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://24d49ddd-67c1-4821-b5b9-f12107366978@151.101.3.147:80?encryption=none&security=none&type=xhttp&host=baharishomalyour-name.global.ssl.fastly.net&path=%2Fapi&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%220%22%7D#[🇨🇦]t.me/ConfigsHub
+vless://08b6dd4b-08df-4aa2-9580-92a3360cf07c@188.130.208.210:443?security=reality&encryption=none&pbk=x_sc52Wgwr7bsogvKRA5hHHS5PJpdocqZNW_Up1mty8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=edge-cz1.lovely.ceo&sid=59ab2fc39ec55bc7#[🇨🇿]t.me/ConfigsHub
 vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=firefox&security=reality&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&sid=69a2#[🇰🇿]t.me/ConfigsHub
 vless://76b6a658-ce80-4500-b24d-404c94639ac6@50.7.252.50:2091/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=firefox&security=reality&pbk=1N6AW5YuEwBoYcZK5KuugDzBHsa0NKZMT8QI-EmyL0k&sid=08a4b1f473932632#[🇸🇬]t.me/ConfigsHub
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.168:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=firefox&security=reality&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a#[🏁]t.me/ConfigsHub
@@ -424,6 +427,3 @@ vless://3e2cec1d-8272-4940-ab16-948364b6d88e@fastgoodshop.persiansubpannel.ir:84
 vless://eaa34d9f-662d-4378-8210-3508b5eee727@217.216.218.108:443?mode=auto&security=reality&encryption=none&pbk=B4gdMxfjdXtFuqg-Ek9CDKiJT6QQiKb-tV2VODt_ik0&type=xhttp&sni=savesafe.top&sid=def9b800fb6a3ddb#[🇦🇲]t.me/ConfigsHub
 vless://e24ccc07-a6f3-4270-8363-7b49dd31e14f@fastgoodshop.persiansubpannel.ir:8442?encryption=mlkem768x25519plus.native.0rtt.LjOJScsGIRk1CC-Aw179CqUaLc1HnuBr_nloT4Vsnk4&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=ZXMTUeRl73OGjuCNXFKYHkwXDhSzzqYZAsrKiakHglQ&sid=6c67a1&spx=%2F37e4c0b9cfacdf8&type=xhttp&host=fastgoodshop.persiansubpannel.ir&path=%2Fxhttp&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#[🇹🇷]t.me/ConfigsHub
 vless://a7e9fc98-25a2-4801-961c-7a6ed9d69328@f1.greewebservices.ir:443?encryption=none&type=xhttp&mode=auto&host=Cheerfully-frozen-mongoose-beryl.global.ssl.fastly.net&security=tls&fp=random&sni=default.ssl.fastly.net&alpn=h3,h2,http/1.1#[🏁]t.me/ConfigsHub
-vless://d4353076-3ec7-47dc-88b0-f21eb59fbfb8@193.160.140.159:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com#[🇷🇺]t.me/ConfigsHub
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#[🇮🇹]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuaEdiS2tVaXpDYW1IVy1Lc3FYb3F3@p2tun3.greewebservices.ir:1030?type=tcp#[🇮🇷]t.me/ConfigsHub

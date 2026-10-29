@@ -1,8 +1,11 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-10-29T23:00:42.940Z
-# Configs: 408
+# Updated: 2026-10-29T23:08:42.473Z
+# Configs: 407
 # Source: https://t.me/ConfigsHUB
 
+vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?security=reality&encryption=none&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=passport.yandex.ru&sid=e6#[🇫🇷]t.me/ConfigsHub
+vmess://eyJhZGQiOiJhZXNhZmRmYWVzZnYuYXNvcGFyZGF6LmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJhZXNhZmRmYWVzZnYuYXNvcGFyZGF6LmlyIiwiaWQiOiJjZTcxYjhjMi01NGE0LTRkZDAtYjc4MC1hNDUyMWIxNmYyZmQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL2Y5YkdiRzdaTnk1TDB0ZFFwVWJMWEhISUFsR3YiLCJwb3J0IjoiODAiLCJwcyI6Ilvwn4eu8J+HuV10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+vless://6db6b948-655f-4f68-a9e7-865050e05b31@93.152.206.112:443?security=reality&encryption=none&pbk=-zjl4KNE4PFeuthfmw_2JeCbiXAA2kaoYVHODPq-sXQ&host=Copy_Shode_az_Chanel0111Net&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=remote.propaint.cl&sid=a2fc#[🇧🇬]t.me/ConfigsHub
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.176:443?sni=blog.nextjobopportunityandclaimyouridealrole.com#[🏁]t.me/ConfigsHub
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.106:443?sni=www.findconnectwithemployersandbuildprofessionalnetwork.com#[🏁]t.me/ConfigsHub
 vless://9e811e76-dd3c-4633-a45c-019b5f325376@xray1-direct-mci1-fs-ce.freesocks.work:443?security=reality&encryption=none&pbk=7j3hmlHrEDk3Kjx-dFG3E3jf0c6PZF45trIPFsuKWmI&host=Copy_Shode_az_Chanel0111Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com#[🏁]t.me/ConfigsHub
@@ -407,7 +410,3 @@ vless://606047d0-56ec-4152-8d3b-13c5d4adef03@146.75.57.238:443?encryption=none&s
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLcElqd3g4VzJNYlN6ZXps@20.87.213.148:443#[🏁]t.me/ConfigsHub
 trojan://MiTiVPN@199.232.78.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#[🏁]t.me/ConfigsHub
 trojan://MiTiVPN@151.101.36.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#[🏁]t.me/ConfigsHub
-vless://e9a9d2ba-8c33-4e5e-a903-efa595db2fff@wwww.qarvian.ir:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_17i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#[🏁]t.me/ConfigsHub
-vless://bdf276d5-424b-4690-89a9-29fb93e033b9@151.101.36.99:443?mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&alpn=h2&encryption=mlkem768x25519plus.native.0rtt.T0D4VEc73BUIEx8siPnj-DyB_bL3LoH4o8-TvYkGUCw&insecure=0&host=shswowkhjsjiiyyuour-name.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=0&sni=cdn.akamai.steamstatic.com#[🏁]t.me/ConfigsHub
-vless://e9a9d2ba-8c33-4e5e-a903-efa595db2fff@146.75.57.238:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#[🏁]t.me/ConfigsHub
-vless://bdf276d5-424b-4690-89a9-29fb93e033b9@hland.kshsheu.hland.ejhej.95g.ir:27283?mode=auto&path=%2F&security=reality&encryption=mlkem768x25519plus.native.0rtt.qzsToICj0YYJ_qKvOpdDzglAWgH9Lo02qLbmomFTGmA&pbk=0rzXFd1_PvbvIDUk1F3bTfb0hnsLMxNfzPC4mNORbwI&host=hls-svod-aoc-ap1.itunes.g.aaplimg.com&fp=chrome&type=xhttp&sni=hls-svod-aoc-ap1.itunes.g.aaplimg.com&sid=1b39aabd050d85e1#[🏁]t.me/ConfigsHub

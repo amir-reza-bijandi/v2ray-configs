@@ -1,5 +1,5 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-10-31T22:30:31.207Z
+# Updated: 2026-10-31T23:00:40.370Z
 # Configs: 395
 # Source: https://t.me/ConfigsHUB
 

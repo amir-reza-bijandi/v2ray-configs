@@ -1,6 +1,6 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-11-01T15:30:31.965Z
-# Configs: 373
+# Updated: 2026-11-01T16:00:39.445Z
+# Configs: 368
 # Source: https://t.me/ConfigsHUB
 
 vless://9047219a-470f-4a3f-b319-1178ae1a3c87@www.speedtest.net:2053?encryption=none&type=ws&host=floral-grass-aa1e.dianawpewpek1.workers.dev&path=/?ed%3D2048&security=tls&fp=chrome&sni=floral-grass-aa1e.dianawpewpek1.workers.dev&alpn=http/1.1#[🇨🇦]t.me/ConfigsHub
@@ -371,8 +371,3 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.102.210:22222?encryption=non
 vless://d342d11e-d224-4463-b982-532309285094@chatgpt.com:443?path=%2F%3F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#[🇨🇦]t.me/ConfigsHub
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.102.210:22223?encryption=none&security=none&type=tcp#[🏁]t.me/ConfigsHub
 trojan://humanity@162.159.91.211:443?sni=www.calmlunch.com&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
-vless://35gakwaayy#[🏁]t.me/ConfigsHub
-vless://86b2c22d-3708-46c5-b1d9-e2e0f30be6bb@fl.privatevip.ir:27039?security=none&encryption=none&host=%2F%3FTelegram---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP&headerType=none&type=tcp#[🇸🇬]t.me/ConfigsHub
-vless://4a805850-a2c4-42b3-898a-798f0c19c609@bgwx20lr.cf.090227.xyz:8880?type=ws&path=/19i4jt9n5h1y#[🏁]t.me/ConfigsHub
-vless://ac36b6f8-d03d-46cb-808f-e655183fb76d@185.44.64.166:59397?security=reality&sni=la.blogs.nvidia.com&type=tcp&flow=xtls-rprx-vision&fp=chrome&pbk=7w6m1Z7wZk1KX7bBlCi50t_8T-HdC8aMizOcIyqcaS4&sid=1430#[🇩🇪]t.me/ConfigsHub
-vless://0047a8bc-0025-4d45-899b-c75c669f3ede@154.83.159.240:8443?security=reality&encryption=none&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=6f15101ff2cc4887#[🏁]t.me/ConfigsHub

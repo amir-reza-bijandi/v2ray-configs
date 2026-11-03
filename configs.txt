@@ -1,8 +1,11 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-11-03T23:00:42.303Z
-# Configs: 357
+# Updated: 2026-11-03T23:30:37.595Z
+# Configs: 354
 # Source: https://t.me/ConfigsHUB
 
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#[🏁]t.me/ConfigsHub
+vless://69ac162b-1643-4acb-9f49-09d8b0fad609@57.131.21.102:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#[🇮🇹]t.me/ConfigsHub
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?flow=xtls-rprx-vision&fp=ios&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#[🏁]t.me/ConfigsHub
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.168:443?&security=reality&flow=xtls-rprx-vision&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&fp=ios&sni=yahoo.com&type=tcp&headerType=none&host=yahoo.com&path=%2F#[🏁]t.me/ConfigsHub
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.168:443?&security=reality&flow=xtls-rprx-vision&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&fp=ios&sni=yahoo.com&type=tcp&headerType=none&host=yahoo.com&path=%2F#[🏁]t.me/ConfigsHub
 vless://ad3f4a0a-a89f-498e-9869-a93c8fa185b1@91.107.179.0:10105?security=reality&encryption=none&pbk=PFC3JN1er1JE2vAemwRhNjewz8I4NUWP4XHf2Dza4Es&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=12e321badd07906e#[🇩🇪]t.me/ConfigsHub
@@ -354,9 +357,3 @@ vless://716e8dc0-859b-4a2e-b8cb-e180b7b302d0@104.16.0.36:2053?encryption=none&se
 vless://716e8dc0-859b-4a2e-b8cb-e180b7b302d0@104.16.0.36:2053?encryption=none&security=tls&sni=vexpanel-dcd001fcab.pages.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=vexpanel-dcd001fcab.pages.dev&path=%2Fws%2F716e8dc0859b4a2e&ech=iranva.ir%2Budp%3A%2F%2F1.1.1.1#[🇨🇦]t.me/ConfigsHub
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.19:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#[🏁]t.me/ConfigsHub
 trojan://716e8dc0-859b-4a2e-b8cb-e180b7b302d0@104.16.1.239:2053?security=tls&sni=vexpanel-dcd001fcab.pages.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=vexpanel-dcd001fcab.pages.dev&path=%2Ftj&ech=iranva.ir%2Budp%3A%2F%2F1.1.1.1#[🇨🇦]t.me/ConfigsHub
-trojan://716e8dc0-859b-4a2e-b8cb-e180b7b302d0@104.16.1.239:2053?security=tls&sni=vexpanel-dcd001fcab.pages.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=vexpanel-dcd001fcab.pages.dev&path=%2Ftj&ech=iranva.ir%2Budp%3A%2F%2F1.1.1.1#[🇨🇦]t.me/ConfigsHub
-vless://d342d11e-d224-4463-b982-532309285094@188.164.248.216:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=ccc.010304.xyz#[🏁]t.me/ConfigsHub
-vless://716e8dc0-859b-4a2e-b8cb-e180b7b302d0@104.16.1.239:443?encryption=none&security=tls&sni=vexpanel-dcd001fcab.pages.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=vexpanel-dcd001fcab.pages.dev&path=%2Fws%2F716e8dc0859b4a2e&ech=iranva.ir%2Budp%3A%2F%2F1.1.1.1#[🇨🇦]t.me/ConfigsHub
-vless://716e8dc0-859b-4a2e-b8cb-e180b7b302d0@104.16.1.239:443?encryption=none&security=tls&sni=vexpanel-dcd001fcab.pages.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=vexpanel-dcd001fcab.pages.dev&path=%2Fws%2F716e8dc0859b4a2e&ech=iranva.ir%2Budp%3A%2F%2F1.1.1.1#[🇨🇦]t.me/ConfigsHub
-vless://32413dda-504c-4906-b732-8ecaff901179@172.233.43.5:443?encryption=none&security=tls&sni=hiweb.my.id&fp=firefox&type=tcp&headerType=none#[🏁]t.me/ConfigsHub
-trojan://716e8dc0-859b-4a2e-b8cb-e180b7b302d0@104.16.1.183:443?security=tls&sni=vexpanel-dcd001fcab.pages.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=vexpanel-dcd001fcab.pages.dev&path=%2Ftj&ech=iranva.ir%2Budp%3A%2F%2F1.1.1.1#[🇨🇦]t.me/ConfigsHub

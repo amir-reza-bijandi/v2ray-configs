@@ -1,6 +1,6 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-11-03T15:00:45.286Z
-# Configs: 344
+# Updated: 2026-11-03T15:30:35.169Z
+# Configs: 342
 # Source: https://t.me/ConfigsHUB
 
 vless://9047219a-470f-4a3f-b319-1178ae1a3c87@www.speedtest.net:2053?encryption=none&type=ws&host=floral-grass-aa1e.dianawpewpek1.workers.dev&path=/?ed%3D2048&security=tls&fp=chrome&sni=floral-grass-aa1e.dianawpewpek1.workers.dev&alpn=http/1.1#[🇨🇦]t.me/ConfigsHub
@@ -345,5 +345,3 @@ ss://Y2hhY2hhMjAtcG9seTEzMDU6b1pJb0E2OVE4eWhjUVY4a2EzUGEzQQ%3D%3D@82.38.31.167:8
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@ca001.zestapp778.com:32355?sni=ca001.zestapp778.com&fp=chrome&security=tls#[🇨🇦]t.me/ConfigsHub
 vless://5f11c240-89df-494c-9c81-8b619023bb58@104.21.13.229:443?security=tls&encryption=none&insecure=0&host=789156.xyz&type=ws&allowInsecure=0&sni=789156.xyz#[🇨🇦]t.me/ConfigsHub
 vless://990bf436-f1b9-4e7f-857d-14378acc4ae5@support.zoom.us:8080?encryption=none&type=ws&security=none&host=Free.nadun.store&path=%2F#[🏁]t.me/ConfigsHub
-vless://20b98028-53c9-4f76-9bc9-b6b16b8a9152@#[🇩🇪]t.me/ConfigsHub
-trojan://MiTiVPN@199.232.78.101:443?path=%2F--TELEGRAM--TOOTFFARANGI&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#[🏁]t.me/ConfigsHub

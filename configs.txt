@@ -1,8 +1,9 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-11-03T23:30:37.595Z
-# Configs: 354
+# Updated: 2026-11-03T23:53:45.351Z
+# Configs: 353
 # Source: https://t.me/ConfigsHUB
 
+vless://a9160eba-23cd-407d-8cb3-39a2bc43148c@45.130.125.69:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&allowinsecure=1&type=grpc&serviceName=sharghdaily.com.tasnimnews.com.yjc.ir.entekhab.ir.tasnimnews.com.isna.ir.entekhab.ir&sni=sHort-aCtIon40S8o1J3v9.SaMSUNgOVEnS.Ir#[🇸🇨]t.me/ConfigsHub
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#[🏁]t.me/ConfigsHub
 vless://69ac162b-1643-4acb-9f49-09d8b0fad609@57.131.21.102:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#[🇮🇹]t.me/ConfigsHub
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?flow=xtls-rprx-vision&fp=ios&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#[🏁]t.me/ConfigsHub
@@ -355,5 +356,3 @@ vless://d342d11e-d224-4463-b982-532309285094@172.66.0.162:443?path=%2F%3FTelegra
 vless://6c713691-3ca2-4446-ad25-113d1bed6b03@78.17.178.117:443?security=tls&encryption=none&insecure=0&type=grpc&serviceName=%2Fgrpc&allowInsecure=0&sni=mediatract.com#[🇩🇪]t.me/ConfigsHub
 vless://716e8dc0-859b-4a2e-b8cb-e180b7b302d0@104.16.0.36:2053?encryption=none&security=tls&sni=vexpanel-dcd001fcab.pages.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=vexpanel-dcd001fcab.pages.dev&path=%2Fws%2F716e8dc0859b4a2e&ech=iranva.ir%2Budp%3A%2F%2F1.1.1.1#[🇨🇦]t.me/ConfigsHub
 vless://716e8dc0-859b-4a2e-b8cb-e180b7b302d0@104.16.0.36:2053?encryption=none&security=tls&sni=vexpanel-dcd001fcab.pages.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=vexpanel-dcd001fcab.pages.dev&path=%2Fws%2F716e8dc0859b4a2e&ech=iranva.ir%2Budp%3A%2F%2F1.1.1.1#[🇨🇦]t.me/ConfigsHub
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.19:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#[🏁]t.me/ConfigsHub
-trojan://716e8dc0-859b-4a2e-b8cb-e180b7b302d0@104.16.1.239:2053?security=tls&sni=vexpanel-dcd001fcab.pages.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=vexpanel-dcd001fcab.pages.dev&path=%2Ftj&ech=iranva.ir%2Budp%3A%2F%2F1.1.1.1#[🇨🇦]t.me/ConfigsHub

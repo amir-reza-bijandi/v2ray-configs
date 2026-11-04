@@ -1,8 +1,11 @@
 # V2Ray / Xray Subscription
-# Updated: 2026-11-04T04:00:39.454Z
-# Configs: 356
+# Updated: 2026-11-04T04:30:30.478Z
+# Configs: 355
 # Source: https://t.me/ConfigsHUB
 
+vless://1e06c388-d31c-420e-916a-94a990648e34@mx.bexumconnect.ltd:443?security=tls&encryption=none&insecure=0&headerType=none&fp=qq&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=mx.bexumconnect.ltd#[🇩🇪]t.me/ConfigsHub
+vless://bdaf42dd-f75b-4594-d5f8-51c0feeb8406@k2.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.66:8080#[🏁]t.me/ConfigsHub
 trojan://9646699a-18b0-4ebc-9f53-453cc1c8e637@43.167.186.78:8443?security=tls&sni=43.167.186.78#[🇯🇵]t.me/ConfigsHub
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.81:443?security=tls&sni=courses.searchnationwidecareerchangehelperandguidancetoday.com#[🏁]t.me/ConfigsHub
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.159.247.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime59.workers.dev&packetEncoding=xudp&sni=vms.lifetime59.workers.dev#[🇪🇪]t.me/ConfigsHub
@@ -355,7 +358,3 @@ vless://716e8dc0-859b-4a2e-b8cb-e180b7b302d0@104.16.0.36:443?encryption=none&sec
 vless://49996e29-93c5-4975-b56f-792acbbf3444@156.154.245.84:443?path=%2Fjx-yjkteysq815pzp&security=tls&encryption=none&insecure=0&host=jyfrj1cims.dev.onappjet.com&type=ws&allowInsecure=0#[🇷🇦]t.me/ConfigsHub
 trojan://716e8dc0-859b-4a2e-b8cb-e180b7b302d0@104.16.0.36:443?security=tls&sni=vexpanel-dcd001fcab.pages.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=vexpanel-dcd001fcab.pages.dev&path=%2Ftj&ech=iranva.ir%2Budp%3A%2F%2F1.1.1.1#[🇨🇦]t.me/ConfigsHub
 vless://49996e29-93c5-4975-b56f-792acbbf3444@154.29.154.239:443?path=%2Fjx-yjkteysq815pzp&security=tls&encryption=none&insecure=0&host=jyfrj1cims.dev.onappjet.com&type=ws&allowInsecure=0#[🏁]t.me/ConfigsHub
-vless://49996e29-93c5-4975-b56f-792acbbf3444@20.174.15.226:443?path=%2Fjx-yjkteysq815pzp&security=tls&encryption=none&insecure=0&host=jyfrj1cims.dev.onappjet.com&type=ws&allowInsecure=0#[🇷🇦]t.me/ConfigsHub
-vless://49996e29-93c5-4975-b56f-792acbbf3444@130.17.4.76:443?path=%2Fjx-yjkteysq815pzp&security=tls&encryption=none&insecure=0&host=jyfrj1cims.dev.onappjet.com&type=ws&allowInsecure=0#[🇩🇪]t.me/ConfigsHub
-trojan://humanity@104.20.55.137:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com#[🇨🇦]t.me/ConfigsHub
-vless://49996e29-93c5-4975-b56f-792acbbf3444@5.187.7.220:443?path=%2Fjx-yjkteysq815pzp&security=tls&encryption=none&insecure=0&host=jyfrj1cims.dev.onappjet.com&type=ws&allowInsecure=0#[🇩🇪]t.me/ConfigsHub
